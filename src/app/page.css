@@ -11,4 +11,14 @@ main{
     border: 12px solid var(--color-button-secondary);
     color: var(--color-button-secondary);
   }
+  & .icon_settings{
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  & .icon_info{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
 }
