@@ -1,24 +1,48 @@
 main{
+  background-color: var(--color-button-primary);
   display: grid;
   place-items: center;
   height: 100vh;
+  & .section-menu{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
   & button{
-    cursor: url("https://www.svgrepo.com/show/391877/hand-up.svg"), auto;
-    background-color: var(--color-button-primary);
-    font-size: 6rem;
+    user-select: none;
+    cursor: pointer;
+    background-color: var(--color-button-secondary);
+    font-size: clamp(5vw, 2rem, 6rem);
     padding: 1.5rem 4rem;
     border-radius: 1rem;
     border: 12px solid var(--color-button-secondary);
-    color: var(--color-button-secondary);
+    color: var(--color-button-primary);
+    transition: transform .3s ease;
   }
-  & .icon_settings{
+  & button:hover{
+    transition: transform .5s ease;
+    transform: scale(1.05);
+  }
+  & .button-option{
+    color: var(--color-button-secondary);
+    border: 12px solid var(--color-button-secondary);
+    background-color: var(--color-button-primary);
+  }
+  & .icon_sound{
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 2rem;
+    right: 2rem;
   }
   & .icon_info{
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: 2rem;
+    right: 2rem;
   }
+  
 }

@@ -5,6 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  icons: './iconLogo.svg',
   title: 'Trivialidad',
   description: 'Pagina donde encontraras miles de preguntas en español e ingles',
 }

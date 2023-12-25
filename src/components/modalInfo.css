@@ -1,0 +1,16 @@
+.section-info{
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  inset: 0 ;
+  display: grid;
+  place-items: center;
+
+  & article{
+    width: 800px;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: var(--color-button-secondary);
+    color: var(--color-button-primary);
+  }
+}
