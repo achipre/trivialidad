@@ -1,0 +1,180 @@
+
+[ 
+  {"questions":
+    [{
+      "questionES": "¿Quién fue el primer monarca Tudor?",
+      "questionEN": "Who was the first Tudor monarch?",
+      "options": {
+        "optionOneES": "Eduardo VI",
+        "optionOneEN": "Eduardo VI",
+        "optionTwoES": "Ricardo III",
+        "optionTwoEN": "Ricardo III",
+        "optionThreeES": "Henry VIII",
+        "optionThreeEN": "Henry VIII",
+        "optionFourES": "Henry VII",
+        "optionFourEN": "Henry VII"
+      },
+      "tag": "history",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Cuál de las siguientes opciones es un ejemplo de un lenguaje de programación de bajo nivel?",
+      "questionEN": "Which of the following options is an example of a low-level programming language?",
+      "options": {
+        "optionOneES": "Python",
+        "optionOneEN": "Python",
+        "optionTwoES": "Assembly",
+        "optionTwoEN": "Assembly",
+        "optionThreeES": "Java",
+        "optionThreeEN": "Java",
+        "optionFourES": "Ruby",
+        "optionFourEN": "Ruby"
+      },
+      "tag": "programming",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Dónde se produce la bilis?",
+      "questionEN": "Where is bile produced?",
+      "options": {
+        "optionOneES": "Pancreas",
+        "optionOneEN": "Pancreas",
+        "optionTwoES": "Higado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Estomago",
+        "optionThreeEN": "Stomach",
+        "optionFourES": "Cerebro",
+        "optionFourEN": "Cerebro"
+      },
+      "tag": "science&technology",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿En qué ciudad nació William Shakespeare?",
+      "questionEN": "In which town was William Shakespeare born?",
+      "options": {
+        "optionOneES": "Stratford-upon-Avon",
+        "optionOneEN": "Stratford-upon-Avon",
+        "optionTwoES": "Winchester",
+        "optionTwoEN": "Winchester",
+        "optionThreeES": "Newcastle",
+        "optionThreeEN": "Newcastle",
+        "optionFourES": "Southampton",
+        "optionFourEN": "Southampton"
+      },
+      "tag": "art&literature",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Cuál de las siguientes NO es un tipo de roca:",
+      "questionEN": "Which of the following is NOT a type of rock:",
+      "options": {
+        "optionOneES": "Ígnea?",
+        "optionOneEN": "Ígnea?",
+        "optionTwoES": "Ígneomorfica?",
+        "optionTwoEN": "Ígneomorphic?",
+        "optionThreeES": "Sedimentaria?",
+        "optionThreeEN": "Sedimentary?",
+        "optionFourES": "Metamórfica?",
+        "optionFourEN": "Metamorphic?"
+      },
+      "tag": "geography",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Cuántas cuerdas tiene un violín?",
+      "questionEN": "How many strings does a violin have?",
+      "options": {
+        "optionOneES": "Tres",
+        "optionOneEN": "Three",
+        "optionTwoES": "Cuatro",
+        "optionTwoEN": "Four",
+        "optionThreeES": "Cinco",
+        "optionThreeEN": "Five",
+        "optionFourES": "Seis",
+        "optionFourEN": "Six"
+      },
+      "tag": "music",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Cuál es el mamífero más oloroso:",
+      "questionEN": "Which of these is the smelliest mammal:",
+      "options": {
+        "optionOneES": "buey almizclero?",
+        "optionOneEN": "musk ox?",
+        "optionTwoES": "mapache?",
+        "optionTwoEN": "raccon?",
+        "optionThreeES": "mofeta?",
+        "optionThreeEN": "skunk?",
+        "optionFourES": "zarigüeya?",
+        "optionFourEN": "possum?"
+      },
+      "tag": "nature",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Dónde se celebró la Copa 1994?",
+      "questionEN": "Where was the 1994 World Cup held?",
+      "options": {
+        "optionOneES": "Mexico",
+        "optionOneEN": "Mexico",
+        "optionTwoES": "EE. UU.",
+        "optionTwoEN": "USA",
+        "optionThreeES": "Brasil",
+        "optionThreeEN": "Brazil",
+        "optionFourES": "Francia",
+        "optionFourEN": "France"
+      },
+      "tag": "sports&leisure",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "La primera mención escrita de la pasta seca se remonta a viajeros árabes de ¿qué siglo?",
+      "questionEN": "The first written record of dry pasta can be traced to Arab travelers from which century?",
+      "options": {
+        "optionOneES": "Siglo V",
+        "optionOneEN": "5th century",
+        "optionTwoES": "Siglo VIII",
+        "optionTwoEN": "8th century",
+        "optionThreeES": "Siglo XI",
+        "optionThreeEN": "11th century",
+        "optionFourES": "Siglo II",
+        "optionFourEN": "2th century"
+      },
+      "tag": "food&drink",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "Cómo se llama el vaquero héroe de Toy Story?",
+      "questionEN": "What is the name of the cowboy hero in Toy Story?",
+      "options": {
+        "optionOneES": "Buzz Lightyear",
+        "optionOneEN": "Buzz Lightyear",
+        "optionTwoES": "Slinky",
+        "optionTwoEN": "Slinky",
+        "optionThreeES": "Woody",
+        "optionThreeEN": "Woody",
+        "optionFourES": "Hamm",
+        "optionFourEN": "Hamm"
+      },
+      "tag": "film&TV",
+      "dificulty": "easy"
+    },
+    {
+      "questionES": "¿Cuántos huesos tiene un cráneo adulto?",
+      "questionEN": "How many bones are there in an adult skull?",
+      "options": {
+        "optionOneES": "20",
+        "optionOneEN": "20",
+        "optionTwoES": "22",
+        "optionTwoEN": "22",
+        "optionThreeES": "26",
+        "optionThreeEN": "26",
+        "optionFourES": "18",
+        "optionFourEN": "18"
+      },
+      "tag": "miscelanius",
+      "dificulty": "easy"
+    }]}   
+]

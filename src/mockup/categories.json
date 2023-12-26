@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Historia"
+  },
+  {
+    "id": 2,
+    "name": "Programación"
+  },
+  {
+    "id": 3,
+    "name": "Ciencia y Tecnologia"
+  },
+  {
+    "id": 4,
+    "name": "Arte y Literatura"
+  },
+  {
+    "id": 5,
+    "name": "Geografía"
+  },
+  {
+    "id": 6,
+    "name": "Música"
+  },
+  {
+    "id": 7,
+    "name": "Naturaleza"
+  },
+  {
+    "id": 8,
+    "name": "Deporte y Ocio"
+  },
+  {
+    "id": 9,
+    "name": "Comida y Bebida"
+  },
+  {
+    "id": 10,
+    "name": "Película y Series"
+  },
+  {
+    "id": 11,
+    "name": "Miscélanea"
+  }
+]

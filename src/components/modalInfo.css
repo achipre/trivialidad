@@ -7,10 +7,54 @@
   place-items: center;
 
   & article{
+    user-select: none;
+    position: relative;
+    cursor: default;
     width: 800px;
-    padding: 1rem;
+    padding: 3rem;
+    padding-top: 2rem;
     border-radius: 1rem;
     background-color: var(--color-button-secondary);
     color: var(--color-button-primary);
+    animation: anima-modal .3s both ease-in-out ;
   }
+  & h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+  }
+  & hr {
+    margin-top: 1.5rem;
+    margin-bottom: 3.5rem;
+    border-color: var(--color-button-primary);
+  }
+  & hr:nth-child(2) {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  & p {
+    font-size: 1.8rem;
+  }
+  & .aboutGame{
+    text-wrap: balance;
+    text-align: center;
+    font-size: 2.4rem;
+  }
+  & .socials{
+    position: absolute;
+    right: 3rem;
+    bottom: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    & .instagram, .twitter, .linkedin{
+      cursor: pointer;
+      width: 50px;
+      height: 50px;
+    }
+  }
+}
+@keyframes anima-modal {
+  0%{transform: scale(.5)}
+  75%{transform: scale(1.1)}
+  100%{transform: scale(1)}
 }
