@@ -38,6 +38,9 @@
     & span {
       text-align: center;
     }
+    & svg {
+      cursor: pointer;
+    }
 
   }
   & .subtitleOptiones{
@@ -48,15 +51,16 @@
   & .categories{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: .5rem 3rem;
-    margin-bottom: 1.5rem;
+    gap: .5rem 2rem;
+    margin-bottom: 2rem;
     
     & label {
       display: flex;
       font-size: 2rem;
       justify-content: space-between;
-      & input {
-        margin-left: 2rem;
+      & svg {
+        cursor: pointer;
+        margin-left: 1rem;
       }
     }
   }
@@ -72,6 +76,8 @@
     background-color: var(--color-button-secondary);
     color: var(--color-button-primary);
     padding: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
     
   }
   & .button-aceptar{
@@ -81,6 +87,8 @@
     background-color: var(--color-button-primary);
     color: var(--color-button-secondary);
     padding: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 
   }
 }

@@ -1,24 +1,33 @@
-import { useState } from "react";
+// import { useState } from "react";
 import { Passion_One } from "next/font/google";
 import { ericaOne } from '@/app/page'
 import IconArrowRight from "./IconArrowRight";
 import IconArrowLeft from "./IconArrowLeft";
 import IconCheck from "./IconCheck";
 import './modalOpciones.css'
-import mockup from '@/mockup/categories.json'
+import mockupCategories from '@/mockup/categories.json'
+import React, { useState } from "react";
 
 const passionOne = Passion_One({weight: '700', subsets: ['latin']})
-export default function ModalInfo({handleModalOptions}) {
+export default function ModalInfo({handleModalOptions, audioClick, language, handleLanguage, handlePlusVolume, handleLessVolume, volume}) {
+  // cancelar cerrar el click
   const handleClick = (e) => {
     e.stopPropagation()
   }
-  // Miscelaneo
-  const [isCheckMiscelanea, setIsCheckMiscelanea] = useState(true)
-  const handleCheckMiscelanea = () => {
-    setIsCheckMiscelanea(!isCheckMiscelanea)
-  }
-  console.log(mockup);
 
+  // Format Volumen
+  const formatVolume = Math.round(volume * 100) + "%"
+
+  // Categories
+  const [categories, setCategories] = useState(mockupCategories)
+  const handleEvent = (id) => {
+    audioClick.play()
+    audioClick.volume = 0.5
+    const newCategories = categories.map(category => category.id === id ? {...category, isSelect: !category.isSelect} : {...category})
+    setCategories(newCategories)
+  }
+
+  
   return (
     <section className='section-option' onClick={handleModalOptions}>
       <article onClick={handleClick} className={ericaOne.className}>
@@ -27,40 +36,36 @@ export default function ModalInfo({handleModalOptions}) {
 
         <div className={`${passionOne.className} optionLanguage`}>
           <p>Idioma:</p>
-          <IconArrowLeft /><span>ESPAÑOL</span><IconArrowRight />
+          <IconArrowLeft handleLeft={handleLanguage} />
+            <span>{language ? 'ESPAÑOL' : 'ENGLISH'}</span>
+          <IconArrowRight handleRight={handleLanguage} />
         </div>
 
         <div className={`${passionOne.className} optionVolumen`}>
           <p>Volumen:</p>
-          <IconArrowLeft /><span>100%</span><IconArrowRight />
+          <IconArrowLeft handleLeft={handleLessVolume} />
+          <span>{formatVolume}</span>
+          <IconArrowRight handleRight={handlePlusVolume} />
+        </div>
+        <div className={`${passionOne.className} optionVolumen`}>
+          <p>Dificultad:</p>
+          <IconArrowLeft  />
+          <span>Facil</span>
+          <IconArrowRight />
         </div>
 
         <hr />
         <p className="subtitleOptiones">Categorias</p>
         <div className="categories">
-          {mockup.map(cate => (
-            <label key={cate.id} className={`${passionOne.className}`}>{cate.name}
-              <input type="checkbox" checked={isCheckMiscelanea} hidden />
-              <IconCheck handleCheckMiscelanea={handleCheckMiscelanea} isCheckMiscelanea={isCheckMiscelanea} />
-            </label>)
-            )
-          }
-          {/* <label className={`${passionOne.className}`}>Miscélanea<input type="checkbox" checked={isCheckMiscelanea} hidden /><IconCheck handleCheckMiscelanea={handleCheckMiscelanea} isCheckMiscelanea={isCheckMiscelanea} /></label>
-
-          <label className={`${passionOne.className}`}>Programación<input type="checkbox" checked={isCheckProgramacion} hidden /><IconCheck handleCheckProgramacion={handleCheckProgramacion} isCheckProgramacion={isCheckProgramacion} /></label>
-
-          <label className={`${passionOne.className}`}>Historia<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Ciencia y Tecnología<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Arte y Literatura<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Geografía<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Música<input type="checkbox" /></label>
-          <label className={`${passionOne.className}`}>Naturaleza<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Deporte y Ocio<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Alimentos y bebidas<input type="checkbox" checked={isCheckMiscelanea} hidden /></label>
-          <label className={`${passionOne.className}`}>Peliculas y Series<input type="checkbox" checked={isCheckMiscelanea} hidden /></label> */}
+        {categories.map(categorie => (
+          <label key={categorie.id} onClick={() => handleEvent(categorie.id)} className={`${passionOne.className}`}>{categorie.name}
+            <IconCheck isCheck={categorie.isSelect} handleEvent={() => handleEvent(categorie.id)} />
+          </label>)
+          )
+        }
         </div>
         <div className="section-button">
-          <button className={`${ericaOne.className} button-cancelar`}>CANCELAR</button>
+          <button onClick={handleModalOptions} className={`${ericaOne.className} button-cancelar`}>CANCELAR</button>
           <button className={`${ericaOne.className} button-aceptar`}>ACEPTAR</button>
         </div>
       </ article>

@@ -1,46 +1,57 @@
 [
   {
     "id": 1,
-    "name": "Historia"
+    "name": "Historia",
+    "isSelect": true
   },
   {
     "id": 2,
-    "name": "Programación"
+    "name": "Programación",
+    "isSelect": true
   },
   {
     "id": 3,
-    "name": "Ciencia y Tecnologia"
+    "name": "Ciencia y Tecnologia",
+    "isSelect": true
   },
   {
     "id": 4,
-    "name": "Arte y Literatura"
+    "name": "Arte y Literatura",
+    "isSelect": true
   },
   {
     "id": 5,
-    "name": "Geografía"
+    "name": "Geografía",
+    "isSelect": true
   },
   {
     "id": 6,
-    "name": "Música"
+    "name": "Música",
+    "isSelect": true
   },
   {
     "id": 7,
-    "name": "Naturaleza"
+    "name": "Naturaleza",
+    "isSelect": true
   },
   {
     "id": 8,
-    "name": "Deporte y Ocio"
+    "name": "Deporte y Ocio",
+    "isSelect": true
   },
   {
     "id": 9,
-    "name": "Comida y Bebida"
+    "name": "Comida y Bebida",
+    "isSelect": true
   },
   {
     "id": 10,
-    "name": "Película y Series"
+    "name": "Película y Series",
+    "isSelect": true
   },
   {
     "id": 11,
-    "name": "Miscélanea"
+    "name": "Miscélanea",
+    "isSelect": true
   }
 ]
