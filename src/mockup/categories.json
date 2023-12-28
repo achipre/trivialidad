@@ -1,57 +1,68 @@
 [
   {
     "id": 1,
-    "name": "Historia",
+    "categoryES": "Historia",
+    "categoryEN": "History",
     "isSelect": true
   },
   {
     "id": 2,
-    "name": "Programación",
+    "categoryES": "Programación",
+    "categoryEN": "Programming",
     "isSelect": true
   },
   {
     "id": 3,
-    "name": "Ciencia y Tecnologia",
+    "categoryES": "Ciencia y Tecnologia",
+    "categoryEN": "Science & Technology",
     "isSelect": true
   },
   {
     "id": 4,
-    "name": "Arte y Literatura",
+    "categoryES": "Arte y Literatura",
+    "categoryEN": "Art & Literature",
     "isSelect": true
   },
   {
     "id": 5,
-    "name": "Geografía",
+    "categoryES": "Geografía",
+    "categoryEN": "Geography",
     "isSelect": true
   },
   {
     "id": 6,
-    "name": "Música",
+    "categoryES": "Música",
+    "categoryEN": "Music",
     "isSelect": true
   },
   {
     "id": 7,
-    "name": "Naturaleza",
+    "categoryES": "Naturaleza",
+    "categoryEN": "The Natural World",
     "isSelect": true
   },
   {
     "id": 8,
-    "name": "Deporte y Ocio",
+    "categoryES": "Deporte y Ocio",
+    "categoryEN": "Sports & Leisure",
     "isSelect": true
   },
   {
     "id": 9,
-    "name": "Comida y Bebida",
+    "categoryES": "Comida y Bebida",
+    "categoryEN": "Food & Drink",
     "isSelect": true
   },
   {
     "id": 10,
-    "name": "Película y Series",
+    "categoryES": "Película y Series",
+    "categoryEN": "Film & TV",
     "isSelect": true
   },
   {
     "id": 11,
-    "name": "Miscélanea",
+    "categoryES": "Miscélanea",
+    "categoryEN": "Miscellaneous",
     "isSelect": true
   }
 ]

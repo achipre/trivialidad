@@ -4,22 +4,22 @@ import "./modalInfo.css";
 
 const coda = Passion_One({ weight: "700", subsets: ["latin"] });
 
-export default function ModalInfo({ handleModalInfo }) {
+export default function ModalInfo({ handleModalInfo, language }) {
   const handleClick = (e) => {
     e.stopPropagation();
   };
   return (
     <section className="section-info" onClick={handleModalInfo}>
       <article onClick={handleClick} className={ericaOne.className}>
-        <h2 className="titleInfo">INFORMACION</h2>
+        <h2 className="titleInfo">{language ? 'INFORMACION' : 'INFORMATION'}</h2>
         <hr />
         <p className={`${coda.className} aboutGame`}>
-          Trivialida es un juegos sobre preguntas y respuestas de cultura
-          general
+          {language ? 'Trivialida es un juegos sobre preguntas y respuestas de cultura general.' : 
+          'Trivia is a game about general culture questions and answers.'}
         </p>
         <br />
-        <p className={`${coda.className}`}>Creado por: Alex Chipre</p>
-        <p className={`${coda.className}`}>Música por: Bobby Cole</p>
+        <p className={`${coda.className}`}>{language ?'Creado por:' : 'Created by:'} Alex Chipre</p>
+        <p className={`${coda.className}`}>{language ?'Música por:' : 'Music by:'} Bobby Cole</p>
         <hr />
         <div className="socials">
           <a href="https://instagram.com/chipredev" target="_blank">

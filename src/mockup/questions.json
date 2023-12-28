@@ -2,6 +2,7 @@
 [ 
   {"questions":
     [{
+      "id": "00001",
       "questionES": "¿Quién fue el primer monarca Tudor?",
       "questionEN": "Who was the first Tudor monarch?",
       "options": {
@@ -11,13 +12,342 @@
         "optionTwoEN": "Ricardo III",
         "optionThreeES": "Henry VIII",
         "optionThreeEN": "Henry VIII",
-        "optionFourES": "Henry VII",
-        "optionFourEN": "Henry VII"
+        "answerdES": "Henry VII",
+        "answerdEN": "Henry VII"
       },
-      "tag": "history",
-      "dificulty": "easy"
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "00002",
+      "questionES": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "questionEN": "In what year was the Declaration of Independence of the United States signed?",
+      "options": {
+        "answerdES": "1776",
+        "answerdEN": "1776",
+        "optionTwoES": "1789",
+        "optionTwoEN": "1789",
+        "optionThreeES": "1792",
+        "optionThreeEN": "1792",
+        "optionOneES": "1804",
+        "optionOneEN": "1804"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00003",
+      "questionES": "¿Cuál fue la capital del Imperio Romano?",
+      "questionEN": "What was the capital of the Roman Empire?",
+      "options": {
+        "optionOneES": "Atenas",
+        "optionOneEN": "Athens",
+        "answerdES": "Roma",
+        "answerdEN": "Rome",
+        "optionTwoES": "Cartago",
+        "optionTwoEN": "Carthage",
+        "optionThreeES": "Constantinopla",
+        "optionThreeEN": "Constantinople"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00004",
+      "questionES": "¿Quién fue el líder de la Revolución Rusa en 1917?",
+      "questionEN": "Who was the leader of the Russian Revolution in 1917?",
+      "options": {
+        "answerdES": "Vladimir Lenin",
+        "answerdEN": "Vladimir Lenin",
+        "optionOneES": "Joseph Stalin",
+        "optionOneEN": "Joseph Stalin",
+        "optionTwoES": "Leon Trotsky",
+        "optionTwoEN": "Leon Trotsky",
+        "optionThreeES": "Mikhail Gorbachev",
+        "optionThreeEN": "Mikhail Gorbachev"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00005",
+      "questionES": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "questionEN": "In what year did World War I begin?",
+      "options": {
+        "answerdES": "1914",
+        "answerdEN": "1914",
+        "optionOneES": "1917",
+        "optionOneEN": "1917",
+        "optionTwoES": "1920",
+        "optionTwoEN": "1920",
+        "optionThreeES": "1939",
+        "optionThreeEN": "1939"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00006",
+      "questionES": "¿Cuál fue la dinastía gobernante en China durante la construcción de la Gran Muralla?",
+      "questionEN": "Which dynasty ruled China during the construction of the Great Wall?",
+      "options": {
+        "answerdES": "Ming",
+        "answerdEN": "Ming",
+        "optionOneES": "Qing",
+        "optionOneEN": "Qing",
+        "optionTwoES": "Han",
+        "optionTwoEN": "Han",
+        "optionThreeES": "Tang",
+        "optionThreeEN": "Tang"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00007",
+      "questionES": "¿Quién fue el primer emperador de China, conocido por unificar el país en el año 221 a.C.?",
+      "questionEN": "Who was the first Emperor of China, known for unifying the country in 221 BCE?",
+      "options": {
+        "optionOneES": "Sun Tzu",
+        "optionOneEN": "Sun Tzu",
+        "optionTwoES": "Confucio",
+        "optionTwoEN": "Confucio",
+        "answerdES": "Qin Shi Huang",
+        "answerdEN": "Qin Shi Huang",
+        "optionThreeES": "Emperador Wu",
+        "optionThreeEN": "Emperador Wu"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00008",
+      "questionES": "¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?",
+      "questionEN": "In what year was the Treaty of Versailles signed, ending World War I?",
+      "options": {
+        "optionOneES": "1918",
+        "optionOneEN": "1918",
+        "optionTwoES": "1920",
+        "optionTwoEN": "1920",
+        "optionThreeES": "1917",
+        "optionThreeEN": "1917",
+        "answerdES": "1919",
+        "answerdEN": "1919"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00009",
+      "questionES": "¿Quién fue el presidente de Estados Unidos durante la Guerra Civil estadounidense?",
+      "questionEN": "Who was the President of the United States during the American Civil War?",
+      "options": {
+        "optionOneES": "Andrew Jackson",
+        "optionOneEN": "Andrew Jackson",
+        "answerdES": "Abraham Lincoln",
+        "answerdEN": "Abraham Lincoln",
+        "optionTwoES": "Ulysses S. Grant",
+        "optionTwoEN": "Ulysses S. Grant",
+        "optionThreeES": "Franklin D. Roosevelt",
+        "optionThreeEN": "Franklin D. Roosevelt"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00010",
+      "questionES": "¿En qué año se llevó a cabo la Revolución Industrial en Inglaterra?",
+      "questionEN": "In what year did the Industrial Revolution take place in England?",
+      "options": {
+        "optionOneES": "1700",
+        "optionOneEN": "1700",
+        "optionTwoES": "1750",
+        "optionTwoEN": "1750",
+        "answerdES": "1800",
+        "answerdEN": "1800",
+        "optionThreeES": "1850",
+        "optionThreeEN": "1850"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "00301",
+      "questionES": "¿En qué año se proclamó la independencia de India?",
+      "questionEN": "In what year was the independence of India proclaimed?",
+      "options": {
+        "optionOneES": "1942",
+        "optionOneEN": "1942",
+        "optionTwoES": "1945",
+        "optionTwoEN": "1945",
+        "answerdES": "1947",
+        "answerdEN": "1947",
+        "optionThreeES": "1952",
+        "optionThreeEN": "1952"
+      },
+        "categoryES": "Historia",
+        "categoryEN": "History",
+        "dificultyES": "Medio",
+        "dificultyEN": "Medium"
+    },
+    {
+      "id": "000302",
+      "questionES": "¿Cuál fue el período conocido como la Revolución Cultural en China?",
+      "questionEN": "What period is known as the Cultural Revolution in China?",
+      "options": {
+        "optionOneES": "1920s",
+        "optionOneEN": "1920s",
+        "optionTwoES": "1950s",
+        "optionTwoEN": "1950s",
+        "answerdES": "1960s",
+        "answerdEN": "1960s",
+        "optionThreeES": "1980s",
+        "optionThreeEN": "1980s"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "000303",
+      "questionES": "¿En qué año se inauguró el Canal de Panamá?",
+      "questionEN": "In what year was the Panama Canal inaugurated?",
+      "options": {
+        "optionOneES": "1916",
+        "optionOneEN": "1916",
+        "optionTwoES": "1912",
+        "optionTwoEN": "1912",
+        "answerdES": "1914",
+        "answerdEN": "1914",
+        "optionThreeES": "1910",
+        "optionThreeEN": "1910"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "000304",
+      "questionES": "¿Cuál fue la primera civilización en Mesopotamia?",
+      "questionEN": "What was the first civilization in Mesopotamia?",
+      "options": {
+        "answerdES": "Sumeria",
+        "answerdEN": "Sumeria",
+        "optionOneES": "Persa",
+        "optionOneEN": "Persian",
+        "optionTwoES": "Babilonia",
+        "optionTwoEN": "Babylon",
+        "optionThreeES": "Asiria",
+        "optionThreeEN": "Assyria"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "000305",
+      "questionES": "¿En qué año se llevó a cabo la Revolución Rusa?",
+      "questionEN": "In what year did the Russian Revolution take place?",
+      "options": {
+        "optionOneES": "1914",
+        "optionOneEN": "1914",
+        "optionTwoES": "1923",
+        "optionTwoEN": "1923",
+        "optionThreeES": "1920",
+        "optionThreeEN": "1920",
+        "answerdES": "1917",
+        "answerdEN": "1917"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "00306",
+      "questionES": "¿Cuál era el nombre original de la ciudad de Estambul?",
+      "questionEN": "What was the original name of the city of Istanbul?",
+      "options": {
+        "answerdES": "Constantinopla",
+        "answerdEN": "Constantinople",
+        "optionOneES": "Capadocia",
+        "optionOneEN": "Cappadocian",
+        "optionTwoES": "Peloponeso",
+        "optionTwoEN": "Peloponnese",
+        "optionThreeES": "Nicópolis",
+        "optionThreeEN": "Nicopolis"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "00307",
+      "questionES": "¿Cuál fue la principal causa de la Guerra de los Cien Años?",
+      "questionEN": "What was the main cause of the Hundred Years' War?",
+      "options": {
+        "optionOneES": "Disputa por la herencia de Aquitania",
+        "optionOneEN": "Dispute over the inheritance of Aquitaine",
+        "optionTwoES": "Conflicto religioso",
+        "optionTwoEN": "Religious conflict",
+        "answerdES": "Disputa por la herencia de Aquitania",
+        "answerdEN": "Dispute over the inheritance of Aquitaine",
+        "optionThreeES": "Poder territorial en Europa",
+        "optionThreeEN": "Territorial power in Europe"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    
+    {
+      "id": "01000",
       "questionES": "¿Cuál de las siguientes opciones es un ejemplo de un lenguaje de programación de bajo nivel?",
       "questionEN": "Which of the following options is an example of a low-level programming language?",
       "options": {
@@ -30,10 +360,13 @@
         "optionFourES": "Ruby",
         "optionFourEN": "Ruby"
       },
-      "tag": "programming",
-      "dificulty": "easy"
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "02000",
       "questionES": "¿Dónde se produce la bilis?",
       "questionEN": "Where is bile produced?",
       "options": {
@@ -46,10 +379,13 @@
         "optionFourES": "Cerebro",
         "optionFourEN": "Cerebro"
       },
-      "tag": "science&technology",
-      "dificulty": "easy"
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "03000",
       "questionES": "¿En qué ciudad nació William Shakespeare?",
       "questionEN": "In which town was William Shakespeare born?",
       "options": {
@@ -62,10 +398,13 @@
         "optionFourES": "Southampton",
         "optionFourEN": "Southampton"
       },
-      "tag": "art&literature",
-      "dificulty": "easy"
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "04000",
       "questionES": "¿Cuál de las siguientes NO es un tipo de roca:",
       "questionEN": "Which of the following is NOT a type of rock:",
       "options": {
@@ -78,10 +417,13 @@
         "optionFourES": "Metamórfica?",
         "optionFourEN": "Metamorphic?"
       },
-      "tag": "geography",
-      "dificulty": "easy"
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "05000",
       "questionES": "¿Cuántas cuerdas tiene un violín?",
       "questionEN": "How many strings does a violin have?",
       "options": {
@@ -94,10 +436,13 @@
         "optionFourES": "Seis",
         "optionFourEN": "Six"
       },
-      "tag": "music",
-      "dificulty": "easy"
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "06000",
       "questionES": "¿Cuál es el mamífero más oloroso:",
       "questionEN": "Which of these is the smelliest mammal:",
       "options": {
@@ -110,10 +455,13 @@
         "optionFourES": "zarigüeya?",
         "optionFourEN": "possum?"
       },
-      "tag": "nature",
-      "dificulty": "easy"
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "07000",
       "questionES": "¿Dónde se celebró la Copa 1994?",
       "questionEN": "Where was the 1994 World Cup held?",
       "options": {
@@ -126,10 +474,13 @@
         "optionFourES": "Francia",
         "optionFourEN": "France"
       },
-      "tag": "sports&leisure",
-      "dificulty": "easy"
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "08000",
       "questionES": "La primera mención escrita de la pasta seca se remonta a viajeros árabes de ¿qué siglo?",
       "questionEN": "The first written record of dry pasta can be traced to Arab travelers from which century?",
       "options": {
@@ -142,10 +493,13 @@
         "optionFourES": "Siglo II",
         "optionFourEN": "2th century"
       },
-      "tag": "food&drink",
-      "dificulty": "easy"
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "09000",
       "questionES": "Cómo se llama el vaquero héroe de Toy Story?",
       "questionEN": "What is the name of the cowboy hero in Toy Story?",
       "options": {
@@ -158,10 +512,13 @@
         "optionFourES": "Hamm",
         "optionFourEN": "Hamm"
       },
-      "tag": "film&TV",
-      "dificulty": "easy"
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     },
     {
+      "id": "10000",
       "questionES": "¿Cuántos huesos tiene un cráneo adulto?",
       "questionEN": "How many bones are there in an adult skull?",
       "options": {
@@ -174,7 +531,9 @@
         "optionFourES": "18",
         "optionFourEN": "18"
       },
-      "tag": "miscelanius",
-      "dificulty": "easy"
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
     }]}   
 ]

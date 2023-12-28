@@ -8,25 +8,38 @@ main{
     flex-direction: column;
     gap: 2rem;
   }
-  & button{
+  & a {
+    & button{
+      width: 100%;
+      user-select: none;
+      cursor: pointer;
+      background-color: var(--color-button-secondary);
+      font-size: clamp(5vw, 2rem, 6rem);
+      padding: 1.5rem 4rem;
+      border-radius: 1rem;
+      border: 12px solid var(--color-button-secondary);
+      color: var(--color-button-primary);
+      transition: transform .3s ease;
+    }
+    & button:hover{
+      transition: transform .5s ease;
+      transform: scale(1.05);
+    }
+  }
+  & .button-option{
     user-select: none;
     cursor: pointer;
-    background-color: var(--color-button-secondary);
     font-size: clamp(5vw, 2rem, 6rem);
     padding: 1.5rem 4rem;
     border-radius: 1rem;
-    border: 12px solid var(--color-button-secondary);
-    color: var(--color-button-primary);
     transition: transform .3s ease;
-  }
-  & button:hover{
-    transition: transform .5s ease;
-    transform: scale(1.05);
-  }
-  & .button-option{
     color: var(--color-button-secondary);
     border: 12px solid var(--color-button-secondary);
     background-color: var(--color-button-primary);
+  }
+  & .button-option:hover{
+    transition: transform .5s ease;
+    transform: scale(1.05);
   }
   & .icon_sound{
     cursor: pointer;

@@ -6,10 +6,13 @@ import ModalInfo from "../components/ModalInfo";
 import ModalOptiones from "../components/ModalOpciones";
 import IconSound from "../components/IconSound";
 import IconInfo from "../components/IconInfo";
+import arrDificulty from "@/mockup/dificulty.json";
+import Link from 'next/link';
 
 export const ericaOne = Erica_One({ weight: '400',subsets: ['latin'] })
 const audio = new Audio('./clasicnobestring.mp3');
 const audioClick = new Audio('./soundClick.mp3');
+ 
 
 
 export default function Home() {
@@ -37,16 +40,14 @@ export default function Home() {
   
   // handle Volumen
   const [volume, setVolume] = useState<number>(0)
-
   const handlePlusVolume = () => {
     if (volume > 95) return
     const newVol = volume + 10
     setVolume(newVol)
     audio.play()
-    audio.loop
+    audio.loop = true
     audio.volume = newVol/100
   }
-
   const handleLessVolume = () => {
     if (volume < 5) return
     const newVol = volume - 10
@@ -57,7 +58,7 @@ export default function Home() {
   const handleSound = () => {
     if (volume === 0) {
       audio.play()
-      audio.loop
+      audio.loop = true
       setVolume(volume + 50)
       audio.volume = 0.5
     } else {
@@ -66,17 +67,20 @@ export default function Home() {
       audio.volume = newVol
     }
   }
-  // Activar sonido
-  
+  // handle Dificulty 
+  const [dificulty, setDificulty] = useState(arrDificulty)
+
   return (
     <main>
       <section className='section-menu'>
-        <button className={ericaOne.className}>JUGAR</button>
-        <button onClick={handleModalOptions} className={`${ericaOne.className} button-option`}>OPCIONES</button>
+        <Link href={'questions'}>
+          <button className={ericaOne.className}>{language ? 'JUGAR' : 'PLAY'}</button>
+        </Link>
+        <button onClick={handleModalOptions} className={`${ericaOne.className} button-option`}>{language ? 'OPCIONES' : 'OPTIONS'}</button>
       </section>
       <IconSound handleSound={handleSound} volume={volume}/>
       <IconInfo handleModalInfo={handleModalInfo} />
-      {showInfo && <ModalInfo handleModalInfo={handleModalInfo} />}
+      {showInfo && <ModalInfo language={language}  handleModalInfo={handleModalInfo} />}
       {showOptions && <ModalOptiones 
       language={language} 
       handleLanguage={handleLanguage}
@@ -84,7 +88,9 @@ export default function Home() {
       handleModalOptions={handleModalOptions} 
       volume={volume}
       handlePlusVolume={handlePlusVolume} 
-      handleLessVolume={handleLessVolume}/>}
+      handleLessVolume={handleLessVolume}
+      dificulty={dificulty}
+      />}
     </main>
   )
 }

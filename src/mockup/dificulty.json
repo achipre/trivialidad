@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "dificultyES": "Facil",
+    "dificultyEN": "Easy",
+    "isSelect": true
+  },
+  {
+    "id": 2,
+    "dificultyES": "Medio",
+    "dificultyEN": "Medium",
+    "isSelect": false
+  },
+  {
+    "id": 3,
+    "dificultyES": "Dificil",
+    "dificultyEN": "Hard",
+    "isSelect": false
+  }
+]
