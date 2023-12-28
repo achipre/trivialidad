@@ -36,35 +36,36 @@ export default function Home() {
   }
   
   // handle Volumen
-  const [volume, setVolume] = useState(0)
+  const [volume, setVolume] = useState<number>(0)
 
   const handlePlusVolume = () => {
-    if (volume > .95) return
-    if (volume === 0) {
-      audio.play()
-    }
-    setVolume(volume + Number(.1))
-    audio.volume = volume
+    if (volume > 95) return
+    const newVol = volume + 10
+    setVolume(newVol)
+    audio.play()
     audio.loop
+    audio.volume = newVol/100
   }
 
   const handleLessVolume = () => {
-    if (volume < .05) return
-    setVolume(volume - 0.1)
-    audio.volume = volume
-    audio.loop
+    if (volume < 5) return
+    const newVol = volume - 10
+    setVolume(newVol)
+    audio.volume = newVol/100
   }
+
   const handleSound = () => {
-    if (volume == 0) {
+    if (volume === 0) {
       audio.play()
-      setVolume(0.5)
-      audio.volume = volume
+      audio.loop
+      setVolume(volume + 50)
+      audio.volume = 0.5
     } else {
-      setVolume(0)
-      audio.volume = volume
+      const newVol = 0
+      setVolume(newVol)
+      audio.volume = newVol
     }
   }
-  console.log(volume);
   // Activar sonido
   
   return (

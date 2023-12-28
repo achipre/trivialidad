@@ -16,7 +16,7 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
   }
 
   // Format Volumen
-  const formatVolume = Math.round(volume * 100) + "%"
+  const formatVolume = volume + "%"
 
   // Categories
   const [categories, setCategories] = useState(mockupCategories)
