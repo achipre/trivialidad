@@ -307,17 +307,17 @@
     },
     {
       "id": "00307",
-      "questionES": "¿Cuál fue la principal causa de la Guerra de los Cien Años?",
-      "questionEN": "What was the main cause of the Hundred Years' War?",
+      "questionES": "¿En qué año se fundó la Liga de Naciones, precursora de las Naciones Unidas?",
+      "questionEN": "In what year was the League of Nations, precursor to the United Nations, founded?",
       "options": {
-        "optionOneES": "Disputa por la herencia de Aquitania",
-        "optionOneEN": "Dispute over the inheritance of Aquitaine",
-        "optionTwoES": "Conflicto religioso",
-        "optionTwoEN": "Religious conflict",
-        "answerdES": "Disputa por la herencia de Aquitania",
-        "answerdEN": "Dispute over the inheritance of Aquitaine",
-        "optionThreeES": "Poder territorial en Europa",
-        "optionThreeEN": "Territorial power in Europe"
+        "optionOneES": "1918",
+        "optionOneEN": "1918",
+        "answerdES": "1920",
+        "answerdEN": "1920",
+        "optionThreeES": "1945",
+        "optionThreeEN": "1945",
+        "optionTwoES": "1915",
+        "optionTwoEN": "1915"
       },
       "categoryES": "Historia",
       "categoryEN": "History",
@@ -325,27 +325,253 @@
       "dificultyEN": "Medium"
     },
     {
-      
+      "id": "00308",
+      "questionES": "¿Cuál era el nombre del programa espacial soviético que envió al primer ser humano al espacio?",
+      "questionEN": "What was the name of the Soviet space program that sent the first human into space?",
+      "options": {
+        "optionOneES": "Programa Soyuz",
+        "optionOneEN": "Soyuz Program",
+        "answerdES": "Programa Vostok",
+        "answerdEN": "Vostok Program",
+        "optionTwoES": "Programa Sputnik",
+        "optionTwoEN": "Sputnik Program",
+        "optionThreeES": "Programa Mir",
+        "optionThreeEN": "Mir Program"
+      },
       "categoryES": "Historia",
       "categoryEN": "History",
       "dificultyES": "Medio",
       "dificultyEN": "Medium"
     },
     {
-      
+      "id": "00309",
+      "questionES": "¿Quién fue el líder del movimiento por los derechos civiles en Estados Unidos en la década de 1960?",
+      "questionEN": "Who was the leader of the civil rights movement in the United States in the 1960s?",
+      "options": {
+        "optionOneES": "Malcolm X",
+        "optionOneEN": "Malcolm X",
+        "optionTwoES": "Rosa Parks",
+        "optionTwoEN": "Rosa Parks",
+        "optionThreeES": "Elijah Muhammad",
+        "optionThreeEN": "Elijah Muhammad",
+        "answerdES": "Martin Luther King Jr.",
+        "answerdEN": "Martin Luther King Jr."
+      },
       "categoryES": "Historia",
       "categoryEN": "History",
       "dificultyES": "Medio",
       "dificultyEN": "Medium"
     },
     {
-      
+      "id": "00310",
+      "questionES": "¿Quién fue la reina de Egipto conocida por su relación con Julio César y Marco Antonio?",
+      "questionEN": "Who was the Queen of Egypt known for her relationship with Julius Caesar and Mark Antony?",
+      "options": {
+        "answerdES": "Cleopatra",
+        "answerdEN": "Cleopatra",
+        "optionOneES": "Nefertiti",
+        "optionOneEN": "Nefertiti",
+        "optionTwoES": "Isis",
+        "optionTwoEN": "Isis",
+        "optionThreeES": "Merenptah",
+        "optionThreeEN": "Merenptah"
+      },
       "categoryES": "Historia",
       "categoryEN": "History",
       "dificultyES": "Medio",
       "dificultyEN": "Medium"
+    },
+    {
+      "id": "00601",
+      "questionES": "¿Quién fue el líder militar cartaginense que dirigió las fuerzas en la Segunda Guerra Púnica?",
+      "questionEN": "Who was the Carthaginian military leader who led the forces in the Second Punic War?",
+      "options": {
+        "optionOneES": "Escipión el Africano",
+        "optionOneEN": "Scipio Africanus",
+        "answerdES": "Aníbal Barca",
+        "answerdEN": "Hannibal Barca",
+        "optionTwoES": "Amílcar Barca",
+        "optionTwoEN": "Hamilcar Barca",
+        "optionThreeES": "Publio Cornelio Escipión",
+        "optionThreeEN": "Publius Cornelius Scipio"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
     },
     
+    {
+      "id": "00602",
+      "questionES": "¿Cuál fue el tratado que puso fin a la Guerra de los Treinta Años en 1648?",
+      "questionEN": "What was the treaty that ended the Thirty Years' War in 1648?",
+      "options": {
+        "optionOneES": "Tratado de Utrecht",
+        "optionOneEN": "Treaty of Utrecht",
+        "optionThreeES": "Tratado de Versalles",
+        "optionThreeEN": "Treaty of Versailles",
+        "optionFourES": "Tratado de Trianón",
+        "optionFourEN": "Treaty of Trianon",
+        "answerdES": "Tratado de Westfalia",
+        "answerdEN": "Peace of Westphalia"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00603",
+      "questionES": "¿Cuál fue la batalla que marcó el fin del Imperio Napoleónico en 1815?",
+      "questionEN": "Which battle marked the end of the Napoleonic Empire in 1815?",
+      "options": {
+        "optionOneES": "Batalla de Leipzig",
+        "optionOneEN": "Battle of Leipzig",
+        "answerdES": "Batalla de Waterloo",
+        "answerdEN": "Battle of Waterloo",
+        "optionTwoES": "Batalla de Borodino",
+        "optionTwoEN": "Battle of Borodino",
+        "optionThreeES": "Batalla de Wagram",
+        "optionThreeEN": "Battle of Wagram"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00604",
+      "questionES": "¿Cuál fue la expedición militar liderada por Alejandro Magno que conquistó el Imperio Persa?",
+      "questionEN": "What was the military campaign led by Alexander the Great that conquered the Persian Empire?",
+      "options": {
+        "optionOneES": "Campaña de Issos",
+        "optionOneEN": "Issus Campaign",
+        "answerdES": "Campaña de Asia Menor",
+        "answerdEN": "Campaign of Asia Minor",
+        "optionTwoES": "Campaña de la India",
+        "optionTwoEN": "Indian Campaign",
+        "optionThreeES": "Campaña de Persia",
+        "optionThreeEN": "Persian Campaign"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00605",
+      "questionES": "¿Cuál fue la dinastía china que construyó la Ciudad Prohibida en Pekín?",
+      "questionEN": "Which Chinese dynasty built the Forbidden City in Beijing?",
+      "options": {
+        "optionOneES": "Dinastía Qing",
+        "optionOneEN": "Qing Dynasty",
+        "optionTwoES": "Dinastía Han",
+        "optionTwoEN": "Han Dynasty",
+        "answerdES": "Dinastía Ming",
+        "answerdEN": "Ming Dynasty",
+        "optionThreeES": "Dinastía Song",
+        "optionThreeEN": "Song Dynasty"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00606",
+      "questionES": "¿Cuál fue la batalla que marcó el final de la Guerra de los Cien Años?",
+      "questionEN": "Which battle marked the end of the Hundred Years' War?",
+      "options": {
+        "optionOneES": "Batalla de Agincourt",
+        "optionOneEN": "Battle of Agincourt",
+        "answerdES": "Batalla de Formigny",
+        "answerdEN": "Battle of Formigny",
+        "optionTwoES": "Batalla de Poitiers",
+        "optionTwoEN": "Battle of Poitiers",
+        "optionThreeES": "Batalla de Orleans",
+        "optionThreeEN": "Siege of Orleans"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00607",
+      "questionES": "¿Cuál fue la primera colonia permanente en América del Norte establecida por los británicos en 1607?",
+      "questionEN": "What was the first permanent English colony in North America established in 1607?",
+      "options": {
+        "answerdES": "Jamestown",
+        "answerdEN": "Jamestown",
+        "optionOneES": "Jamestown",
+        "optionOneEN": "Jamestown",
+        "optionTwoES": "Plymouth",
+        "optionTwoEN": "Plymouth",
+        "optionThreeES": "Boston",
+        "optionThreeEN": "Boston"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00608",
+      "questionES": "¿En qué año se estableció la Carta Magna en Inglaterra?",
+      "questionEN": "In what year was the Magna Carta established in England?",
+      "options": {
+        "optionOneES": "1300",
+        "optionOneEN": "1300",
+        "answerdES": "1215",
+        "answerdEN": "1215",
+        "optionTwoES": "1400",
+        "optionTwoEN": "1400",
+        "optionThreeES": "1452",
+        "optionThreeEN": "1452"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00609",
+      "questionES": "¿En qué año se inauguró el Canal de Suez?",
+      "questionEN": "In what year was the Suez Canal inaugurated?",
+      "options": {
+        "optionOneES": "1873",
+        "optionOneEN": "1873",
+        "optionTwoES": "1862",
+        "optionTwoEN": "1862",
+        "optionThreeES": "1867",
+        "optionThreeEN": "1867",
+        "answerdES": "1869",
+        "answerdEN": "1869"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "00610",
+      "questionES": "¿Cuál fue la antigua capital del Imperio Inca?",
+      "questionEN": "What was the ancient capital of the Inca Empire?",
+      "options": {
+        "optionOneES": "Quito",
+        "optionOneEN": "Quito",
+        "answerdES": "Cusco",
+        "answerdEN": "Cusco",
+        "optionTwoES": "Lima",
+        "optionTwoEN": "Lima",
+        "optionThreeES": "Machu Picchu",
+        "optionThreeEN": "Machu Picchu"
+      },
+      "categoryES": "Historia",
+      "categoryEN": "History",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
     {
       "id": "01000",
       "questionES": "¿Cuál de las siguientes opciones es un ejemplo de un lenguaje de programación de bajo nivel?",
@@ -353,18 +579,210 @@
       "options": {
         "optionOneES": "Python",
         "optionOneEN": "Python",
-        "optionTwoES": "Assembly",
-        "optionTwoEN": "Assembly",
-        "optionThreeES": "Java",
-        "optionThreeEN": "Java",
-        "optionFourES": "Ruby",
-        "optionFourEN": "Ruby"
+        "answerdES": "Assembly",
+        "answerdEN": "Assembly",
+        "optionTwoES": "Java",
+        "optionTwoEN": "Java",
+        "optionThreeES": "Ruby",
+        "optionThreeEN": "Ruby"
       },
       "categoryES": "Programación",
       "categoryEN": "Programming",
       "dificultyES": "Facil",
       "dificultyEN": "Easy"
     },
+    {
+      "id": "01001",
+      "questionES": "¿Cuál de los siguientes lenguajes de programación es de tipado dinámico?",
+      "questionEN": "Which of the following programming languages is dynamically typed?",
+      "options": {
+        "answerdES": "Python",
+        "answerdEN": "Python",
+        "optionOneES": "Java",
+        "optionOneEN": "Java",
+        "optionTwoES": "C#",
+        "optionTwoEN": "C#",
+        "optionThreeES": "TypeScript",
+        "optionThreeEN": "TypeScript"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01002",
+      "questionES": "¿Qué significa la sigla API en el contexto de desarrollo de software?",
+      "questionEN": "What does the acronym API stand for in the context of software development?",
+      "options": {
+        "answerdES": "Interfaz de programación de aplicaciones",
+        "answerdEN": "Application Programming Interface",
+        "optionOneES": "Integración Autónoma del Programa",
+        "optionOneEN": "Automated Program Integration",
+        "optionTwoES": "Interfaz Algorítmica del Programa",
+        "optionTwoEN": "Algorithmic Programming Interface",
+        "optionThreeES": "Aplicación Procedural al Programa",
+        "optionThreeEN": "Application Procedural Integration"
+      
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01003",
+      "questionES": "¿Cuál es el propósito principal de un sistema de control de versiones como Git?",
+      "questionEN": "What is the main purpose of a version control system like Git?",
+      "options": {
+        "optionOneES": "Gestionar el flujo de trabajo de desarrollo",
+        "optionOneEN": "Manage the development workflow",
+        "optionTwoES": "Gestionar la configuración del sistema",
+        "optionTwoEN": "Manage system configuration",
+        "optionThreeES": "Gestionar recursos de red",
+        "optionThreeEN": "Manage network resources",
+        "answerdES": "Gestionar cambios en el código fuente",
+        "answerdEN": "Manage changes in source code"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01004",
+      "questionES": "¿Qué es una clave primaria en una base de datos relacional?",
+      "questionEN": "What is a primary key in a relational database?",
+      "options": {
+        "optionOneES": "Una contraseña de acceso",
+        "optionOneEN": "An access password",
+        "optionTwoES": "Una clave de cifrado",
+        "optionTwoEN": "An encryption key",
+        "optionThreeES": "Un código de activación",
+        "optionThreeEN": "An activation code",
+        "answerdES": "Un campo que identifica de manera única cada registro",
+        "answerdEN": "A field that uniquely identifies each record"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01005",
+      "questionES": "En programación, ¿qué es un 'framework'?",
+      "questionEN": "In programming, what is a 'framework'?",
+      "options": {
+        "optionOneES": "Una interfaz de usuario",
+        "optionOneEN": "A user interface",
+        "answerdES": "Un conjunto de herramientas y reglas para el desarrollo",
+        "answerdEN": "A set of tools and rules for development",
+        "optionTwoES": "Una biblioteca de funciones",
+        "optionTwoEN": "A library of functions",
+        "optionThreeES": "Una estructura de datos",
+        "optionThreeEN": "A data structure"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01006",
+      "questionES": "¿Cuál es el propósito de un archivo 'robots.txt' en un sitio web?",
+      "questionEN": "What is the purpose of a 'robots.txt' file on a website?",
+      "options": {
+        "optionOneES": "Almacenar contraseñas de usuarios",
+        "optionOneEN": "Store user passwords",
+        "answerdES": "Controlar el acceso de los motores de búsqueda a ciertas áreas del sitio",
+        "answerdEN": "Control search engine access to certain areas of the site",
+        "optionTwoES": "Proporcionar instrucciones a los navegadores sobre la apariencia del sitio",
+        "optionTwoEN": "Provide instructions to browsers on the site's appearance",
+        "optionThreeES": "Almacenar información de seguimiento de usuarios",
+        "optionThreeEN": "Store user tracking information"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01007",
+      "questionES": "¿Qué es un método HTTP 'GET'?",
+      "questionEN": "What is an HTTP 'GET' method?",
+      "options": {
+        "optionOneES": "Una solicitud para enviar datos al servidor",
+        "optionOneEN": "A request to send data to the server",
+        "optionTwoES": "Un método de cifrado de datos",
+        "optionTwoEN": "A data encryption method",
+        "answerdES": "Una solicitud para obtener datos del servidor",
+        "answerdEN": "A request to retrieve data from the server",
+        "optionThreeES": "Una solicitud para actualizar datos en el servidor",
+        "optionThreeEN": "A request to update data on the server"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01008",
+      "questionES": "¿Qué es 'JSON'?",
+      "questionEN": "What is 'JSON'?",
+      "options": {
+        "optionOneES": "Un lenguaje de programación",
+        "optionOneEN": "A programming language",
+        "optionTwoES": "Un sistema de gestión de bases de datos",
+        "optionTwoEN": "A database management system",
+        "answerdES": "Un formato de intercambio de datos ligero y fácil de leer",
+        "answerdEN": "A lightweight and readable data interchange format",
+        "optionThreeES": "Una biblioteca de funciones",
+        "optionThreeEN": "A library of functions"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01009",
+      "questionES": "¿Qué es 'npm' en el contexto de Node.js?",
+      "questionEN": "What is 'npm' in the context of Node.js?",
+      "options": {
+        "optionTwoES": "Manejador de Proyectos de Node",
+        "optionTwoEN": "Node Project Manager",
+        "answerdES": "Manejador de Paquetes de Node",
+        "answerdEN": "Node Package Manager",
+        "optionThreeES": "Modulos de Programas de Node",
+        "optionThreeEN": "Node Programming Module",
+        "optionFiveES": "Manejador de Programas de Node",
+        "optionFiveEN": "Node Programming Manager"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "01010",
+      "questionES": "¿Qué es 'Docker' en el desarrollo de software?",
+      "questionEN": "What is 'Docker' in software development?",
+      "options": {
+        "optionOneES": "Una plataforma de gestión de bases de datos",
+        "optionOneEN": "A database management platform",
+        "optionTwoES": "Una técnica de programación funcional",
+        "optionTwoEN": "A functional programming technique",
+        "answerdES": "Una plataforma de contenedores para facilitar la implementación y ejecución de aplicaciones",
+        "answerdEN": "A container platform to simplify the deployment and execution of applications",
+        "optionThreeES": "Un sistema de gestión de proyectos",
+        "optionThreeEN": "A project management system"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    
     {
       "id": "02000",
       "questionES": "¿Dónde se produce la bilis?",

@@ -20,11 +20,9 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
 
   // Handle Dificulty
   const [difi, setDifi] = useState(dificulty[0])
-  console.log(difi);
   
   const handleDificultyPlus = () => {
     
-    if (difi === dificulty[2]) return
     if (difi === dificulty[0]) {
       audioClick.play()
       setDifi(dificulty[1])
@@ -33,9 +31,12 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
       audioClick.play()
       setDifi(dificulty[2])
     }
+    if (difi === dificulty[2]) {
+      audioClick.play()
+      setDifi(dificulty[0])
+    }
   }
   const handleDificultyLess = () => {
-    if (difi === dificulty[0]) return
     if (difi === dificulty[2]) {
       audioClick.play()
       setDifi(dificulty[1])
@@ -44,6 +45,11 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
     if (difi === dificulty[1]) {
       audioClick.play()
       setDifi(dificulty[0])
+    }
+    if (difi === dificulty[0]) {
+      audioClick.play()
+      setDifi(dificulty[2])
+      
     }
   }
   
