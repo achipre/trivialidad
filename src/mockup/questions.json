@@ -400,7 +400,6 @@
       "dificultyES": "Difícil",
       "dificultyEN": "Hard"
     },
-    
     {
       "id": "00602",
       "questionES": "¿Cuál fue el tratado que puso fin a la Guerra de los Treinta Años en 1648?",
@@ -573,7 +572,7 @@
       "dificultyEN": "Hard"
     },
     {
-      "id": "01000",
+      "id": "01001",
       "questionES": "¿Cuál de las siguientes opciones es un ejemplo de un lenguaje de programación de bajo nivel?",
       "questionEN": "Which of the following options is an example of a low-level programming language?",
       "options": {
@@ -592,7 +591,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01001",
+      "id": "01002",
       "questionES": "¿Cuál de los siguientes lenguajes de programación es de tipado dinámico?",
       "questionEN": "Which of the following programming languages is dynamically typed?",
       "options": {
@@ -611,7 +610,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01002",
+      "id": "01003",
       "questionES": "¿Qué significa la sigla API en el contexto de desarrollo de software?",
       "questionEN": "What does the acronym API stand for in the context of software development?",
       "options": {
@@ -631,7 +630,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01003",
+      "id": "01004",
       "questionES": "¿Cuál es el propósito principal de un sistema de control de versiones como Git?",
       "questionEN": "What is the main purpose of a version control system like Git?",
       "options": {
@@ -650,7 +649,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01004",
+      "id": "01005",
       "questionES": "¿Qué es una clave primaria en una base de datos relacional?",
       "questionEN": "What is a primary key in a relational database?",
       "options": {
@@ -669,7 +668,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01005",
+      "id": "01006",
       "questionES": "En programación, ¿qué es un 'framework'?",
       "questionEN": "In programming, what is a 'framework'?",
       "options": {
@@ -688,7 +687,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01006",
+      "id": "01007",
       "questionES": "¿Cuál es el propósito de un archivo 'robots.txt' en un sitio web?",
       "questionEN": "What is the purpose of a 'robots.txt' file on a website?",
       "options": {
@@ -707,7 +706,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01007",
+      "id": "01008",
       "questionES": "¿Qué es un método HTTP 'GET'?",
       "questionEN": "What is an HTTP 'GET' method?",
       "options": {
@@ -726,7 +725,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01008",
+      "id": "01009",
       "questionES": "¿Qué es 'JSON'?",
       "questionEN": "What is 'JSON'?",
       "options": {
@@ -745,7 +744,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01009",
+      "id": "01010",
       "questionES": "¿Qué es 'npm' en el contexto de Node.js?",
       "questionEN": "What is 'npm' in the context of Node.js?",
       "options": {
@@ -764,27 +763,406 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "01010",
-      "questionES": "¿Qué es 'Docker' en el desarrollo de software?",
-      "questionEN": "What is 'Docker' in software development?",
+      "id": "01301",
+      "questionES": "¿Qué significa la sigla CSS en el contexto de desarrollo de software?",
+      "questionEN": "What does the acronym CSS stand for in the context of software development?",
       "options": {
-        "optionOneES": "Una plataforma de gestión de bases de datos",
-        "optionOneEN": "A database management platform",
-        "optionTwoES": "Una técnica de programación funcional",
-        "optionTwoEN": "A functional programming technique",
-        "answerdES": "Una plataforma de contenedores para facilitar la implementación y ejecución de aplicaciones",
-        "answerdEN": "A container platform to simplify the deployment and execution of applications",
-        "optionThreeES": "Un sistema de gestión de proyectos",
-        "optionThreeEN": "A project management system"
+        "optionOneES": "Hojas de Estilo en Celdas",
+        "optionOneEN": "Cells Style Sheets",
+        "optionTwoES": "Hoja Estandar de Comandos",
+        "optionTwoEN": "Command Standard Sheet",
+        "answerdES": "Hojas de Estilo en Cascada",
+        "answerdEN": "Cascading Style Sheets",
+        "optionThreeES": "Celda Estandar en Cascada",
+        "optionThreeEN": "Standard Cascade Cell"
       },
       "categoryES": "Programación",
       "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01302",
+      "questionES": "¿Qué significa la sigla SQL en el contexto de desarrollo de software?",
+      "questionEN": "What does the acronym SQL stand for in the context of software development?",
+      "options": {
+        "optionOneES": "Lenguaje de Consulta Estandar",
+        "optionOneEN": "Standard Query Language",
+        "optionTwoES": "Consulta de estado Largo",
+        "optionTwoEN": "Status Query Long",
+        "answerdES": "Lenguaje de Consulta Estructurada",
+        "answerdEN": "Structured Query Language",
+        "optionThreeES": "Lenguaje de Consulta Especial",
+        "optionThreeEN": "Special Query Language"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01303",
+      "questionES": "¿Qué significa la sigla DNS?",
+      "questionEN": "What does the acronym DNS?",
+      "options": {
+        "optionOneES": "Nombre Estandar de Dominio",
+        "optionOneEN": "Domain Name Standard",
+        "answerdES": "Sistema de Nombres de Dominio",
+        "answerdEN": "Domain Name System",
+        "optionTwoES": "Sistema de Nombres con Datos",
+        "optionTwoEN": "Naming System with Data",
+        "optionThreeES": "Nuevo de Estandar de Datos",
+        "optionThreeEN": "New Data Standard"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01304",
+      "questionES": "¿Qué significa la sigla IDE?",
+      "questionEN": "What does the acronym IDE?",
+      "options": {
+        "optionOneES": "Entorno descriptivo Instalado",
+        "optionOneEN": "Descriptive environment Installed",
+        "optionTwoES": "Entorno de Desarrollo Instalado",
+        "optionTwoEN": "Installed Development Environment",
+        "optionThreeES": "Entorno de Desarrollo Interno",
+        "optionThreeEN": "Internal Development Environment",
+        "answerdES": "Entorno de Desarrollo Integrado",
+        "answerdEN": "Integrated Development Environment"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01305",
+      "questionES": "¿Qué significa la sigla SDK?",
+      "questionEN": "What does the acronym SDK?",
+      "options": {
+        "optionOneES": "Kit de Desarrollo Estandar",
+        "optionOneEN": "Standard Development Kit",
+        "answerdES": "Kit de Desarrollo de Software",
+        "answerdEN": "Software Development Kit",
+        "optionTwoES": "Kit de Desarrollo Estructurado",
+        "optionTwoEN": "Structured Development Kit",
+        "optionThreeES": "Kit de Desarrollo Especial",
+        "optionThreeEN": "Software Development Special"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01306",
+      "questionES": "¿Qué significa la sigla REST?",
+      "questionEN": "What does the acronym REST?",
+      "options": {
+        "answerdES": "Transferencia de Estado Representacional",
+        "answerdEN": "Representational State Transfer",
+        "optionOneES": "Representación Estructurada Tradicional",
+        "optionOneEN": "Traditional Structured Representation",
+        "optionTwoES": "Transferencia de Estado Regional",
+        "optionTwoEN": "Regional State Transfer",
+        "optionThreeES": "Transferencia de Estado de Reconección",
+        "optionThreeEN": "Reconnection Status Transfer"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01307",
+      "questionES": "¿Qué significa la sigla CMS?",
+      "questionEN": "What does the acronym CMS?",
+      "options": {
+        "optionOneES": "Sistema de Gestión Contextual",
+        "optionOneEN": "Contextual Management System",
+        "optionTwoES": "Sistema de Gestión Comparativo",
+        "optionTwoEN": "Comparative Management System",
+        "optionThreeES": "Sistema de Gestión de Copia",
+        "optionThreeEN": "Copy Management System",
+        "answerdES": "Sistema de Gestión de Contenidos",
+        "answerdEN": "Content Management System"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01308",
+      "questionES": "¿Qué significa la sigla CLI?",
+      "questionEN": "What does the acronym CLI?",
+      "options": {
+        "optionOneES": "Lenguage Integral de Comandos",
+        "optionOneEN": "Command Integrated of Language",
+        "optionTwoES": "Línea Interna Compleja",
+        "optionTwoEN": "Complex Internal Line",
+        "optionThreeES": "Lenguaje Integral Completo",
+        "optionThreeEN": "Complete Integral Language",
+        "answerdES": "Interfaz de Línea de Comandos",
+        "answerdEN": "Command Line Interface"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01309",
+      "questionES": "¿Qué significa la sigla JPEG?",
+      "questionEN": "What does the acronym JPEG?",
+      "options": {
+        "optionOneES": "Grupo de Protocolos Electronicos y Gráfica",
+        "optionOneEN": "Joint Protocols Electronic and Graphics",
+        "optionTwoES": "Grupo de Protocolos Expertos y Gráfico",
+        "optionTwoEN": "Joint Protocols Expert and Graphic",
+        "optionThreeES": "Grupo de Expertos en Protocolos Conjunto",
+        "optionThreeEN": "Joint Protocol Expert Group",
+        "answerdES": "Grupo de Expertos en Fotografía Conjunta",
+        "answerdEN": "Joint Photographic Experts Group"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01310",
+      "questionES": "¿Qué significa la sigla DHCP?",
+      "questionEN": "What does the acronym DHCP?",
+      "options": {
+        "optionOneES": "Proceso de Costo Dinámica de Host",
+        "optionOneEN": "Dynamic Host Costing Process",
+        "optionTwoES": "Programa de Costos Diferentes de Host",
+        "optionTwoEN": "Different Host Cost Program",
+        "optionThreeES": "Programa de Configuración Dinámica de Host",
+        "optionThreeEN": "Dynamic Host Configuration Program",
+        "answerdES": "Protocolo de Configuración Dinámica de Host",
+        "answerdEN": "Dynamic Host Configuration Protocol"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "01601",
+      "questionES": "¿En qué se diferencia la inteligencia artificial débil de la inteligencia artificial fuerte?",
+      "questionEN": "How does weak artificial intelligence differ from strong artificial intelligence?",
+      "options": {
+        "optionOneES": "La capacidad para realizar tareas específicas sin intervención humana",
+        "optionOneEN": "The ability to perform specific tasks without human intervention",
+        "answerdES": "La capacidad general para realizar cualquier tarea cognitiva que un humano pueda hacer",
+        "answerdEN": "The general ability to perform any cognitive task that a human can do",
+        "optionTwoES": "La capacidad de entender y razonar sobre el entorno",
+        "optionTwoEN": "The ability to understand and reason about the environment",
+        "optionThreeES": "La capacidad de procesar grandes cantidades de datos",
+        "optionThreeEN": "The ability to process large amounts of data"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01602",
+      "questionES": "¿Qué significa 'IoT' y cuáles son algunos ejemplos de dispositivos IoT?",
+      "questionEN": "What does 'IoT' mean, and what are some examples of IoT devices?",
+      "options": {
+        "optionOneES": "Internet of Technology",
+        "optionOneEN": "Internet of Technology",
+        "answerdES": "Internet of Things",
+        "answerdEN": "Internet of Things",
+        "optionTwoES": "Internet of Telecommunications",
+        "optionTwoEN": "Internet of Telecommunications",
+        "optionThreeES": "Internet of Transportation",
+        "optionThreeEN": "Internet of Transportation"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01603",
+      "questionES": "¿Qué es un 'algoritmo de hashing'?",
+      "questionEN": "What is a 'hashing algorithm'?",
+      "options": {
+        "optionOneES": "Una técnica algorítmica de compresión de archivos",
+        "optionOneEN": "An algorithmic file compression technique",
+        "answerdES": "Un algoritmo que convierte datos en una cadena de longitud fija",
+        "answerdEN": "An algorithm that converts data to a fixed length string",
+        "optionTwoES": "Un sistema de gestión algorítmica de bases de datos",
+        "optionTwoEN": "A database management system",
+        "optionThreeES": "Una técnica algorítmica de análisis de rendimiento",
+        "optionThreeEN": "An algorithmic technique for performance analysis."
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01604",
+      "questionES": "¿Qué es un 'cluster' en el contexto de servidores?",
+      "questionEN": "What is a 'cluster' in the context of servers?",
+      "options": {
+        "optionOneES": "Una red de almacenamiento en la nube",
+        "optionOneEN": "A cloud storage network",
+        "answerdES": "Un grupo de servidores interconectados que trabajan juntos",
+        "answerdEN": "A group of interconnected servers working together",
+        "optionTwoES": "Una técnica de análisis de seguridad para servidores",
+        "optionTwoEN": "A security analysis technique for servers",
+        "optionThreeES": "Un sistema operativo especializado para el manejo de servidores",
+        "optionThreeEN": "A specialized operating system for server management"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01605",
+      "questionES": "¿Qué es ARPANET?",
+      "questionEN": "What is ARPANET?",
+      "options": {
+        "optionOneES": "Una red social en línea",
+        "optionOneEN": "An online social network",
+        "optionTwoES": "Un programa de inteligencia artificial",
+        "optionTwoEN": "An artificial intelligence program",
+        "answerdES": "Proyectos de Investigación de EE. UU.",
+        "answerdEN": "U.S. Research Projects",
+        "optionThreeES": "Una técnica de análisis de seguridad",
+        "optionThreeEN": "A security analysis technique"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01606",
+      "questionES": "¿En qué mes y año se lanzó ChatGPT?",
+      "questionEN": "In which month and year was ChatGPT launched?",
+      "options": {
+        "optionOneES": "Diciembre 2022",
+        "optionOneEN": "December 2022",
+        "optionTwoES": "Octubre 2022",
+        "optionTwoEN": "October 2022",
+        "answerdES": "Noviembre 2022",
+        "answerdEN": "November 2022",
+        "optionThreeES": "Enero 2023",
+        "optionThreeEN": "January 2023"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01607",
+      "questionES": "¿En qué año fue fundada Amazon?",
+      "questionEN": "In what year was Amazon founded?",
+      "options": {
+        "optionOneES": "1994",
+        "optionOneEN": "1994",
+        "optionTwoES": "1997",
+        "optionTwoEN": "1997",
+        "answerdES": "1995",
+        "answerdEN": "1995",
+        "optionThreeES": "2000",
+        "optionThreeEN": "2000"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01608",
+      "questionES": "¿En qué año fue fundada Apple Inc.?",
+      "questionEN": "In what year was Apple Inc. founded?",
+      "options": {
+        "optionOneES": "1976",
+        "optionOneEN": "1976",
+        "answerdES": "1977",
+        "answerdEN": "1977",
+        "optionTwoES": "1980",
+        "optionTwoEN": "1980",
+        "optionThreeES": "1984",
+        "optionThreeEN": "1984"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01609",
+      "questionES": "¿En qué año fue fundada Intel Corporation?",
+      "questionEN": "In what year was Intel Corporation founded?",
+      "options": {
+        "optionOneES": "1965",
+        "optionOneEN": "1965",
+        "optionTwoES": "1970",
+        "optionTwoEN": "1970",
+        "answerdES": "1968",
+        "answerdEN": "1968",
+        "optionThreeES": "1975",
+        "optionThreeEN": "1975"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "01610",
+      "questionES": "¿En qué año fue fundada Apple Inc.?",
+      "questionEN": "In what year was Apple Inc. founded?",
+      "options": {
+        "optionOneES": "1976",
+        "optionOneEN": "1976",
+        "answerdES": "1977",
+        "answerdEN": "1977",
+        "optionTwoES": "1980",
+        "optionTwoEN": "1980",
+        "optionThreeES": "1984",
+        "optionThreeEN": "1984"
+      },
+      "categoryES": "Programación",
+      "categoryEN": "Programming",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02000",
+      "questionES": "¿Dónde se produce la bilis?",
+      "questionEN": "Where is bile produced?",
+      "options": {
+        "optionOneES": "Pancreas",
+        "optionOneEN": "Pancreas",
+        "optionTwoES": "Higado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Estomago",
+        "optionThreeEN": "Stomach",
+        "optionFourES": "Cerebro",
+        "optionFourEN": "Cerebro"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
       "dificultyES": "Facil",
       "dificultyEN": "Easy"
     },
-    
     {
-      "id": "02000",
+      "id": "02001",
       "questionES": "¿Dónde se produce la bilis?",
       "questionEN": "Where is bile produced?",
       "options": {
@@ -936,6 +1314,44 @@
       "dificultyEN": "Easy"
     },
     {
+      "id": "09001",
+      "questionES": "En la película 'Mary Poppins', ¿cuál es la ocupación principal de Mary Poppins?",
+      "questionEN": "In the movie 'Mary Poppins,' what is Mary Poppins' main occupation?",
+      "options": {
+        "optionOneES": "Cantante de ópera",
+        "optionOneEN": "Opera singer",
+        "optionTwoES": "Chef",
+        "optionTwoEN": "Chef",
+        "answerdES": "Niñera",
+        "answerdEN": "Nanny",
+        "optionThreeES": "Detective privado",
+        "optionThreeEN": "Private detective"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09002",
+      "questionES": "Completa el título de este famoso western: 'El Bueno, el Feo y...",
+      "questionEN": "Complete the title of this famous western: 'The Good, the Bad, and...",
+      "options": {
+        "optionOneES": "El Villano",
+        "optionOneEN": "The Villain",
+        "answerdES": "El Feo",
+        "answerdEN": "The Ugly",
+        "optionTwoES": "El Rápido",
+        "optionTwoEN": "The Fast",
+        "optionThreeES": "El Loco",
+        "optionThreeEN": "The Crazy"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
       "id": "10000",
       "questionES": "¿Cuántos huesos tiene un cráneo adulto?",
       "questionEN": "How many bones are there in an adult skull?",
@@ -948,6 +1364,44 @@
         "optionThreeEN": "26",
         "optionFourES": "18",
         "optionFourEN": "18"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10001",
+      "questionES": "¿Cómo se llama el tipo de año que tiene 366 días?",
+      "questionEN": "What is the name for the type of year that has 366 days?",
+      "options": {
+        "optionOneES": "Año solar",
+        "optionOneEN": "Solar year",
+        "answerdES": "Año bisiesto",
+        "answerdEN": "Leap year",
+        "optionTwoES": "Año sideral",
+        "optionTwoEN": "Sidereal year",
+        "optionThreeES": "Año lunar",
+        "optionThreeEN": "Lunar year"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10002",
+      "questionES": "¿Cómo se llama el tipo de año que tiene 366 días?",
+      "questionEN": "What is the name for the type of year that has 366 days?",
+      "options": {
+        "optionOneES": "Año solar",
+        "optionOneEN": "Solar year",
+        "answerdES": "Año bisiesto",
+        "answerdEN": "Leap year",
+        "optionTwoES": "Año sideral",
+        "optionTwoEN": "Sidereal year",
+        "optionThreeES": "Año lunar",
+        "optionThreeEN": "Lunar year"
       },
       "categoryES": "Miscélanea",
       "categoryEN": "Miscellaneous",
