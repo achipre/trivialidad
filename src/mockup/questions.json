@@ -1143,37 +1143,18 @@
       "dificultyEN": "Hard"
     },
     {
-      "id": "02000",
-      "questionES": "¿Dónde se produce la bilis?",
-      "questionEN": "Where is bile produced?",
-      "options": {
-        "optionOneES": "Pancreas",
-        "optionOneEN": "Pancreas",
-        "optionTwoES": "Higado",
-        "optionTwoEN": "Liver",
-        "optionThreeES": "Estomago",
-        "optionThreeEN": "Stomach",
-        "optionFourES": "Cerebro",
-        "optionFourEN": "Cerebro"
-      },
-      "categoryES": "Ciencia y Tecnologia",
-      "categoryEN": "Science & Technology",
-      "dificultyES": "Facil",
-      "dificultyEN": "Easy"
-    },
-    {
       "id": "02001",
       "questionES": "¿Dónde se produce la bilis?",
       "questionEN": "Where is bile produced?",
       "options": {
         "optionOneES": "Pancreas",
         "optionOneEN": "Pancreas",
-        "optionTwoES": "Higado",
-        "optionTwoEN": "Liver",
-        "optionThreeES": "Estomago",
-        "optionThreeEN": "Stomach",
-        "optionFourES": "Cerebro",
-        "optionFourEN": "Cerebro"
+        "answerdES": "Higado",
+        "answerdEN": "Liver",
+        "optionTwoeES": "Estomago",
+        "optionTwoeEN": "Stomach",
+        "optionThreeES": "Cerebro",
+        "optionThreeEN": "Cerebro"
       },
       "categoryES": "Ciencia y Tecnologia",
       "categoryEN": "Science & Technology",
@@ -1181,7 +1162,558 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "03000",
+      "id": "02002",
+      "questionES": "¿Dónde se produce la insulina?",
+      "questionEN": "Where is insulin produced?",
+      "options": {
+        "optionOneES": "Estomago",
+        "optionOneEN": "Stomach",
+        "answerdES": "Páncreas",
+        "answerdEN": "Pancreas",
+        "optionTwoES": "Hígado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Riñones",
+        "optionThreeEN": "Kidneys"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02003",
+      "questionES": "¿Cuál es la función principal de los pulmones?",
+      "questionEN": "What is the main function of the lungs?",
+      "options": {
+        "optionOneES": "Digestión",
+        "optionOneEN": "Digestion",
+        "answerdES": "Respiración",
+        "answerdEN": "Breathing",
+        "optionTwoES": "Filtrar la sangre",
+        "optionTwoEN": "Filter the blood",
+        "optionThreeES": "Controlar la temperatura",
+        "optionThreeEN": "Control body temperature"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02004",
+      "questionES": "¿Qué órgano regula la cantidad de glucosa en sangre?",
+      "questionEN": "Which organ regulates the amount of glucose in the blood?",
+      "options": {
+        "optionOneES": "Riñones",
+        "optionOneEN": "Kidneys",
+        "answerdES": "Páncreas",
+        "answerdEN": "Pancreas",
+        "optionTwoES": "Hígado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Cerebro",
+        "optionThreeEN": "Brain"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02005",
+      "questionES": "¿Cuál es la función principal de los riñones?",
+      "questionEN": "What is the main function of the kidneys?",
+      "options": {
+        "optionOneES": "Producción de insulina",
+        "optionOneEN": "Production of insulin",
+        "answerdES": "Filtrar la sangre y eliminar desechos",
+        "answerdEN": "Filter blood and eliminate waste",
+        "optionTwoES": "Digestión de alimentos",
+        "optionTwoEN": "Digestion of food",
+        "optionThreeES": "Controlar la presión arterial",
+        "optionThreeEN": "Control blood pressure"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02006",
+      "questionES": "¿Qué parte del sistema nervioso controla las funciones involuntarias del cuerpo, como la respiración y la digestión?",
+      "questionEN": "Which part of the nervous system controls involuntary functions of the body, such as breathing and digestion?",
+      "options": {
+        "optionOneES": "Sistema nervioso central",
+        "optionOneEN": "Central nervous system",
+        "answerdES": "Sistema nervioso autónomo",
+        "answerdEN": "Autonomic nervous system",
+        "optionTwoES": "Sistema nervioso periférico",
+        "optionTwoEN": "Peripheral nervous system",
+        "optionThreeES": "Sistema endocrino",
+        "optionThreeEN": "Endocrine system"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02007",
+      "questionES": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "questionEN": "What is the largest organ in the human body?",
+      "options": {
+        "optionOneES": "Cerebro",
+        "optionOneEN": "Brain",
+        "answerdES": "Piel",
+        "answerdEN": "Skin",
+        "optionTwoES": "Hígado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Corazón",
+        "optionThreeEN": "Heart"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02008",
+      "questionES": "¿Cuál es la función principal del sistema linfático?",
+      "questionEN": "What is the main function of the lymphatic system?",
+      "options": {
+        "optionOneES": "Digestión de alimentos",
+        "optionOneEN": "Digestion of food",
+        "answerdES": "Eliminar toxinas y desechos",
+        "answerdEN": "Remove toxins and waste",
+        "optionTwoES": "Controlar la temperatura",
+        "optionTwoEN": "Control body temperature",
+        "optionThreeES": "Producir hormonas",
+        "optionThreeEN": "Produce hormones"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02009",
+      "questionES": "¿Cuál es la función principal de los cromosomas en las células?",
+      "questionEN": "What is the main function of chromosomes in cells?",
+      "options": {
+        "optionOneES": "Producir y transmitir insulina",
+        "optionOneEN": "Produce and transmit insulin",
+        "answerdES": "Almacenar y transmitir información genética",
+        "answerdEN": "Store and transmit genetic information",
+        "optionTwoES": "Regular la temperatura del cuerpo",
+        "optionTwoEN": "Regulating body temperature",
+        "optionThreeES": "Producir enzimas digestivas",
+        "optionThreeEN": "Produce digestive enzymes"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02010",
+      "questionES": "¿Cuál es la función principal de los cromosomas en las células?",
+      "questionEN": "What is the main function of chromosomes in cells?",
+      "options": {
+        "optionOneES": "Producir y transmitir insulina",
+        "optionOneEN": "Produce and transmit insulin",
+        "answerdES": "Almacenar y transmitir información genética",
+        "answerdEN": "Store and transmit genetic information",
+        "optionTwoES": "Regular la temperatura del cuerpo",
+        "optionTwoEN": "Regulating body temperature",
+        "optionThreeES": "Producir enzimas digestivas",
+        "optionThreeEN": "Produce digestive enzymes"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "02301",
+      "questionES": "¿Cuál es la función principal de la hemoglobina en los glóbulos rojos?",
+      "questionEN": "What is the main function of hemoglobin in red blood cells?",
+      "options": {
+        "optionOneES": "Transportar nutrientes",
+        "optionOneEN": "Transport nutrients",
+        "answerdES": "Transportar oxígeno",
+        "answerdEN": "Transport oxygen",
+        "optionTwoES": "Coagulación de la sangre",
+        "optionTwoEN": "Blood clotting",
+        "optionThreeES": "Producir hormonas",
+        "optionThreeEN": "Produce hormones"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02302",
+      "questionES": "¿Cuál es la función principal de la médula ósea en el cuerpo humano?",
+      "questionEN": "What is the main function of bone marrow in the human body?",
+      "options": {
+        "optionOneES": "Producir células sanguíneas",
+        "optionOneEN": "Produce blood cells",
+        "answerdES": "Producir células sanguíneas",
+        "answerdEN": "Produce blood cells",
+        "optionTwoES": "Digestión de alimentos",
+        "optionTwoEN": "Digestion of food",
+        "optionThreeES": "Producir hormonas",
+        "optionThreeEN": "Produce hormones"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02303",
+      "questionES": "¿Cuál es la función principal de las mitocondrias en una célula?",
+      "questionEN": "What is the main function of mitochondria in a cell?",
+      "options": {
+        "optionOneES": "Almacenar agua",
+        "optionOneEN": "Store water",
+        "answerdES": "Producir energía",
+        "answerdEN": "Produce energy",
+        "optionTwoES": "Almacenar grasas",
+        "optionTwoEN": "Store fats",
+        "optionThreeES": "Producir hormonas",
+        "optionThreeEN": "Produce hormones"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02304",
+      "questionES": "¿Cuál es el proceso por el cual las plantas producen su propio alimento utilizando la luz solar?",
+      "questionEN": "What is the process by which plants produce their own food using sunlight?",
+      "options": {
+        "optionOneES": "Oxidación",
+        "optionOneEN": "Oxidation",
+        "answerdES": "Fotosíntesis",
+        "answerdEN": "Photosynthesis",
+        "optionTwoES": "Respiración celular",
+        "optionTwoEN": "Cellular respiration",
+        "optionThreeES": "Mitosis",
+        "optionThreeEN": "Mitosis"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02305",
+      "questionES": "¿Qué tipo de célula es responsable de la respuesta inmunitaria del cuerpo?",
+      "questionEN": "What type of cell is responsible for the body's immune response?",
+      "options": {
+        "optionOneES": "Neutrófilo",
+        "optionOneEN": "Neutrophil",
+        "answerdES": "Linfocito",
+        "answerdEN": "Lymphocyte",
+        "optionTwoES": "Eritrocito",
+        "optionTwoEN": "Erythrocyte",
+        "optionThreeES": "Plaqueta",
+        "optionThreeEN": "Platelet"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02306",
+      "questionES": "¿Cuál es el proceso por el cual las células obtienen energía a partir de la glucosa?",
+      "questionEN": "What is the process by which cells obtain energy from glucose?",
+      "options": {
+        "optionOneES": "Fotosíntesis",
+        "optionOneEN": "Photosynthesis",
+        "answerdES": "Respiración celular",
+        "answerdEN": "Cellular respiration",
+        "optionTwoES": "Mitosis",
+        "optionTwoEN": "Mitosis",
+        "optionThreeES": "Digestión",
+        "optionThreeEN": "Digestion"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02307",
+      "questionES": "¿Cuál es el proceso por el cual las células obtienen energía a partir de la glucosa?",
+      "questionEN": "What is the process by which cells obtain energy from glucose?",
+      "options": {
+        "optionOneES": "Fotosíntesis",
+        "optionOneEN": "Photosynthesis",
+        "answerdES": "Respiración celular",
+        "answerdEN": "Cellular respiration",
+        "optionTwoES": "Mitosis",
+        "optionTwoEN": "Mitosis",
+        "optionThreeES": "Digestión",
+        "optionThreeEN": "Digestion"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02308",
+      "questionES": "¿Qué tipo de célula es capaz de realizar la fotosíntesis?",
+      "questionEN": "What type of cell is capable of photosynthesis?",
+      "options": {
+        "optionOneES": "Célula animal",
+        "optionOneEN": "Animal cell",
+        "answerdES": "Célula vegetal",
+        "answerdEN": "Plant cell",
+        "optionTwoES": "Célula sanguínea",
+        "optionTwoEN": "Blood cell",
+        "optionThreeES": "Célula bacteriana",
+        "optionThreeEN": "Bacterial cell"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02309",
+      "questionES": "¿Qué orgánulo es conocido como la 'central de energía' de la célula?",
+      "questionEN": "Which organelle is known as the 'powerhouse' of the cell?",
+      "options": {
+        "optionOneES": "Ribosomas",
+        "optionOneEN": "Ribosomes",
+        "answerdES": "Mitocondrias",
+        "answerdEN": "Mitochondria",
+        "optionTwoES": "Lisosomas",
+        "optionTwoEN": "Lysosomes",
+        "optionThreeES": "Retículo endoplásmico",
+        "optionThreeEN": "Endoplasmic reticulum"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02310",
+      "questionES": "¿En qué parte del cuerpo se encuentra el sistema linfático?",
+      "questionEN": "In which part of the body is the lymphatic system located?",
+      "options": {
+        "optionOneES": "Cabeza",
+        "optionOneEN": "Head",
+        "answerdES": "Todo el cuerpo",
+        "answerdEN": "Throughout the body",
+        "optionTwoES": "Abdomen",
+        "optionTwoEN": "Abdomen",
+        "optionThreeES": "Piernas",
+        "optionThreeEN": "Legs"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "02601",
+      "questionES": "¿Qué tipo de tejido conecta los músculos a los huesos?",
+      "questionEN": "What type of tissue connects muscles to bones?",
+      "options": {
+        "optionOneES": "Tejido óseo",
+        "optionOneEN": "Bone tissue",
+        "answerdES": "Tejido conectivo",
+        "answerdEN": "Connective tissue",
+        "optionTwoES": "Tejido muscular",
+        "optionTwoEN": "Muscle tissue",
+        "optionThreeES": "Tejido nervioso",
+        "optionThreeEN": "Nervous tissue"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02602",
+      "questionES": "¿Qué órgano humano tiene la capacidad de regenerarse?",
+      "questionEN": "Which human organ has the ability to regenerate?",
+      "options": {
+        "optionOneES": "Corazón",
+        "optionOneEN": "Heart",
+        "answerdES": "Hígado",
+        "answerdEN": "Liver",
+        "optionTwoES": "Cerebro",
+        "optionTwoEN": "Brain",
+        "optionThreeES": "Pulmones",
+        "optionThreeEN": "Lungs"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02603",
+      "questionES": "¿Cuál es la función principal de las válvulas del corazón?",
+      "questionEN": "What is the main function of the valves in the heart?",
+      "options": {
+        "optionOneES": "Regular el flujo sanguíneo",
+        "optionOneEN": "Regulate blood flow",
+        "answerdES": "Evitar el reflujo sanguíneo",
+        "answerdEN": "Prevent blood backflow",
+        "optionTwoES": "Producir células sanguíneas",
+        "optionTwoEN": "Produce blood cells",
+        "optionThreeES": "Digestión de alimentos",
+        "optionThreeEN": "Digestion of food"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02604",
+      "questionES": "¿Qué tipo de célula es responsable de la producción de anticuerpos en el sistema inmunológico?",
+      "questionEN": "What type of cell is responsible for antibody production in the immune system?",
+      "options": {
+        "optionOneES": "Linfocitos T",
+        "optionOneEN": "T lymphocytes",
+        "answerdES": "Linfocitos B",
+        "answerdEN": "B lymphocytes",
+        "optionTwoES": "Monocitos",
+        "optionTwoEN": "Monocytes",
+        "optionThreeES": "Neutrófilos",
+        "optionThreeEN": "Neutrophils"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02605",
+      "questionES": "¿Qué estructura del sistema digestivo absorbe la mayoría de los nutrientes durante la digestión?",
+      "questionEN": "Which structure in the digestive system absorbs most of the nutrients during digestion?",
+      "options": {
+        "optionOneES": "Intestino grueso",
+        "optionOneEN": "Large intestine",
+        "answerdES": "Intestino delgado",
+        "answerdEN": "Small intestine",
+        "optionTwoES": "Hígado",
+        "optionTwoEN": "Liver",
+        "optionThreeES": "Colon",
+        "optionThreeEN": "Colon"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02606",
+      "questionES": "¿Qué parte del sistema nervioso controla las funciones involuntarias del cuerpo, como la respiración y el latido del corazón?",
+      "questionEN": "Which part of the nervous system controls involuntary functions of the body, such as breathing and heart rate?",
+      "options": {
+        "optionOneES": "Sistema nervioso central",
+        "optionOneEN": "Central nervous system",
+        "answerdES": "Sistema nervioso autónomo",
+        "answerdEN": "Autonomic nervous system",
+        "optionTwoES": "Sistema nervioso periférico",
+        "optionTwoEN": "Peripheral nervous system",
+        "optionThreeES": "Sistema nervioso somático",
+        "optionThreeEN": "Somatic nervous system"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02607",
+      "questionES": "¿Qué parte del sistema nervioso controla el equilibrio y la coordinación del cuerpo?",
+      "questionEN": "Which part of the nervous system controls balance and coordination in the body?",
+      "options": {
+        "optionOneES": "Corteza Prefrontal",
+        "optionOneEN": "Prefrontal Cortex",
+        "answerdES": "Cerebelo",
+        "answerdEN": "Cerebellum",
+        "optionTwoES": "Corteza cerebral",
+        "optionTwoEN": "Cerebral cortex",
+        "optionThreeES": "Hipotálamo",
+        "optionThreeEN": "Hypothalamus"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02608",
+      "questionES": "¿Cuál es la función principal de las células de Merkel en la piel?",
+      "questionEN": "What is the main function of Merkel cells in the skin?",
+      "options": {
+        "optionOneES": "Producción de melanina",
+        "optionOneEN": "Production of melanin",
+        "answerdES": "Sensación táctil y presión",
+        "answerdEN": "Sense touch and pressure",
+        "optionTwoES": "Protección contra rayos UV",
+        "optionTwoEN": "Protection against UV rays",
+        "optionThreeES": "Producción de queratina",
+        "optionThreeEN": "Production of keratin"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02609",
+      "questionES": "¿Qué tipo de células son responsables de la producción de anticuerpos en el sistema inmunológico?",
+      "questionEN": "What type of cells are responsible for antibody production in the immune system?",
+      "options": {
+        "optionOneES": "Leucocitos",
+        "optionOneEN": "Leukocytes",
+        "answerdES": "Células B",
+        "answerdEN": "B cells",
+        "optionTwoES": "Células T",
+        "optionTwoEN": "T cells",
+        "optionThreeES": "Eritrocitos",
+        "optionThreeEN": "Erythrocytes"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "02610",
+      "questionES": "¿Cuál es la función principal de los osteoblastos en el proceso de remodelación ósea?",
+      "questionEN": "What is the main function of osteoblasts in the bone remodeling process?",
+      "options": {
+        "optionOneES": "Descomposición de hueso viejo",
+        "optionOneEN": "Breakdown of old bone",
+        "answerdES": "Formación de nuevo hueso",
+        "answerdEN": "Formation of new bone",
+        "optionTwoES": "Almacenar calcio",
+        "optionTwoEN": "Store calcium",
+        "optionThreeES": "Producción de glóbulos blancos",
+        "optionThreeEN": "Produce white blood cells"
+      },
+      "categoryES": "Ciencia y Tecnologia",
+      "categoryEN": "Science & Technology",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03001",
       "questionES": "¿En qué ciudad nació William Shakespeare?",
       "questionEN": "In which town was William Shakespeare born?",
       "options": {
@@ -1200,7 +1732,558 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "04000",
+      "id": "03002",
+      "questionES": "¿Quién pintó la famosa obra 'La última cena'?",
+      "questionEN": "Who painted the famous work 'The Last Supper'?",
+      "options": {
+        "optionOneES": "Vincent van Gogh",
+        "optionOneEN": "Vincent van Gogh",
+        "answerdES": "Leonardo da Vinci",
+        "answerdEN": "Leonardo da Vinci",
+        "optionTwoES": "Pablo Picasso",
+        "optionTwoEN": "Pablo Picasso",
+        "optionThreeES": "Michelangelo",
+        "optionThreeEN": "Michelangelo"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03003",
+      "questionES": "¿Qué famoso pintor surrealista es conocido por sus relojes blandos en obras como 'La persistencia de la memoria'?",
+      "questionEN": "Which famous surrealist painter is known for his melting clocks in works such as 'The Persistence of Memory'?",
+      "options": {
+        "optionOneES": "Salvador Dalí",
+        "optionOneEN": "Salvador Dalí",
+        "answerdES": "René Magritte",
+        "answerdEN": "René Magritte",
+        "optionTwoES": "Pablo Picasso",
+        "optionTwoEN": "Pablo Picasso",
+        "optionThreeES": "Claude Monet",
+        "optionThreeEN": "Claude Monet"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03004",
+      "questionES": "¿Quién escribió la novela 'Cien años de soledad'?",
+      "questionEN": "Who wrote the novel 'One Hundred Years of Solitude'?",
+      "options": {
+        "optionOneES": "Gabriel García Márquez",
+        "optionOneEN": "Gabriel García Márquez",
+        "answerdES": "Isabel Allende",
+        "answerdEN": "Isabel Allende",
+        "optionTwoES": "Mario Vargas Llosa",
+        "optionTwoEN": "Mario Vargas Llosa",
+        "optionThreeES": "Julio Cortázar",
+        "optionThreeEN": "Julio Cortázar"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03005",
+      "questionES": "¿Cuál de las siguientes obras pertenece a William Shakespeare?",
+      "questionEN": "Which of the following works belongs to William Shakespeare?",
+      "options": {
+        "optionOneES": "Crimen y castigo",
+        "optionOneEN": "Crime and Punishment",
+        "answerdES": "Romeo y Julieta",
+        "answerdEN": "Romeo and Juliet",
+        "optionTwoES": "Don Quijote",
+        "optionTwoEN": "Don Quixote",
+        "optionThreeES": "Guerra y paz",
+        "optionThreeEN": "War and Peace"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03006",
+      "questionES": "¿Quién es el autor de la serie de libros 'Harry Potter'?",
+      "questionEN": "Who is the author of the 'Harry Potter' book series?",
+      "options": {
+        "optionOneES": "George R.R. Martin",
+        "optionOneEN": "George R.R. Martin",
+        "answerdES": "J.K. Rowling",
+        "answerdEN": "J.K. Rowling",
+        "optionTwoES": "Stephen King",
+        "optionTwoEN": "Stephen King",
+        "optionThreeES": "Agatha Christie",
+        "optionThreeEN": "Agatha Christie"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03007",
+      "questionES": "¿Cuál de las siguientes obras fue escrita por Jane Austen?",
+      "questionEN": "Which of the following works was written by Jane Austen?",
+      "options": {
+        "optionOneES": "Orgullo y prejuicio",
+        "optionOneEN": "Pride and Prejudice",
+        "answerdES": "Crimen y castigo",
+        "answerdEN": "Crime and Punishment",
+        "optionTwoES": "Matar a un ruiseñor",
+        "optionTwoEN": "To Kill a Mockingbird",
+        "optionThreeES": "1984",
+        "optionThreeEN": "1984"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03008",
+      "questionES": "¿Quién compuso la 'Novena Sinfonía'?",
+      "questionEN": "Who composed the 'Ninth Symphony'?",
+      "options": {
+        "optionOneES": "Ludwig van Beethoven",
+        "optionOneEN": "Ludwig van Beethoven",
+        "answerdES": "Wolfgang Amadeus Mozart",
+        "answerdEN": "Wolfgang Amadeus Mozart",
+        "optionTwoES": "Johann Sebastian Bach",
+        "optionTwoEN": "Johann Sebastian Bach",
+        "optionThreeES": "Franz Schubert",
+        "optionThreeEN": "Franz Schubert"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03009",
+      "questionES": "¿Quién compuso la ópera 'El Barbero de Sevilla'?",
+      "questionEN": "Who composed the opera 'The Barber of Seville'?",
+      "options": {
+        "optionOneES": "Giacomo Puccini",
+        "optionOneEN": "Giacomo Puccini",
+        "answerdES": "Gioachino Rossini",
+        "answerdEN": "Gioachino Rossini",
+        "optionTwoES": "Richard Wagner",
+        "optionTwoEN": "Richard Wagner",
+        "optionThreeES": "Giuseppe Verdi",
+        "optionThreeEN": "Giuseppe Verdi"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03010",
+      "questionES": "¿Quién fue el fundador del movimiento artístico conocido como Cubismo?",
+      "questionEN": "Who was the founder of the artistic movement known as Cubism?",
+      "options": {
+        "optionOneES": "Pablo Picasso",
+        "optionOneEN": "Pablo Picasso",
+        "answerdES": "Georges Braque",
+        "answerdEN": "Georges Braque",
+        "optionTwoES": "Claude Monet",
+        "optionTwoEN": "Claude Monet",
+        "optionThreeES": "Vincent van Gogh",
+        "optionThreeEN": "Vincent van Gogh"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "03301",
+      "questionES": "¿Qué pintor flamenco del siglo XVII es conocido por sus retratos detallados y autorretratos, incluyendo 'La Ronda Nocturna'?",
+      "questionEN": "Which 17th-century Flemish painter is known for his detailed portraits and self-portraits, including 'The Night Watch'?",
+      "options": {
+        "optionOneES": "Peter Paul Rubens",
+        "optionOneEN": "Peter Paul Rubens",
+        "answerdES": "Rembrandt van Rijn",
+        "answerdEN": "Rembrandt van Rijn",
+        "optionTwoES": "Jan van Eyck",
+        "optionTwoEN": "Jan van Eyck",
+        "optionThreeES": "Hieronymus Bosch",
+        "optionThreeEN": "Hieronymus Bosch"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03302",
+      "questionES": "¿Cuál de las siguientes óperas fue compuesta por Giuseppe Verdi?",
+      "questionEN": "Which of the following operas was composed by Giuseppe Verdi?",
+      "options": {
+        "optionOneES": "Carmen",
+        "optionOneEN": "Carmen",
+        "answerdES": "La Traviata",
+        "answerdEN": "La Traviata",
+        "optionTwoES": "The Magic Flute",
+        "optionTwoEN": "The Magic Flute",
+        "optionThreeES": "Don Giovanni",
+        "optionThreeEN": "Don Giovanni"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03303",
+      "questionES": "¿Cuál de las siguientes óperas fue compuesta por Giuseppe Verdi?",
+      "questionEN": "Which of the following operas was composed by Giuseppe Verdi?",
+      "options": {
+        "optionOneES": "Carmen",
+        "optionOneEN": "Carmen",
+        "answerdES": "La Traviata",
+        "answerdEN": "La Traviata",
+        "optionTwoES": "The Magic Flute",
+        "optionTwoEN": "The Magic Flute",
+        "optionThreeES": "Don Giovanni",
+        "optionThreeEN": "Don Giovanni"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03304",
+      "questionES": "¿Quién compuso la ópera 'Las Bodas de Fígaro'?",
+      "questionEN": "Who composed the opera 'The Marriage of Figaro'?",
+      "options": {
+        "optionOneES": "Franz Schubert",
+        "optionOneEN": "Franz Schubert",
+        "answerdES": "Wolfgang Amadeus Mozart",
+        "answerdEN": "Wolfgang Amadeus Mozart",
+        "optionTwoES": "Gioachino Rossini",
+        "optionTwoEN": "Gioachino Rossini",
+        "optionThreeES": "Richard Wagner",
+        "optionThreeEN": "Richard Wagner"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03305",
+      "questionES": "¿Quién compuso la ópera 'La Flauta Mágica'?",
+      "questionEN": "Who composed the opera 'The Magic Flute'?",
+      "options": {
+        "optionOneES": "Richard Wagner",
+        "optionOneEN": "Richard Wagner",
+        "answerdES": "Wolfgang Amadeus Mozart",
+        "answerdEN": "Wolfgang Amadeus Mozart",
+        "optionTwoES": "Giuseppe Verdi",
+        "optionTwoEN": "Giuseppe Verdi",
+        "optionThreeES": "Gioachino Rossini",
+        "optionThreeEN": "Gioachino Rossini"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03306",
+      "questionES": "¿Quién escribió 'Crónica de una muerte anunciada'?",
+      "questionEN": "Who wrote 'Chronicle of a Death Foretold'?",
+      "options": {
+        "optionOneES": "Julio Cortázar",
+        "optionOneEN": "Julio Cortázar",
+        "answerdES": "Gabriel García Márquez",
+        "answerdEN": "Gabriel García Márquez",
+        "optionTwoES": "Isabel Allende",
+        "optionTwoEN": "Isabel Allende",
+        "optionThreeES": "Mario Vargas Llosa",
+        "optionThreeEN": "Mario Vargas Llosa"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03307",
+      "questionES": "¿Quién es el autor de la trilogía 'Millennium', que incluye 'Los hombres que no amaban a las mujeres'?",
+      "questionEN": "Who is the author of the 'Millennium' trilogy, which includes 'The Girl with the Dragon Tattoo'?",
+      "options": {
+        "optionOneES": "Henning Mankell",
+        "optionOneEN": "Henning Mankell",
+        "answerdES": "Stieg Larsson",
+        "answerdEN": "Stieg Larsson",
+        "optionTwoES": "Jo Nesbø",
+        "optionTwoEN": "Jo Nesbø",
+        "optionThreeES": "Agatha Christie",
+        "optionThreeEN": "Agatha Christie"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03308",
+      "questionES": "¿Cuál de las siguientes novelas pertenece a la serie 'Canción de Hielo y Fuego'?",
+      "questionEN": "Which of the following novels belongs to the 'A Song of Ice and Fire' series?",
+      "options": {
+        "optionOneES": "El Hobbit",
+        "optionOneEN": "The Hobbit",
+        "answerdES": "Juego de Tronos",
+        "answerdEN": "Game of Thrones",
+        "optionTwoES": "1984",
+        "optionTwoEN": "1984",
+        "optionThreeES": "Matar a un ruiseñor",
+        "optionThreeEN": "To Kill a Mockingbird"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03309",
+      "questionES": "¿Quién es el autor de la novela 'Matar a un ruiseñor'?",
+      "questionEN": "Who is the author of the novel 'To Kill a Mockingbird'?",
+      "options": {
+        "optionOneES": "John Steinbeck",
+        "optionOneEN": "John Steinbeck",
+        "answerdES": "Harper Lee",
+        "answerdEN": "Harper Lee",
+        "optionTwoES": "F. Scott Fitzgerald",
+        "optionTwoEN": "F. Scott Fitzgerald",
+        "optionThreeES": "George Orwell",
+        "optionThreeEN": "George Orwell"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03310",
+      "questionES": "¿Quién es el autor de la novela 'Matar a un ruiseñor'?",
+      "questionEN": "Who is the author of the novel 'To Kill a Mockingbird'?",
+      "options": {
+        "optionOneES": "John Steinbeck",
+        "optionOneEN": "John Steinbeck",
+        "answerdES": "Harper Lee",
+        "answerdEN": "Harper Lee",
+        "optionTwoES": "F. Scott Fitzgerald",
+        "optionTwoEN": "F. Scott Fitzgerald",
+        "optionThreeES": "George Orwell",
+        "optionThreeEN": "George Orwell"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "03601",
+      "questionES": "¿Cuál de los siguientes movimientos artísticos se caracteriza por el uso de formas geométricas y colores primarios?",
+      "questionEN": "Which of the following artistic movements is characterized by the use of geometric shapes and primary colors?",
+      "options": {
+        "optionOneES": "Expresionismo",
+        "optionOneEN": "Expressionism",
+        "answerdES": "Neoplasticismo",
+        "answerdEN": "Neoplasticism",
+        "optionTwoES": "Surrealismo",
+        "optionTwoEN": "Surrealism",
+        "optionThreeES": "Romanticismo",
+        "optionThreeEN": "Romanticism"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03602",
+      "questionES": "¿Quién es conocido por sus obras de arte pop, como las latas de sopa Campbell's?",
+      "questionEN": "Who is known for his pop art works, such as the Campbell's soup cans?",
+      "options": {
+        "optionOneES": "Andy Warhol",
+        "optionOneEN": "Andy Warhol",
+        "answerdES": "Jackson Pollock",
+        "answerdEN": "Jackson Pollock",
+        "optionTwoES": "Piet Mondrian",
+        "optionTwoEN": "Piet Mondrian",
+        "optionThreeES": "Claude Monet",
+        "optionThreeEN": "Claude Monet"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03603",
+      "questionES": "¿Quién escribió 'Los tres mosqueteros'?",
+      "questionEN": "Who wrote 'The Three Musketeers'?",
+      "options": {
+        "optionOneES": "Alexandre Dumas",
+        "optionOneEN": "Alexandre Dumas",
+        "answerdES": "Victor Hugo",
+        "answerdEN": "Victor Hugo",
+        "optionTwoES": "Charles Dickens",
+        "optionTwoEN": "Charles Dickens",
+        "optionThreeES": "Jane Austen",
+        "optionThreeEN": "Jane Austen"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03604",
+      "questionES": "¿Quién escribió 'El Señor de los Anillos'?",
+      "questionEN": "Who wrote 'The Lord of the Rings'?",
+      "options": {
+        "optionOneES": "J.K. Rowling",
+        "optionOneEN": "J.K. Rowling",
+        "answerdES": "J.R.R. Tolkien",
+        "answerdEN": "J.R.R. Tolkien",
+        "optionTwoES": "C.S. Lewis",
+        "optionTwoEN": "C.S. Lewis",
+        "optionThreeES": "George R.R. Martin",
+        "optionThreeEN": "George R.R. Martin"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03605",
+      "questionES": "¿Cuál es el título de la primera novela de la serie 'Harry Potter'?",
+      "questionEN": "What is the title of the first novel in the 'Harry Potter' series?",
+      "options": {
+        "optionOneES": "Harry Potter y la cámara secreta",
+        "optionOneEN": "Harry Potter and the Chamber of Secrets",
+        "answerdES": "Harry Potter y la piedra filosofal",
+        "answerdEN": "Harry Potter and the Philosopher's Stone",
+        "optionTwoES": "Harry Potter y el prisionero de Azkaban",
+        "optionTwoEN": "Harry Potter and the Prisoner of Azkaban",
+        "optionThreeES": "Harry Potter y las Reliquias de la Muerte",
+        "optionThreeEN": "Harry Potter and the Deathly Hallows"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03606",
+      "questionES": "¿Quién es el autor de la serie de libros 'Cazadores de sombras'?",
+      "questionEN": "Who is the author of the book series 'The Mortal Instruments'?",
+      "options": {
+        "optionOneES": "Cassandra Clare",
+        "optionOneEN": "Cassandra Clare",
+        "answerdES": "Veronica Roth",
+        "answerdEN": "Veronica Roth",
+        "optionTwoES": "John Green",
+        "optionTwoEN": "John Green",
+        "optionThreeES": "Rick Riordan",
+        "optionThreeEN": "Rick Riordan"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03607",
+      "questionES": "¿Cuál de las siguientes obras es una pintura de Claude Monet?",
+      "questionEN": "Which of the following works is a painting by Claude Monet?",
+      "options": {
+        "optionOneES": "La persistencia de la memoria",
+        "optionOneEN": "The Persistence of Memory",
+        "answerdES": "Nenúfares",
+        "answerdEN": "Water Lilies",
+        "optionTwoES": "Guernica",
+        "optionTwoEN": "Guernica",
+        "optionThreeES": "La noche estrellada",
+        "optionThreeEN": "Starry Night"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03608",
+      "questionES": "¿Quién es conocido como el 'Rey del Pop'?",
+      "questionEN": "Who is known as the 'King of Pop'?",
+      "options": {
+        "optionOneES": "Elvis Presley",
+        "optionOneEN": "Elvis Presley",
+        "answerdES": "Michael Jackson",
+        "answerdEN": "Michael Jackson",
+        "optionTwoES": "The Beatles",
+        "optionTwoEN": "The Beatles",
+        "optionThreeES": "Prince",
+        "optionThreeEN": "Prince"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03609",
+      "questionES": "¿Qué instrumento musical está asociado comúnmente con el jazz?",
+      "questionEN": "What musical instrument is commonly associated with jazz?",
+      "options": {
+        "optionOneES": "Violín",
+        "optionOneEN": "Violin",
+        "answerdES": "Saxofón",
+        "answerdEN": "Saxophone",
+        "optionTwoES": "Trompeta",
+        "optionTwoEN": "Trumpet",
+        "optionThreeES": "Acordeón",
+        "optionThreeEN": "Accordion"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "03610",
+      "questionES": "¿Cuál de las siguientes bandas es conocida por su álbum 'The Dark Side of the Moon'?",
+      "questionEN": "Which of the following bands is known for their album 'The Dark Side of the Moon'?",
+      "options": {
+        "optionOneES": "The Rolling Stones",
+        "optionOneEN": "The Rolling Stones",
+        "answerdES": "Pink Floyd",
+        "answerdEN": "Pink Floyd",
+        "optionTwoES": "Led Zeppelin",
+        "optionTwoEN": "Led Zeppelin",
+        "optionThreeES": "The Beatles",
+        "optionThreeEN": "The Beatles"
+      },
+      "categoryES": "Arte y Literatura",
+      "categoryEN": "Art & Literature",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04001",
       "questionES": "¿Cuál de las siguientes NO es un tipo de roca:",
       "questionEN": "Which of the following is NOT a type of rock:",
       "options": {
@@ -1219,7 +2302,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "05000",
+      "id": "05001",
       "questionES": "¿Cuántas cuerdas tiene un violín?",
       "questionEN": "How many strings does a violin have?",
       "options": {
@@ -1238,7 +2321,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "06000",
+      "id": "06001",
       "questionES": "¿Cuál es el mamífero más oloroso:",
       "questionEN": "Which of these is the smelliest mammal:",
       "options": {
@@ -1257,7 +2340,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "07000",
+      "id": "07001",
       "questionES": "¿Dónde se celebró la Copa 1994?",
       "questionEN": "Where was the 1994 World Cup held?",
       "options": {
@@ -1276,7 +2359,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "08000",
+      "id": "08001",
       "questionES": "La primera mención escrita de la pasta seca se remonta a viajeros árabes de ¿qué siglo?",
       "questionEN": "The first written record of dry pasta can be traced to Arab travelers from which century?",
       "options": {
@@ -1295,7 +2378,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "09000",
+      "id": "09001",
       "questionES": "Cómo se llama el vaquero héroe de Toy Story?",
       "questionEN": "What is the name of the cowboy hero in Toy Story?",
       "options": {
@@ -1314,7 +2397,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "09001",
+      "id": "09002",
       "questionES": "En la película 'Mary Poppins', ¿cuál es la ocupación principal de Mary Poppins?",
       "questionEN": "In the movie 'Mary Poppins,' what is Mary Poppins' main occupation?",
       "options": {
@@ -1333,7 +2416,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "09002",
+      "id": "09003",
       "questionES": "Completa el título de este famoso western: 'El Bueno, el Feo y...",
       "questionEN": "Complete the title of this famous western: 'The Good, the Bad, and...",
       "options": {
@@ -1352,7 +2435,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "10000",
+      "id": "10001",
       "questionES": "¿Cuántos huesos tiene un cráneo adulto?",
       "questionEN": "How many bones are there in an adult skull?",
       "options": {
@@ -1371,7 +2454,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "10001",
+      "id": "10002",
       "questionES": "¿Cómo se llama el tipo de año que tiene 366 días?",
       "questionEN": "What is the name for the type of year that has 366 days?",
       "options": {
@@ -1390,7 +2473,7 @@
       "dificultyEN": "Easy"
     },
     {
-      "id": "10002",
+      "id": "10003",
       "questionES": "¿Cómo se llama el tipo de año que tiene 366 días?",
       "questionEN": "What is the name for the type of year that has 366 days?",
       "options": {
