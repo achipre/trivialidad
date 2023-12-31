@@ -2302,6 +2302,557 @@
       "dificultyEN": "Easy"
     },
     {
+      "id": "04002",
+      "questionES": "¿Cuál es la capital de Francia?",
+      "questionEN": "What is the capital of France?",
+      "options": {
+        "optionOneES": "Berlín",
+        "optionOneEN": "Berlin",
+        "answerdES": "París",
+        "answerdEN": "Paris",
+        "optionTwoES": "Londres",
+        "optionTwoEN": "London",
+        "optionThreeES": "Roma",
+        "optionThreeEN": "Rome"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04003",
+      "questionES": "¿En qué continente se encuentra Australia?",
+      "questionEN": "In which continent is Australia located?",
+      "options": {
+        "optionOneES": "Asia",
+        "optionOneEN": "Asia",
+        "answerdES": "Oceanía",
+        "answerdEN": "Oceania",
+        "optionTwoES": "Europa",
+        "optionTwoEN": "Europe",
+        "optionThreeES": "África",
+        "optionThreeEN": "Africa"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04004",
+      "questionES": "¿Cuál es el país más grande del mundo?",
+      "questionEN": "What is the largest country in the world?",
+      "options": {
+        "optionOneES": "China",
+        "optionOneEN": "China",
+        "answerdES": "Rusia",
+        "answerdEN": "Russia",
+        "optionTwoES": "Estados Unidos",
+        "optionTwoEN": "United States",
+        "optionThreeES": "Canadá",
+        "optionThreeEN": "Canada"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04005",
+      "questionES": "¿Cuál es la montaña más alta del mundo?",
+      "questionEN": "What is the highest mountain in the world?",
+      "options": {
+        "optionOneES": "Monte Everest",
+        "optionOneEN": "Mount Everest",
+        "answerdES": "Monte Everest",
+        "answerdEN": "Mount Everest",
+        "optionTwoES": "K2",
+        "optionTwoEN": "K2",
+        "optionThreeES": "Monte McKinley",
+        "optionThreeEN": "Denali"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04006",
+      "questionES": "¿Cuál es el océano más grande del mundo?",
+      "questionEN": "What is the largest ocean in the world?",
+      "options": {
+        "optionOneES": "Océano Atlántico",
+        "optionOneEN": "Atlantic Ocean",
+        "answerdES": "Océano Pacífico",
+        "answerdEN": "Pacific Ocean",
+        "optionTwoES": "Océano Índico",
+        "optionTwoEN": "Indian Ocean",
+        "optionThreeES": "Océano Ártico",
+        "optionThreeEN": "Arctic Ocean"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04007",
+      "questionES": "¿Cuál es el país conocido como 'la tierra de los canguros'?",
+      "questionEN": "Which country is known as 'the land of kangaroos'?",
+      "options": {
+        "optionOneES": "Nueva Zelanda",
+        "optionOneEN": "New Zealand",
+        "answerdES": "Australia",
+        "answerdEN": "Australia",
+        "optionTwoES": "Canadá",
+        "optionTwoEN": "Canada",
+        "optionThreeES": "Sudáfrica",
+        "optionThreeEN": "South Africa"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04008",
+      "questionES": "¿Cuál es la ciudad conocida como 'la ciudad eterna'?",
+      "questionEN": "Which city is known as 'the eternal city'?",
+      "options": {
+        "optionOneES": "París",
+        "optionOneEN": "Paris",
+        "answerdES": "Roma",
+        "answerdEN": "Rome",
+        "optionTwoES": "Atenas",
+        "optionTwoEN": "Athens",
+        "optionThreeES": "Jerusalén",
+        "optionThreeEN": "Jerusalem"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04009",
+      "questionES": "¿Cuál es la capital de Japón?",
+      "questionEN": "What is the capital of Japan?",
+      "options": {
+        "optionOneES": "Pekín",
+        "optionOneEN": "Beijing",
+        "answerdES": "Tokio",
+        "answerdEN": "Tokyo",
+        "optionTwoES": "Seúl",
+        "optionTwoEN": "Seoul",
+        "optionThreeES": "Bangkok",
+        "optionThreeEN": "Bangkok"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04010",
+      "questionES": "¿Cuál es la capital de Japón?",
+      "questionEN": "What is the capital of Japan?",
+      "options": {
+        "optionOneES": "Pekín",
+        "optionOneEN": "Beijing",
+        "answerdES": "Tokio",
+        "answerdEN": "Tokyo",
+        "optionTwoES": "Seúl",
+        "optionTwoEN": "Seoul",
+        "optionThreeES": "Bangkok",
+        "optionThreeEN": "Bangkok"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "04301",
+      "questionES": "¿Cuál es el lago más grande de África?",
+      "questionEN": "What is the largest lake in Africa?",
+      "options": {
+        "optionOneES": "Lago Tanganica",
+        "optionOneEN": "Lake Tanganyika",
+        "answerdES": "Lago Victoria",
+        "answerdEN": "Lake Victoria",
+        "optionTwoES": "Lago Malaui",
+        "optionTwoEN": "Lake Malawi",
+        "optionThreeES": "Lago Nasser",
+        "optionThreeEN": "Lake Nasser"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04302",
+      "questionES": "¿Cuál es la capital de Australia?",
+      "questionEN": "What is the capital of Australia?",
+      "options": {
+        "optionOneES": "Sídney",
+        "optionOneEN": "Sydney",
+        "answerdES": "Canberra",
+        "answerdEN": "Canberra",
+        "optionTwoES": "Melbourne",
+        "optionTwoEN": "Melbourne",
+        "optionThreeES": "Brisbane",
+        "optionThreeEN": "Brisbane"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04303",
+      "questionES": "¿En qué continente se encuentra la cordillera de los Andes?",
+      "questionEN": "In which continent is the Andes mountain range located?",
+      "options": {
+        "optionOneES": "Asia",
+        "optionOneEN": "Asia",
+        "answerdES": "América del Sur",
+        "answerdEN": "South America",
+        "optionTwoES": "África",
+        "optionTwoEN": "Africa",
+        "optionThreeES": "Europa",
+        "optionThreeEN": "Europe"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04304",
+      "questionES": "¿Cuál es la capital de Irlanda?",
+      "questionEN": "What is the capital of Ireland?",
+      "options": {
+        "optionOneES": "Belfast",
+        "optionOneEN": "Belfast",
+        "answerdES": "Dublín",
+        "answerdEN": "Dublin",
+        "optionTwoES": "Cork",
+        "optionTwoEN": "Cork",
+        "optionThreeES": "Galway",
+        "optionThreeEN": "Galway"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04305",
+      "questionES": "¿Cuál es el estrecho que separa España de Marruecos?",
+      "questionEN": "Which strait separates Spain from Morocco?",
+      "options": {
+        "optionOneES": "Estrecho de Gibraltar",
+        "optionOneEN": "Strait of Gibraltar",
+        "answerdES": "Estrecho de Mesina",
+        "answerdEN": "Strait of Messina",
+        "optionTwoES": "Estrecho de Bering",
+        "optionTwoEN": "Bering Strait",
+        "optionThreeES": "Canal de la Mancha",
+        "optionThreeEN": "English Channel"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04306",
+      "questionES": "¿En qué océano se encuentra la isla de Madagascar?",
+      "questionEN": "In which ocean is the island of Madagascar located?",
+      "options": {
+        "optionOneES": "Océano Pacífico",
+        "optionOneEN": "Pacific Ocean",
+        "answerdES": "Océano Índico",
+        "answerdEN": "Indian Ocean",
+        "optionTwoES": "Océano Atlántico",
+        "optionTwoEN": "Atlantic Ocean",
+        "optionThreeES": "Océano Antártico",
+        "optionThreeEN": "Southern Ocean"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04307",
+      "questionES": "¿Cuál es la capital de Noruega?",
+      "questionEN": "What is the capital of Norway?",
+      "options": {
+        "optionOneES": "Helsinki",
+        "optionOneEN": "Helsinki",
+        "answerdES": "Oslo",
+        "answerdEN": "Oslo",
+        "optionTwoES": "Copenhague",
+        "optionTwoEN": "Copenhagen",
+        "optionThreeES": "Estocolmo",
+        "optionThreeEN": "Stockholm"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04308",
+      "questionES": "¿Cuál es el país más grande de Europa?",
+      "questionEN": "What is the largest country in Europe?",
+      "options": {
+        "optionOneES": "Alemania",
+        "optionOneEN": "Germany",
+        "answerdES": "Rusia",
+        "answerdEN": "Russia",
+        "optionTwoES": "Francia",
+        "optionTwoEN": "France",
+        "optionThreeES": "España",
+        "optionThreeEN": "Spain"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04309",
+      "questionES": "¿Cuál es la capital de Canadá?",
+      "questionEN": "What is the capital of Canada?",
+      "options": {
+        "optionOneES": "Toronto",
+        "optionOneEN": "Toronto",
+        "answerdES": "Ottawa",
+        "answerdEN": "Ottawa",
+        "optionTwoES": "Montreal",
+        "optionTwoEN": "Montreal",
+        "optionThreeES": "Vancouver",
+        "optionThreeEN": "Vancouver"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04310",
+      "questionES": "¿Cuál es la ciudad más poblada de África?",
+      "questionEN": "What is the most populous city in Africa?",
+      "options": {
+        "optionOneES": "Lagos",
+        "optionOneEN": "Lagos",
+        "answerdES": "El Cairo",
+        "answerdEN": "Cairo",
+        "optionTwoES": "Johannesburgo",
+        "optionTwoEN": "Johannesburg",
+        "optionThreeES": "Nairobi",
+        "optionThreeEN": "Nairobi"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "04601",
+      "questionES": "¿En qué país se encuentra el desierto de Kalahari?",
+      "questionEN": "In which country is the Kalahari Desert located?",
+      "options": {
+        "optionOneES": "Namibia",
+        "optionOneEN": "Namibia",
+        "answerdES": "Botswana",
+        "answerdEN": "Botswana",
+        "optionTwoES": "Sudáfrica",
+        "optionTwoEN": "South Africa",
+        "optionThreeES": "Zimbabue",
+        "optionThreeEN": "Zimbabwe"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04602",
+      "questionES": "¿En qué continente se encuentra el monte Kilimanjaro?",
+      "questionEN": "In which continent is Mount Kilimanjaro located?",
+      "options": {
+        "optionOneES": "Asia",
+        "optionOneEN": "Asia",
+        "answerdES": "África",
+        "answerdEN": "Africa",
+        "optionTwoES": "Europa",
+        "optionTwoEN": "Europe",
+        "optionThreeES": "Oceanía",
+        "optionThreeEN": "Oceania"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04603",
+      "questionES": "¿Cuál es el río más largo de América del Norte?",
+      "questionEN": "What is the longest river in North America?",
+      "options": {
+        "optionOneES": "Río Colorado",
+        "optionOneEN": "Colorado River",
+        "answerdES": "Río Misuri",
+        "answerdEN": "Missouri River",
+        "optionTwoES": "Río Misisipi",
+        "optionTwoEN": "Mississippi River",
+        "optionThreeES": "Río Columbia",
+        "optionThreeEN": "Columbia River"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04604",
+      "questionES": "¿Cuál es el país con la mayor cantidad de islas en el mundo?",
+      "questionEN": "Which country has the highest number of islands in the world?",
+      "options": {
+        "optionOneES": "Suecia",
+        "optionOneEN": "Sweden",
+        "answerdES": "Suecia",
+        "answerdEN": "Sweden",
+        "optionTwoES": "Filipinas",
+        "optionTwoEN": "Philippines",
+        "optionThreeES": "Indonesia",
+        "optionThreeEN": "Indonesia"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04605",
+      "questionES": "¿Cuál es el punto más bajo en la Tierra?",
+      "questionEN": "What is the lowest point on Earth?",
+      "options": {
+        "optionOneES": "Cañón del Colca",
+        "optionOneEN": "Colca Canyon",
+        "answerdES": "Depresión Challenger",
+        "answerdEN": "Challenger Deep",
+        "optionTwoES": "Cañón del Colorado",
+        "optionTwoEN": "Grand Canyon",
+        "optionThreeES": "Gran Fosa",
+        "optionThreeEN": "Great Dismal Swamp"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04606",
+      "questionES": "¿Cuál es el país con mayor cantidad de lagos en el mundo?",
+      "questionEN": "Which country has the highest number of lakes in the world?",
+      "options": {
+        "optionOneES": "Canadá",
+        "optionOneEN": "Canada",
+        "answerdES": "Finlandia",
+        "answerdEN": "Finland",
+        "optionTwoES": "Rusia",
+        "optionTwoEN": "Russia",
+        "optionThreeES": "Suecia",
+        "optionThreeEN": "Sweden"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04607",
+      "questionES": "¿En qué país se encuentra el lago Titicaca?",
+      "questionEN": "In which country is Lake Titicaca located?",
+      "options": {
+        "optionOneES": "Perú",
+        "optionOneEN": "Peru",
+        "answerdES": "Perú",
+        "answerdEN": "Peru",
+        "optionTwoES": "Bolivia",
+        "optionTwoEN": "Bolivia",
+        "optionThreeES": "Ecuador",
+        "optionThreeEN": "Ecuador"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04608",
+      "questionES": "¿Cuántos países comparten una frontera con Rusia?",
+      "questionEN": "How many countries share a border with Russia?",
+      "options": {
+        "optionOneES": "10",
+        "optionOneEN": "10",
+        "answerdES": "14",
+        "answerdEN": "14",
+        "optionTwoES": "18",
+        "optionTwoEN": "18",
+        "optionThreeES": "22",
+        "optionThreeEN": "22"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04609",
+      "questionES": "¿Cuál es el mayor lago de América del Sur?",
+      "questionEN": "What is the largest lake in South America?",
+      "options": {
+        "optionOneES": "Lago de Maracaibo",
+        "optionOneEN": "Lake Maracaibo",
+        "answerdES": "Lago Titicaca",
+        "answerdEN": "Lake Titicaca",
+        "optionTwoES": "Lago General Carrera",
+        "optionTwoEN": "General Carrera Lake",
+        "optionThreeES": "Lago de Patos",
+        "optionThreeEN": "Lake Pátzcuaro"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "04610",
+      "questionES": "¿Cuál es la frontera más larga del mundo entre dos países?",
+      "questionEN": "What is the longest border in the world between two countries?",
+      "options": {
+        "optionOneES": "Canadá y Estados Unidos",
+        "optionOneEN": "Canada and United States",
+        "answerdES": "Canadá y Rusia",
+        "answerdEN": "Canada and Russia",
+        "optionTwoES": "India y China",
+        "optionTwoEN": "India and China",
+        "optionThreeES": "Argentina y Chile",
+        "optionThreeEN": "Argentina and Chile"
+      },
+      "categoryES": "Geografía",
+      "categoryEN": "Geography",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
       "id": "05001",
       "questionES": "¿Cuántas cuerdas tiene un violín?",
       "questionEN": "How many strings does a violin have?",
@@ -2319,6 +2870,557 @@
       "categoryEN": "Music",
       "dificultyES": "Facil",
       "dificultyEN": "Easy"
+    },
+    {
+      "id": "05002",
+      "questionES": "¿Qué canción navideña fue escrita por Jose Feliciano?",
+      "questionEN": "Which Christmas song was written by Jose Feliciano?",
+      "options": {
+        "optionOneES": "Jingle Bells",
+        "optionOneEN": "Jingle Bells",
+        "answerdES": "Feliz Navidad",
+        "answerdEN": "Feliz Navidad",
+        "optionTwoES": "Silent Night",
+        "optionTwoEN": "Silent Night",
+        "optionThreeES": "White Christmas",
+        "optionThreeEN": "White Christmas"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05003",
+      "questionES": "¿Cuál de las siguientes bandas es conocida por su álbum 'The Dark Side of the Moon'?",
+      "questionEN": "Which of the following bands is known for their album 'The Dark Side of the Moon'?",
+      "options": {
+        "optionOneES": "The Rolling Stones",
+        "optionOneEN": "The Rolling Stones",
+        "answerdES": "Pink Floyd",
+        "answerdEN": "Pink Floyd",
+        "optionTwoES": "The Beatles",
+        "optionTwoEN": "The Beatles",
+        "optionThreeES": "Led Zeppelin",
+        "optionThreeEN": "Led Zeppelin"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05004",
+      "questionES": "¿En qué año se lanzó el álbum 'Thriller' de Michael Jackson?",
+      "questionEN": "In which year was Michael Jackson's album 'Thriller' released?",
+      "options": {
+        "optionOneES": "1984",
+        "optionOneEN": "1984",
+        "answerdES": "1982",
+        "answerdEN": "1982",
+        "optionTwoES": "1979",
+        "optionTwoEN": "1979",
+        "optionThreeES": "1985",
+        "optionThreeEN": "1985"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05005",
+      "questionES": "¿En qué año se lanzó el álbum 'Thriller' de Michael Jackson?",
+      "questionEN": "In which year was Michael Jackson's album 'Thriller' released?",
+      "options": {
+        "optionOneES": "1984",
+        "optionOneEN": "1984",
+        "answerdES": "1982",
+        "answerdEN": "1982",
+        "optionTwoES": "1979",
+        "optionTwoEN": "1979",
+        "optionThreeES": "1985",
+        "optionThreeEN": "1985"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05006",
+      "questionES": "¿Cuál de las siguientes bandas es considerada pionera del heavy metal?",
+      "questionEN": "Which of the following bands is considered a pioneer of heavy metal?",
+      "options": {
+        "optionOneES": "Led Zeppelin",
+        "optionOneEN": "Led Zeppelin",
+        "answerdES": "Black Sabbath",
+        "answerdEN": "Black Sabbath",
+        "optionTwoES": "Deep Purple",
+        "optionTwoEN": "Deep Purple",
+        "optionThreeES": "Metallica",
+        "optionThreeEN": "Metallica"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05007",
+      "questionES": "¿Cuál de los siguientes artistas es conocido por ser el 'Rey del Reggae'?",
+      "questionEN": "Which of the following artists is known as the 'King of Reggae'?",
+      "options": {
+        "optionOneES": "Sean Paul",
+        "optionOneEN": "Sean Paul",
+        "answerdES": "Bob Marley",
+        "answerdEN": "Bob Marley",
+        "optionTwoES": "Shaggy",
+        "optionTwoEN": "Shaggy",
+        "optionThreeES": "Buju Banton",
+        "optionThreeEN": "Buju Banton"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05008",
+      "questionES": "¿Cuál de las siguientes bandas es conocida por el álbum 'Abbey Road'?",
+      "questionEN": "Which of the following bands is known for the album 'Abbey Road'?",
+      "options": {
+        "optionOneES": "The Rolling Stones",
+        "optionOneEN": "The Rolling Stones",
+        "answerdES": "The Beatles",
+        "answerdEN": "The Beatles",
+        "optionTwoES": "Queen",
+        "optionTwoEN": "Queen",
+        "optionThreeES": "Led Zeppelin",
+        "optionThreeEN": "Led Zeppelin"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05009",
+      "questionES": "¿Cuál de los siguientes artistas es conocido como 'The Boss'?",
+      "questionEN": "Which of the following artists is known as 'The Boss'?",
+      "options": {
+        "optionOneES": "Bruce Springsteen",
+        "optionOneEN": "Bruce Springsteen",
+        "answerdES": "Bruce Springsteen",
+        "answerdEN": "Bruce Springsteen",
+        "optionTwoES": "Elvis Presley",
+        "optionTwoEN": "Elvis Presley",
+        "optionThreeES": "Bob Dylan",
+        "optionThreeEN": "Bob Dylan"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05010",
+      "questionES": "¿En qué año se lanzó el álbum 'Back in Black' de AC/DC?",
+      "questionEN": "In which year was AC/DC's album 'Back in Black' released?",
+      "options": {
+        "optionOneES": "1980",
+        "optionOneEN": "1980",
+        "answerdES": "1980",
+        "answerdEN": "1980",
+        "optionTwoES": "1978",
+        "optionTwoEN": "1978",
+        "optionThreeES": "1983",
+        "optionThreeEN": "1983"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "05301",
+      "questionES": "¿Dónde se sitúa la sección de percusión en la orquesta?",
+      "questionEN": "Where is the percussion section located in the orchestra?",
+      "options": {
+        "optionOneES": "Al frente",
+        "optionOneEN": "At the front",
+        "answerES": "En la parte trasera",
+        "answerEN": "At the back",
+        "optionTwoES": "En el centro",
+        "optionTwoEN": "In the center",
+        "optionThreeES": "En los laterales",
+        "optionThreeEN": "On the sides"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05302",
+      "questionES": "¿Dónde se sitúa la sección de percusión en la orquesta?",
+      "questionEN": "Where is the percussion section located in the orchestra?",
+      "options": {
+        "optionOneES": "Al frente",
+        "optionOneEN": "At the front",
+        "answerES": "En la parte trasera",
+        "answerEN": "At the back",
+        "optionTwoES": "En el centro",
+        "optionTwoEN": "In the center",
+        "optionThreeES": "En los laterales",
+        "optionThreeEN": "On the sides"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05303",
+      "questionES": "Fender Stratocaster es una marca, ¿de qué?",
+      "questionEN": "Fender Stratocaster is a brand, of what?",
+      "options": {
+        "optionOneES": "Automóviles",
+        "optionOneEN": "Automobiles",
+        "answerES": "Instrumentos musicales",
+        "answerEN": "Musical instruments",
+        "optionTwoES": "Electrodomésticos",
+        "optionTwoEN": "Home appliances",
+        "optionThreeES": "Ropa y accesorios",
+        "optionThreeEN": "Clothing and accessories"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05304",
+      "questionES": "¿Cuál es el instrumento nacional de Escocia?",
+      "questionEN": "What is the national instrument of Scotland?",
+      "options": {
+        "optionOneES": "Gaita escocesa",
+        "optionOneEN": "Scottish bagpipes",
+        "answerES": "Gaita escocesa",
+        "answerEN": "Scottish bagpipes",
+        "optionTwoES": "Clarinete",
+        "optionTwoEN": "Clarinet",
+        "optionThreeES": "Acordeón",
+        "optionThreeEN": "Accordion"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05305",
+      "questionES": "¿Qué país ha ganado el Festival de Eurovisión el más veces?",
+      "questionEN": "Which country has won the Eurovision Song Contest the most times?",
+      "options": {
+        "optionOneES": "Italia",
+        "optionOneEN": "Italy",
+        "answerES": "Irlanda",
+        "answerEN": "Ireland",
+        "optionTwoES": "Suecia",
+        "optionTwoEN": "Sweden",
+        "optionThreeES": "Francia",
+        "optionThreeEN": "France"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05306",
+      "questionES": "¿Cuál es el nombre del álbum más vendido de la banda Queen?",
+      "questionEN": "What is the name of Queen's best-selling album?",
+      "options": {
+        "optionOneES": "A Night at the Opera",
+        "optionOneEN": "A Night at the Opera",
+        "answerES": "The Game",
+        "answerEN": "The Game",
+        "optionTwoES": "Sheer Heart Attack",
+        "optionTwoEN": "Sheer Heart Attack",
+        "optionThreeES": "News of the World",
+        "optionThreeEN": "News of the World"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05307",
+      "questionES": "¿Cuál de las siguientes canciones fue lanzada por Nirvana?",
+      "questionEN": "Which of the following songs was released by Nirvana?",
+      "options": {
+        "optionOneES": "Livin' on a Prayer",
+        "optionOneEN": "Livin' on a Prayer",
+        "answerES": "Smells Like Teen Spirit",
+        "answerEN": "Smells Like Teen Spirit",
+        "optionTwoES": "Sweet Child o' Mine",
+        "optionTwoEN": "Sweet Child o' Mine",
+        "optionThreeES": "Bohemian Rhapsody",
+        "optionThreeEN": "Bohemian Rhapsody"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05308",
+      "questionES": "¿Cuál es el nombre del bajista y co-fundador de la banda de rock U2?",
+      "questionEN": "What is the name of the bassist and co-founder of the rock band U2?",
+      "options": {
+        "optionOneES": "Bono",
+        "optionOneEN": "Bono",
+        "answerES": "Adam Clayton",
+        "answerEN": "Adam Clayton",
+        "optionTwoES": "The Edge",
+        "optionTwoEN": "The Edge",
+        "optionThreeES": "Larry Mullen Jr.",
+        "optionThreeEN": "Larry Mullen Jr."
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05309",
+      "questionES": "¿Qué instrumento toca el famoso músico Yo-Yo Ma?",
+      "questionEN": "What instrument does the famous musician Yo-Yo Ma play?",
+      "options": {
+        "optionOneES": "Violonchelo",
+        "optionOneEN": "Cello",
+        "answerES": "Violonchelo",
+        "answerEN": "Cello",
+        "optionTwoES": "Violín",
+        "optionTwoEN": "Violin",
+        "optionThreeES": "Contrabajo",
+        "optionThreeEN": "Double Bass"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05310",
+      "questionES": "¿Quién es conocido como 'El Rey del Reggaetón'?",
+      "questionEN": "Who is known as 'The King of Reggaetón'?",
+      "options": {
+        "optionOneES": "Wisin",
+        "optionOneEN": "Wisin",
+        "answerES": "Daddy Yankee",
+        "answerEN": "Daddy Yankee",
+        "optionTwoES": "Maluma",
+        "optionTwoEN": "Maluma",
+        "optionThreeES": "J Balvin",
+        "optionThreeEN": "J Balvin"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "05601",
+      "questionES": "¿Cuál de las siguientes bandas es conocida por su álbum 'A Night at the Opera'?",
+      "questionEN": "Which of the following bands is known for their album 'A Night at the Opera'?",
+      "options": {
+        "optionOneES": "The Who",
+        "optionOneEN": "The Who",
+        "answerES": "Queen",
+        "answerEN": "Queen",
+        "optionTwoES": "The Rolling Stones",
+        "optionTwoEN": "The Rolling Stones",
+        "optionThreeES": "Led Zeppelin",
+        "optionThreeEN": "Led Zeppelin"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05602",
+      "questionES": "¿Quién fue el principal guitarrista de la banda de rock británica The Who?",
+      "questionEN": "Who was the lead guitarist of the British rock band The Who?",
+      "options": {
+        "optionOneES": "Eric Clapton",
+        "optionOneEN": "Eric Clapton",
+        "answerES": "Pete Townshend",
+        "answerEN": "Pete Townshend",
+        "optionTwoES": "Jimmy Page",
+        "optionTwoEN": "Jimmy Page",
+        "optionThreeES": "David Gilmour",
+        "optionThreeEN": "David Gilmour"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05603",
+      "questionES": "¿Cuál de los siguientes músicos es conocido por sus contribuciones al desarrollo del blues y por su famosa guitarra 'Lucille'?",
+      "questionEN": "Which of the following musicians is known for his contributions to the development of blues and for his famous guitar 'Lucille'?",
+      "options": {
+        "optionOneES": "B.B. King",
+        "optionOneEN": "B.B. King",
+        "answerES": "Jimi Hendrix",
+        "answerEN": "Jimi Hendrix",
+        "optionTwoES": "Robert Johnson",
+        "optionTwoEN": "Robert Johnson",
+        "optionThreeES": "Muddy Waters",
+        "optionThreeEN": "Muddy Waters"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05604",
+      "questionES": "¿Cuál fue el sencillo debut de George Michael como artista en solitario después de Wham!?",
+      "questionEN": "What was George Michael's debut single as a solo artist after Wham!?",
+      "options": {
+        "optionOneES": "George Michael",
+        "optionOneEN": "George Michael",
+        "answerES": "Careless Whisper",
+        "answerEN": "Careless Whisper",
+        "optionTwoES": "Last Christmas",
+        "optionTwoEN": "Last Christmas",
+        "optionThreeES": "Faith",
+        "optionThreeEN": "Faith"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05605",
+      "questionES": "¿Cuál es el nombre del álbum de Michael Jackson lanzado en 1987 que incluye éxitos como 'Bad' y 'Man in the Mirror'?",
+      "questionEN": "What is the name of Michael Jackson's album released in 1987 that includes hits like 'Bad' and 'Man in the Mirror'?",
+      "options": {
+        "optionOneES": "Thriller",
+        "optionOneEN": "Thriller",
+        "answerES": "Bad",
+        "answerEN": "Bad",
+        "optionTwoES": "Off the Wall",
+        "optionTwoEN": "Off the Wall",
+        "optionThreeES": "Dangerous",
+        "optionThreeEN": "Dangerous"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05606",
+      "questionES": "¿Cuál es el nombre del álbum de Michael Jackson lanzado en 1987 que incluye éxitos como 'Bad' y 'Man in the Mirror'?",
+      "questionEN": "What is the name of Michael Jackson's album released in 1987 that includes hits like 'Bad' and 'Man in the Mirror'?",
+      "options": {
+        "optionOneES": "Thriller",
+        "optionOneEN": "Thriller",
+        "answerES": "Bad",
+        "answerEN": "Bad",
+        "optionTwoES": "Off the Wall",
+        "optionTwoEN": "Off the Wall",
+        "optionThreeES": "Dangerous",
+        "optionThreeEN": "Dangerous"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05607",
+      "questionES": "¿Cuál fue el primer sencillo de Madonna lanzado en 1984?",
+      "questionEN": "What was Madonna's first single released in 1984?",
+      "options": {
+        "optionOneES": "Material Girl",
+        "optionOneEN": "Material Girl",
+        "answerES": "Holiday",
+        "answerEN": "Holiday",
+        "optionTwoES": "Like a Virgin",
+        "optionTwoEN": "Like a Virgin",
+        "optionThreeES": "Into the Groove",
+        "optionThreeEN": "Into the Groove"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05608",
+      "questionES": "¿Cuál es el nombre del álbum de Beastie Boys lanzado en 1994 que incluye éxitos como 'Sabotage'?",
+      "questionEN": "What is the name of Beastie Boys' album released in 1994 that includes hits like 'Sabotage'?",
+      "options": {
+        "optionOneES": "Licensed to Ill",
+        "optionOneEN": "Licensed to Ill",
+        "answerES": "Ill Communication",
+        "answerEN": "Ill Communication",
+        "optionTwoES": "Check Your Head",
+        "optionTwoEN": "Check Your Head",
+        "optionThreeES": "Hello Nasty",
+        "optionThreeEN": "Hello Nasty"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05609",
+      "questionES": "¿Cuál es el nombre del álbum de Beastie Boys lanzado en 1994 que incluye éxitos como 'Sabotage'?",
+      "questionEN": "What is the name of Beastie Boys' album released in 1994 that includes hits like 'Sabotage'?",
+      "options": {
+        "optionOneES": "Licensed to Ill",
+        "optionOneEN": "Licensed to Ill",
+        "answerES": "Ill Communication",
+        "answerEN": "Ill Communication",
+        "optionTwoES": "Check Your Head",
+        "optionTwoEN": "Check Your Head",
+        "optionThreeES": "Hello Nasty",
+        "optionThreeEN": "Hello Nasty"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "05610",
+      "questionES": "¿Cuál es el nombre del álbum de Green Day lanzado en 1994 que incluye éxitos como 'Basket Case'?",
+      "questionEN": "What is the name of Green Day's album released in 1994 that includes hits like 'Basket Case'?",
+      "options": {
+        "optionOneES": "American Idiot",
+        "optionOneEN": "American Idiot",
+        "answerES": "Dookie",
+        "answerEN": "Dookie",
+        "optionTwoES": "Insomniac",
+        "optionTwoEN": "Insomniac",
+        "optionThreeES": "Nimrod",
+        "optionThreeEN": "Nimrod"
+      },
+      "categoryES": "Música",
+      "categoryEN": "Music",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
     },
     {
       "id": "06001",
