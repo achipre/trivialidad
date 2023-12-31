@@ -3442,6 +3442,595 @@
       "dificultyEN": "Easy"
     },
     {
+      "id": "06002",
+      "questionES": "¿Cuál es el mamífero que puede volar?",
+      "questionEN": "Which mammal can fly?",
+      "options": {
+        "answerES": "murciélago",
+        "answerEN": "bat",
+        "optionTwoES": "delfín",
+        "optionTwoEN": "dolphin",
+        "optionThreeES": "elefante",
+        "optionThreeEN": "elephant",
+        "optionFourES": "canguro",
+        "optionFourEN": "kangaroo"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06003",
+      "questionES": "¿Cuál es el animal que cambia de color para camuflarse?",
+      "questionEN": "Which animal changes color for camouflage?",
+      "options": {
+        "answerES": "camaleón",
+        "answerEN": "chameleon",
+        "optionTwoES": "jirafa",
+        "optionTwoEN": "giraffe",
+        "optionThreeES": "león",
+        "optionThreeEN": "lion",
+        "optionFourES": "tigre",
+        "optionFourEN": "tiger"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06004",
+      "questionES": "¿Cuál es el insecto que produce miel?",
+      "questionEN": "Which insect produces honey?",
+      "options": {
+        "answerES": "abeja",
+        "answerEN": "bee",
+        "optionTwoES": "mariquita",
+        "optionTwoEN": "ladybug",
+        "optionThreeES": "mariposa",
+        "optionThreeEN": "butterfly",
+        "optionFourES": "escarabajo",
+        "optionFourEN": "beetle"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06005",
+      "questionES": "¿Cuál es el animal que tiene una trompa larga y colmillos grandes?",
+      "questionEN": "Which animal has a long trunk and large tusks?",
+      "options": {
+        "answerES": "elefante",
+        "answerEN": "elephant",
+        "optionTwoES": "rinoceronte",
+        "optionTwoEN": "rhinoceros",
+        "optionThreeES": "hipopótamo",
+        "optionThreeEN": "hippopotamus",
+        "optionFourES": "jirafa",
+        "optionFourEN": "giraffe"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06006",
+      "questionES": "¿Cuál es el reptil que puede regenerar su cola?",
+      "questionEN": "Which reptile can regenerate its tail?",
+      "options": {
+        "answerES": "iguana",
+        "answerEN": "iguana",
+        "optionTwoES": "serpiente",
+        "optionTwoEN": "snake",
+        "optionThreeES": "lagarto",
+        "optionThreeEN": "lizard",
+        "optionFourES": "cocodrilo",
+        "optionFourEN": "crocodile"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06007",
+      "questionES": "¿Cuál es el felino más grande del mundo?",
+      "questionEN": "What is the largest feline in the world?",
+      "options": {
+        "answerES": "tigre",
+        "answerEN": "tiger",
+        "optionTwoES": "león",
+        "optionTwoEN": "lion",
+        "optionThreeES": "cheetah",
+        "optionThreeEN": "cheetah",
+        "optionFourES": "leopardo",
+        "optionFourEN": "leopard"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06008",
+      "questionES": "¿Cuál es el ave que no puede volar?",
+      "questionEN": "Which bird cannot fly?",
+      "options": {
+        "answerES": "pingüino",
+        "answerEN": "penguin",
+        "optionTwoES": "colibrí",
+        "optionTwoEN": "hummingbird",
+        "optionThreeES": "águila",
+        "optionThreeEN": "eagle",
+        "optionFourES": "búho",
+        "optionFourEN": "owl"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06009",
+      "questionES": "¿Qué mamífero pone huevos?",
+      "questionEN": "Which mammal lays eggs?",
+      "options": {
+        "answerES": "ornitorrinco",
+        "answerEN": "platypus",
+        "optionTwoES": "canguro",
+        "optionTwoEN": "kangaroo",
+        "optionThreeES": "ballena",
+        "optionThreeEN": "whale",
+        "optionFourES": "koala",
+        "optionFourEN": "koala"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06010",
+      "questionES": "¿Cuál es el mamífero marino más grande del mundo?",
+      "questionEN": "What is the largest marine mammal in the world?",
+      "options": {
+        "answerES": "ballena azul",
+        "answerEN": "blue whale",
+        "optionTwoES": "orca",
+        "optionTwoEN": "orca",
+        "optionThreeES": "delfín",
+        "optionThreeEN": "dolphin",
+        "optionFourES": "tiburón blanco",
+        "optionFourEN": "great white shark"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "06301",
+      "questionES": "¿Cuál es el insecto que produce luz propia?",
+      "questionEN": "Which insect produces its own light?",
+      "options": {
+        "answerES": "luciérnaga",
+        "answerEN": "firefly",
+        "optionTwoES": "abeja",
+        "optionTwoEN": "bee",
+        "optionThreeES": "mariposa",
+        "optionThreeEN": "butterfly",
+        "optionFourES": "mosquito",
+        "optionFourEN": "mosquito"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06302",
+      "questionES": "¿Cuál es el animal que hiberna durante el invierno?",
+      "questionEN": "Which animal hibernates during winter?",
+      "options": {
+        "answerES": "oso",
+        "answerEN": "bear",
+        "optionTwoES": "ardilla",
+        "optionTwoEN": "squirrel",
+        "optionThreeES": "murciélago",
+        "optionThreeEN": "bat",
+        "optionFourES": "conejo",
+        "optionFourEN": "rabbit"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06303",
+      "questionES": "¿Cuál es el animal mamífero que pasa más tiempo bajo el agua?",
+      "questionEN": "Which mammal spends the most time underwater?",
+      "options": {
+        "answerES": "ballena",
+        "answerEN": "whale",
+        "optionTwoES": "delfín",
+        "optionTwoEN": "dolphin",
+        "optionThreeES": "foca",
+        "optionThreeEN": "seal",
+        "optionFourES": "hipopótamo",
+        "optionFourEN": "hippopotamus"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06304",
+      "questionES": "¿Cuál es el insecto que realiza migraciones a larga distancia?",
+      "questionEN": "Which insect undergoes long-distance migrations?",
+      "options": {
+        "answerES": "mariposa monarca",
+        "answerEN": "monarch butterfly",
+        "optionTwoES": "abeja",
+        "optionTwoEN": "bee",
+        "optionThreeES": "escarabajo",
+        "optionThreeEN": "beetle",
+        "optionFourES": "mosca",
+        "optionFourEN": "fly"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06305",
+      "questionES": "¿Cuál es el ave más grande del mundo?",
+      "questionEN": "What is the largest bird in the world?",
+      "options": {
+        "answerES": "avestruz",
+        "answerEN": "ostrich",
+        "optionTwoES": "águila",
+        "optionTwoEN": "eagle",
+        "optionThreeES": "pavo",
+        "optionThreeEN": "turkey",
+        "optionFourES": "pingüino",
+        "optionFourEN": "penguin"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06306",
+      "questionES": "¿Cuál es el mamífero que se alimenta exclusivamente de bambú?",
+      "questionEN": "Which mammal feeds exclusively on bamboo?",
+      "options": {
+        "answerES": "panda gigante",
+        "answerEN": "giant panda",
+        "optionTwoES": "koala",
+        "optionTwoEN": "koala",
+        "optionThreeES": "oso negro",
+        "optionThreeEN": "black bear",
+        "optionFourES": "gorila",
+        "optionFourEN": "gorilla"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06307",
+      "questionES": "¿Cuál es el ave que es símbolo de libertad?",
+      "questionEN": "Which bird is a symbol of freedom?",
+      "options": {
+        "answerES": "águila calva",
+        "answerEN": "bald eagle",
+        "optionTwoES": "búho",
+        "optionTwoEN": "owl",
+        "optionThreeES": "gavilán",
+        "optionThreeEN": "hawk",
+        "optionFourES": "alondra",
+        "optionFourEN": "lark"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06308",
+      "questionES": "¿Cuál es el nombre del animal que es famoso por su capacidad de camuflaje en el entorno marino?",
+      "questionEN": "What is the name of the animal famous for its ability to camouflage in the marine environment?",
+      "options": {
+        "answerES": "pulpo",
+        "answerEN": "octopus",
+        "optionTwoES": "camarón mantis",
+        "optionTwoEN": "mantis shrimp",
+        "optionThreeES": "caballito de mar",
+        "optionThreeEN": "seahorse",
+        "optionFourES": "pez payaso",
+        "optionFourEN": "clownfish"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06309",
+      "questionES": "¿Cuál es el mamífero que realiza migraciones masivas en la llanura africana?",
+      "questionEN": "Which mammal undergoes massive migrations in the African plains?",
+      "options": {
+        "answerES": "ñu",
+        "answerEN": "wildebeest",
+        "optionTwoES": "cebra",
+        "optionTwoEN": "zebra",
+        "optionThreeES": "elefante",
+        "optionThreeEN": "elephant",
+        "optionFourES": "león",
+        "optionFourEN": "lion"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06310",
+      "questionES": "¿Cuál es el nombre del insecto que realiza un proceso de metamorfosis?",
+      "questionEN": "What is the name of the insect that undergoes a process of metamorphosis?",
+      "options": {
+        "answerES": "mariposa",
+        "answerEN": "butterfly",
+        "optionTwoES": "hormiga",
+        "optionTwoEN": "ant",
+        "optionThreeES": "abeja",
+        "optionThreeEN": "bee",
+        "optionFourES": "escarabajo",
+        "optionFourEN": "beetle"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "06601",
+      "questionES": "¿Cuál es el ave que es capaz de regenerar las plumas de su cola?",
+      "questionEN": "Which bird is capable of regenerating the feathers of its tail?",
+      "options": {
+        "answerES": "picaflor",
+        "answerEN": "hummingbird",
+        "optionTwoES": "cuervo",
+        "optionTwoEN": "crow",
+        "optionThreeES": "pavo real",
+        "optionThreeEN": "peacock",
+        "optionFourES": "lechuza",
+        "optionFourEN": "owl"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06602",
+      "questionES": "¿Cuál es el ave que tiene la envergadura más grande del reino animal?",
+      "questionEN": "Which bird has the largest wingspan in the animal kingdom?",
+      "options": {
+        "answerES": "albatros",
+        "answerEN": "albatross",
+        "optionTwoES": "águila",
+        "optionTwoEN": "eagle",
+        "optionThreeES": "buitre",
+        "optionThreeEN": "vulture",
+        "optionFourES": "cisne",
+        "optionFourEN": "swan"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06603",
+      "questionES": "¿Cuál es el mamífero marino que tiene una cabeza en forma de bulbo y es conocido por su ecolocalización?",
+      "questionEN": "Which marine mammal has a bulbous head and is known for its echolocation?",
+      "options": {
+        "answerES": "cachalote",
+        "answerEN": "sperm whale",
+        "optionTwoES": "delfín nariz de botella",
+        "optionTwoEN": "bottlenose dolphin",
+        "optionThreeES": "ballena piloto",
+        "optionThreeEN": "pilot whale",
+        "optionFourES": "orca",
+        "optionFourEN": "orca"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06604",
+      "questionES": "¿Cuál es el animal terrestre más pequeño del planeta?",
+      "questionEN": "What is the smallest terrestrial animal on the planet?",
+      "options": {
+        "answerES": "musaraña etrusca",
+        "answerEN": "Etruscan shrew",
+        "optionTwoES": "ratón pigmeo",
+        "optionTwoEN": "pygmy mouse",
+        "optionThreeES": "topo nariz de estrella",
+        "optionThreeEN": "star-nosed mole",
+        "optionFourES": "murciélago abejorro",
+        "optionFourEN": "bumblebee bat"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06605",
+      "questionES": "¿Cuál es la planta que es conocida como la 'planta de la resurrección' debido a su capacidad para sobrevivir en condiciones extremas y revivir cuando se le agrega agua?",
+      "questionEN": "Which plant is known as the 'resurrection plant' due to its ability to survive in extreme conditions and revive when water is added?",
+      "options": {
+        "answerES": "rosa de Jericó",
+        "answerEN": "rose of Jericho",
+        "optionTwoES": "musgo de esfagno",
+        "optionTwoEN": "sphagnum moss",
+        "optionThreeES": "cactus de la resurrección",
+        "optionThreeEN": "resurrection cactus",
+        "optionFourES": "planta de la vida",
+        "optionFourEN": "life plant"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06606",
+      "questionES": "¿Cuál es la planta que tiene la flor más grande del mundo y emite un olor fétido para atraer insectos carroñeros?",
+      "questionEN": "Which plant has the world's largest flower and emits a foul odor to attract scavenging insects?",
+      "options": {
+        "answerES": "rafflesia arnoldii",
+        "answerEN": "rafflesia arnoldii",
+        "optionTwoES": "orquídea",
+        "optionTwoEN": "orchid",
+        "optionThreeES": "lirio titan",
+        "optionThreeEN": "titan lily",
+        "optionFourES": "flor de la pasión",
+        "optionFourEN": "passionflower"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06607",
+      "questionES": "¿Cuál es la planta carnívora que atrapa insectos utilizando hojas con forma de jarro llenas de líquido digestivo?",
+      "questionEN": "Which carnivorous plant captures insects using pitcher-shaped leaves filled with digestive fluid?",
+      "options": {
+        "answerES": "Nepenthes",
+        "answerEN": "Nepenthes",
+        "optionTwoES": "Drosera",
+        "optionTwoEN": "Drosera",
+        "optionThreeES": "Sarracenia",
+        "optionThreeEN": "Sarracenia",
+        "optionFourES": "Venus atrapamoscas",
+        "optionFourEN": "Venus flytrap"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06608",
+      "questionES": "¿Cuál es la planta que es conocida por sus hojas en forma de corazón y es un símbolo de amor y amistad?",
+      "questionEN": "Which plant is known for its heart-shaped leaves and is a symbol of love and friendship?",
+      "options": {
+        "answerES": "filodendro",
+        "answerEN": "philodendron",
+        "optionTwoES": "hiedra",
+        "optionTwoEN": "ivy",
+        "optionThreeES": "rosa",
+        "optionThreeEN": "rose",
+        "optionFourES": "lirio",
+        "optionFourEN": "lily"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06609",
+      "questionES": "¿Cuál es la planta que es cultivada por sus hojas grandes y es conocida por ser la 'reina de las plantas'?",
+      "questionEN": "Which plant is cultivated for its large leaves and is known as the 'queen of plants'?",
+      "options": {
+        "answerES": "calathea",
+        "answerEN": "calathea",
+        "optionTwoES": "begonia",
+        "optionTwoEN": "begonia",
+        "optionThreeES": "monstera deliciosa",
+        "optionThreeEN": "Swiss cheese plant",
+        "optionFourES": "ficus elastica",
+        "optionFourEN": "rubber tree"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06610",
+      "questionES": "¿Cuál es la planta que es símbolo nacional de Japón y es conocida por sus flores blancas y fragantes?",
+      "questionEN": "Which plant is the national symbol of Japan and is known for its white fragrant flowers?",
+      "options": {
+        "answerES": "sakura",
+        "answerEN": "sakura",
+        "optionTwoES": "camelia",
+        "optionTwoEN": "camellia",
+        "optionThreeES": "azalea",
+        "optionThreeEN": "azalea",
+        "optionFourES": "loto",
+        "optionFourEN": "lotus"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06611",
+      "questionES": "¿Cuál es la planta que es símbolo nacional de Japón y es conocida por sus flores blancas y fragantes?",
+      "questionEN": "Which plant is the national symbol of Japan and is known for its white fragrant flowers?",
+      "options": {
+        "answerES": "sakura",
+        "answerEN": "sakura",
+        "optionTwoES": "camelia",
+        "optionTwoEN": "camellia",
+        "optionThreeES": "azalea",
+        "optionThreeEN": "azalea",
+        "optionFourES": "loto",
+        "optionFourEN": "lotus"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "06612",
+      "questionES": "¿Cuál es la planta que produce la flor nacional de México, conocida como 'cempasúchil'?",
+      "questionEN": "Which plant produces the national flower of Mexico, known as 'cempasúchil'?",
+      "options": {
+        "answerES": "tagetes erecta",
+        "answerEN": "tagetes erecta",
+        "optionTwoES": "bugambilia",
+        "optionTwoEN": "bougainvillea",
+        "optionThreeES": "dalia",
+        "optionThreeEN": "dahlia",
+        "optionFourES": "rosa",
+        "optionFourEN": "rose"
+      },
+      "categoryES": "Naturaleza",
+      "categoryEN": "The Natural World",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
       "id": "07001",
       "questionES": "¿Dónde se celebró la Copa 1994?",
       "questionEN": "Where was the 1994 World Cup held?",
@@ -3461,6 +4050,557 @@
       "dificultyEN": "Easy"
     },
     {
+      "id": "07002",
+      "questionES": "¿En qué deporte olímpico los equipos compiten para lanzar una pesada esfera metálica lo más lejos posible?",
+      "questionEN": "In which Olympic sport do teams compete to throw a heavy metal sphere as far as possible?",
+      "options": {
+        "answerES": "lanzamiento de martillo",
+        "answerEN": "hammer throw",
+        "optionTwoES": "lanzamiento de disco",
+        "optionTwoEN": "discus throw",
+        "optionThreeES": "lanzamiento de peso",
+        "optionThreeEN": "shot put",
+        "optionFourES": "lanzamiento de jabalina",
+        "optionFourEN": "javelin throw"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07003",
+      "questionES": "¿En qué año se celebró el primer torneo internacional de fútbol masculino?",
+      "questionEN": "In which year was the first international men's football tournament held?",
+      "options": {
+        "answerES": "1930",
+        "answerEN": "1930",
+        "optionTwoES": "1920",
+        "optionTwoEN": "1920",
+        "optionThreeES": "1950",
+        "optionThreeEN": "1950",
+        "optionFourES": "1960",
+        "optionFourEN": "1960"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07004",
+      "questionES": "¿Cuál es el país que ha ganado la Copa Mundial de la FIFA en más ocasiones?",
+      "questionEN": "Which country has won the FIFA World Cup the most times?",
+      "options": {
+        "answerES": "Brasil",
+        "answerEN": "Brazil",
+        "optionTwoES": "Alemania",
+        "optionTwoEN": "Germany",
+        "optionThreeES": "Italia",
+        "optionThreeEN": "Italy",
+        "optionFourES": "Argentina",
+        "optionFourEN": "Argentina"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07005",
+      "questionES": "¿En qué país se celebró la primera Copa Mundial de la FIFA?",
+      "questionEN": "In which country was the first FIFA World Cup held?",
+      "options": {
+        "answerES": "Uruguay",
+        "answerEN": "Uruguay",
+        "optionTwoES": "Brasil",
+        "optionTwoEN": "Brazil",
+        "optionThreeES": "Alemania",
+        "optionThreeEN": "Germany",
+        "optionFourES": "Italia",
+        "optionFourEN": "Italy"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07006",
+      "questionES": "¿En qué país se celebró la primera Copa Mundial de la FIFA?",
+      "questionEN": "In which country was the first FIFA World Cup held?",
+      "options": {
+        "answerES": "Uruguay",
+        "answerEN": "Uruguay",
+        "optionTwoES": "Brasil",
+        "optionTwoEN": "Brazil",
+        "optionThreeES": "Alemania",
+        "optionThreeEN": "Germany",
+        "optionFourES": "Italia",
+        "optionFourEN": "Italy"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07007",
+      "questionES": "Usain Bolt estableció el récord mundial de los 100 metros en agosto de 2009, ¿con qué tiempo?",
+      "questionEN": "Usain Bolt set the world record for the 100 meters in August 2009, with what time?",
+      "options": {
+        "answerES": "9.58 segundos",
+        "answerEN": "9.58 seconds",
+        "optionTwoES": "9.63 segundos",
+        "optionTwoEN": "9.63 seconds",
+        "optionThreeES": "9.74 segundos",
+        "optionThreeEN": "9.74 seconds",
+        "optionFourES": "9.81 segundos",
+        "optionFourEN": "9.81 seconds"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07008",
+      "questionES": "Los Juegos Paralímpicos modernos se unieron a los Juegos Olímpicos de Verano, ¿en qué año?",
+      "questionEN": "The modern Paralympic Games joined the Summer Olympic Games, in which year?",
+      "options": {
+        "answerES": "1988",
+        "answerEN": "1988",
+        "optionTwoES": "1976",
+        "optionTwoEN": "1976",
+        "optionThreeES": "1992",
+        "optionThreeEN": "1992",
+        "optionFourES": "2000",
+        "optionFourEN": "2000"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07009",
+      "questionES": "¿Cuántos anillos hay en la bandera olímpica?",
+      "questionEN": "How many rings are there on the Olympic flag?",
+      "options": {
+        "answerES": "Cinco",
+        "answerEN": "Five",
+        "optionTwoES": "Seis",
+        "optionTwoEN": "Six",
+        "optionThreeES": "Cuatro",
+        "optionThreeEN": "Four",
+        "optionFourES": "Ocho",
+        "optionFourEN": "Eight"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07010",
+      "questionES": "¿Cuántos hoyos hay en un campo de golf estándar?",
+      "questionEN": "How many holes are there on a standard golf course?",
+      "options": {
+        "answerES": "Dieciocho",
+        "answerEN": "Eighteen",
+        "optionTwoES": "Nueve",
+        "optionTwoEN": "Nine",
+        "optionThreeES": "Veintiuno",
+        "optionThreeEN": "Twenty-one",
+        "optionFourES": "Quince",
+        "optionFourEN": "Fifteen"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "07301",
+      "questionES": "¿Cuál es el nombre del torneo de golf más prestigioso que se celebra anualmente en Augusta National Golf Club?",
+      "questionEN": "What is the name of the most prestigious golf tournament held annually at Augusta National Golf Club?",
+      "options": {
+        "answerES": "The Masters",
+        "answerEN": "The Masters",
+        "optionTwoES": "The Open Championship",
+        "optionTwoEN": "The Open Championship",
+        "optionThreeES": "PGA Championship",
+        "optionThreeEN": "PGA Championship",
+        "optionFourES": "U.S. Open",
+        "optionFourEN": "U.S. Open"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07302",
+      "questionES": "¿Cuál es el nombre de la competición de golf entre equipos de Estados Unidos y Europa que se celebra cada dos años?",
+      "questionEN": "What is the name of the golf competition between teams from the United States and Europe held every two years?",
+      "options": {
+        "answerES": "Ryder Cup",
+        "answerEN": "Ryder Cup",
+        "optionTwoES": "Presidents Cup",
+        "optionTwoEN": "Presidents Cup",
+        "optionThreeES": "Solheim Cup",
+        "optionThreeEN": "Solheim Cup",
+        "optionFourES": "Walker Cup",
+        "optionFourEN": "Walker Cup"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07303",
+      "questionES": "¿Cuál es el término utilizado para describir la cantidad total de golpes realizados por un jugador en un hoyo?",
+      "questionEN": "What is the term used to describe the total number of strokes a player takes on a hole?",
+      "options": {
+        "answerES": "score",
+        "answerEN": "score",
+        "optionTwoES": "par",
+        "optionTwoEN": "par",
+        "optionThreeES": "birdie",
+        "optionThreeEN": "birdie",
+        "optionFourES": "bogey",
+        "optionFourEN": "bogey"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07304",
+      "questionES": "¿Cuál es el nombre del palo de golf utilizado para golpear la pelota desde el tee en el primer golpe de cada hoyo?",
+      "questionEN": "What is the name of the golf club used to hit the ball from the tee on the first stroke of each hole?",
+      "options": {
+        "answerES": "driver",
+        "answerEN": "driver",
+        "optionTwoES": "putter",
+        "optionTwoEN": "putter",
+        "optionThreeES": "iron",
+        "optionThreeEN": "iron",
+        "optionFourES": "wedge",
+        "optionFourEN": "wedge"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07305",
+      "questionES": "¿Cuál es el nombre del palo de golf utilizado para golpear la pelota desde el tee en el primer golpe de cada hoyo?",
+      "questionEN": "What is the name of the golf club used to hit the ball from the tee on the first stroke of each hole?",
+      "options": {
+        "answerES": "driver",
+        "answerEN": "driver",
+        "optionTwoES": "putter",
+        "optionTwoEN": "putter",
+        "optionThreeES": "iron",
+        "optionThreeEN": "iron",
+        "optionFourES": "wedge",
+        "optionFourEN": "wedge"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07306",
+      "questionES": "¿Cuántos obstáculos hay en una carrera de 3000 metros con obstáculos en atletismo?",
+      "questionEN": "How many hurdles are there in a 3000-meter steeplechase race in athletics?",
+      "options": {
+        "answerES": "28 obstáculos",
+        "answerEN": "28 hurdles",
+        "optionTwoES": "30 obstáculos",
+        "optionTwoEN": "30 hurdles",
+        "optionThreeES": "20 obstáculos",
+        "optionThreeEN": "20 hurdles",
+        "optionFourES": "25 obstáculos",
+        "optionFourEN": "25 hurdles"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07307",
+      "questionES": "¿En qué país se celebró la Copa Mundial Femenina de la FIFA 2019?",
+      "questionEN": "In which country was the 2019 FIFA Women's World Cup held?",
+      "options": {
+        "answerES": "Francia",
+        "answerEN": "France",
+        "optionTwoES": "Estados Unidos",
+        "optionTwoEN": "United States",
+        "optionThreeES": "Alemania",
+        "optionThreeEN": "Germany",
+        "optionFourES": "Inglaterra",
+        "optionFourEN": "England"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07308",
+      "questionES": "¿En qué año se fundó el club de fútbol Real Madrid?",
+      "questionEN": "In which year was the football club Real Madrid founded?",
+      "options": {
+        "answerES": "1902",
+        "answerEN": "1902",
+        "optionTwoES": "1920",
+        "optionTwoEN": "1920",
+        "optionThreeES": "1930",
+        "optionThreeEN": "1930",
+        "optionFourES": "1950",
+        "optionFourEN": "1950"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07309",
+      "questionES": "¿Cuál es el apodo del equipo de fútbol italiano AC Milan?",
+      "questionEN": "What is the nickname of the Italian football team AC Milan?",
+      "options": {
+        "answerES": "Rossoneri",
+        "answerEN": "Rossoneri",
+        "optionTwoES": "Bianconeri",
+        "optionTwoEN": "Bianconeri",
+        "optionThreeES": "Nerazzurri",
+        "optionThreeEN": "Nerazzurri",
+        "optionFourES": "Giallorossi",
+        "optionFourEN": "Giallorossi"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07310",
+      "questionES": "¿De qué nacionalidad es el futbolista Mohamed Salah?",
+      "questionEN": "What is the nationality of footballer Mohamed Salah?",
+      "options": {
+        "answerES": "Egipcia",
+        "answerEN": "Egyptian",
+        "optionTwoES": "Argelina",
+        "optionTwoEN": "Algerian",
+        "optionThreeES": "Marroquí",
+        "optionThreeEN": "Moroccan",
+        "optionFourES": "Nigeriana",
+        "optionFourEN": "Nigerian"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "07601",
+      "questionES": "¿De qué nacionalidad es el futbolista Robert Lewandowski?",
+      "questionEN": "What is the nationality of footballer Robert Lewandowski?",
+      "options": {
+        "answerES": "Polaca",
+        "answerEN": "Polish",
+        "optionTwoES": "Austríaca",
+        "optionTwoEN": "Austrian",
+        "optionThreeES": "Checa",
+        "optionThreeEN": "Czech",
+        "optionFourES": "Húngara",
+        "optionFourEN": "Hungarian"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07602",
+      "questionES": "¿De qué nacionalidad es el futbolista Eden Hazard?",
+      "questionEN": "What is the nationality of footballer Eden Hazard?",
+      "options": {
+        "answerES": "Belga",
+        "answerEN": "Belgian",
+        "optionTwoES": "Holandés",
+        "optionTwoEN": "Dutch",
+        "optionThreeES": "Francés",
+        "optionThreeEN": "French",
+        "optionFourES": "Alemán",
+        "optionFourEN": "German"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07603",
+      "questionES": "¿Cuál es el país con más subcampeonatos en la historia de la Copa Mundial de la FIFA?",
+      "questionEN": "Which country has the most runner-up finishes in the history of the FIFA World Cup?",
+      "options": {
+        "answerES": "Alemania",
+        "answerEN": "Germany",
+        "optionTwoES": "Brasil",
+        "optionTwoEN": "Brazil",
+        "optionThreeES": "Argentina",
+        "optionThreeEN": "Argentina",
+        "optionFourES": "Países Bajos",
+        "optionFourEN": "Netherlands"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07604",
+      "questionES": "¿Cuál es el Grand Slam que se juega en superficie de arcilla?",
+      "questionEN": "Which Grand Slam is played on clay surface?",
+      "options": {
+        "answerES": "Roland Garros",
+        "answerEN": "French Open",
+        "optionTwoES": "Wimbledon",
+        "optionTwoEN": "Wimbledon",
+        "optionThreeES": "US Open",
+        "optionThreeEN": "US Open",
+        "optionFourES": "Australian Open",
+        "optionFourEN": "Australian Open"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07605",
+      "questionES": "¿Cuál es el Grand Slam que se juega en superficie de arcilla?",
+      "questionEN": "Which Grand Slam is played on clay surface?",
+      "options": {
+        "answerES": "Roland Garros",
+        "answerEN": "French Open",
+        "optionTwoES": "Wimbledon",
+        "optionTwoEN": "Wimbledon",
+        "optionThreeES": "US Open",
+        "optionThreeEN": "US Open",
+        "optionFourES": "Australian Open",
+        "optionFourEN": "Australian Open"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07606",
+      "questionES": "¿Quién tiene el récord de más títulos de Grand Slam en la historia del tenis masculino?",
+      "questionEN": "Who holds the record for the most Grand Slam titles in men's tennis history?",
+      "options": {
+        "answerES": "Novak Djokovic",
+        "answerEN": "Novak Djokovic",
+        "optionTwoES": "Roger Federer",
+        "optionTwoEN": "Roger Federer",
+        "optionThreeES": "Rafael Nadal",
+        "optionThreeEN": "Rafael Nadal",
+        "optionFourES": "Pete Sampras",
+        "optionFourEN": "Pete Sampras"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07607",
+      "questionES": "¿Quién es la tenista con más títulos de Grand Slam en la historia del tenis femenino?",
+      "questionEN": "Who is the female tennis player with the most Grand Slam titles in history?",
+      "options": {
+        "answerES": "Margaret Court",
+        "answerEN": "Margaret Court",
+        "optionTwoES": "Serena Williams",
+        "optionTwoEN": "Serena Williams",
+        "optionThreeES": "Steffi Graf",
+        "optionThreeEN": "Steffi Graf",
+        "optionFourES": "Martina Navratilova",
+        "optionFourEN": "Martina Navratilova"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07608",
+      "questionES": "¿Cuál es el torneo de tenis más antiguo del mundo?",
+      "questionEN": "Which is the oldest tennis tournament in the world?",
+      "options": {
+        "answerES": "Wimbledon",
+        "answerEN": "Wimbledon",
+        "optionTwoES": "Roland Garros",
+        "optionTwoEN": "French Open",
+        "optionThreeES": "US Open",
+        "optionThreeEN": "US Open",
+        "optionFourES": "Australian Open",
+        "optionFourEN": "Australian Open"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07609",
+      "questionES": "¿En qué superficie se juega el torneo de tenis de Wimbledon?",
+      "questionEN": "On what surface is the Wimbledon tennis tournament played?",
+      "options": {
+        "answerES": "Césped",
+        "answerEN": "Grass",
+        "optionTwoES": "Arcilla",
+        "optionTwoEN": "Clay",
+        "optionThreeES": "Dura",
+        "optionThreeEN": "Hard",
+        "optionFourES": "Moqueta",
+        "optionFourEN": "Carpet"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "07610",
+      "questionES": "¿De qué nacionalidad es el tenista Novak Djokovic?",
+      "questionEN": "What is the nationality of tennis player Novak Djokovic?",
+      "options": {
+        "answerES": "Serbio",
+        "answerEN": "Serbian",
+        "optionTwoES": "Suizo",
+        "optionTwoEN": "Swiss",
+        "optionThreeES": "Español",
+        "optionThreeEN": "Spanish",
+        "optionFourES": "Australiano",
+        "optionFourEN": "Australian"
+      },
+      "categoryES": "Deporte y Ocio",
+      "categoryEN": "Sports & Leisure",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
       "id": "08001",
       "questionES": "La primera mención escrita de la pasta seca se remonta a viajeros árabes de ¿qué siglo?",
       "questionEN": "The first written record of dry pasta can be traced to Arab travelers from which century?",
@@ -3473,6 +4613,196 @@
         "optionThreeEN": "11th century",
         "optionFourES": "Siglo II",
         "optionFourEN": "2th century"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08002",
+      "questionES": "¿Cuál es la pasta más popular de la cocina italiana?",
+      "questionEN": "What is the most popular pasta in Italian cuisine?",
+      "options": {
+        "answerES": "Espaguetis",
+        "answerEN": "Spaghetti",
+        "optionTwoES": "Ravioli",
+        "optionTwoEN": "Ravioli",
+        "optionThreeES": "Tortellini",
+        "optionThreeEN": "Tortellini",
+        "optionFourES": "Macarrones",
+        "optionFourEN": "Macaroni"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08003",
+      "questionES": "¿Qué fruta es conocida como 'el rey de las frutas'?",
+      "questionEN": "Which fruit is known as 'the king of fruits'?",
+      "options": {
+        "answerES": "Mango",
+        "answerEN": "Mango",
+        "optionTwoES": "Plátano",
+        "optionTwoEN": "Banana",
+        "optionThreeES": "Manzana",
+        "optionThreeEN": "Apple",
+        "optionFourES": "Uva",
+        "optionFourEN": "Grape"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08004",
+      "questionES": "¿Cuál es el plato más típico de la cocina mexicana?",
+      "questionEN": "What is the most typical dish in Mexican cuisine?",
+      "options": {
+        "answerES": "Tacos",
+        "answerEN": "Tacos",
+        "optionTwoES": "Enchiladas",
+        "optionTwoEN": "Enchiladas",
+        "optionThreeES": "Burritos",
+        "optionThreeEN": "Burritos",
+        "optionFourES": "Guacamole",
+        "optionFourEN": "Guacamole"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08005",
+      "questionES": "¿Cuál es la bebida tradicional de Japón hecha a base de té verde?",
+      "questionEN": "What is the traditional Japanese drink made from green tea?",
+      "options": {
+        "answerES": "Matcha",
+        "answerEN": "Matcha",
+        "optionTwoES": "Sake",
+        "optionTwoEN": "Sake",
+        "optionThreeES": "Sencha",
+        "optionThreeEN": "Sencha",
+        "optionFourES": "Hojicha",
+        "optionFourEN": "Hojicha"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08006",
+      "questionES": "¿Qué bebida es conocida como 'la bebida de los dioses'?",
+      "questionEN": "Which drink is known as 'the drink of the gods'?",
+      "options": {
+        "answerES": "Vino",
+        "answerEN": "Wine",
+        "optionTwoES": "Agua",
+        "optionTwoEN": "Water",
+        "optionThreeES": "Cerveza",
+        "optionThreeEN": "Beer",
+        "optionFourES": "Café",
+        "optionFourEN": "Coffee"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08007",
+      "questionES": "¿Cuál es la bebida nacional de Rusia?",
+      "questionEN": "What is the national drink of Russia?",
+      "options": {
+        "answerES": "Vodka",
+        "answerEN": "Vodka",
+        "optionTwoES": "Kvass",
+        "optionTwoEN": "Kvass",
+        "optionThreeES": "Té",
+        "optionThreeEN": "Tea",
+        "optionFourES": "Cerveza",
+        "optionFourEN": "Beer"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08008",
+      "questionES": "¿Cuál es la bebida más consumida en el mundo después del agua?",
+      "questionEN": "What is the most consumed beverage in the world after water?",
+      "options": {
+        "answerES": "Té",
+        "answerEN": "Tea",
+        "optionTwoES": "Café",
+        "optionTwoEN": "Coffee",
+        "optionThreeES": "Refresco",
+        "optionThreeEN": "Soft drink",
+        "optionFourES": "Leche",
+        "optionFourEN": "Milk"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08009",
+      "questionES": "¿Qué bebida se obtiene de la fermentación de la uva?",
+      "questionEN": "Which drink is obtained from the fermentation of grapes?",
+      "options": {
+        "answerES": "Vino",
+        "answerEN": "Wine",
+        "optionTwoES": "Cerveza",
+        "optionTwoEN": "Beer",
+        "optionThreeES": "Whisky",
+        "optionThreeEN": "Whisky",
+        "optionFourES": "Champán",
+        "optionFourEN": "Champagne"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08010",
+      "questionES": "¿Cuál es la bebida tradicional de México hecha a base de agave?",
+      "questionEN": "What is the traditional Mexican drink made from agave?",
+      "options": {
+        "answerES": "Tequila",
+        "answerEN": "Tequila",
+        "optionTwoES": "Mezcal",
+        "optionTwoEN": "Mezcal",
+        "optionThreeES": "Cerveza",
+        "optionThreeEN": "Beer",
+        "optionFourES": "Pulque",
+        "optionFourEN": "Pulque"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "08301",
+      "questionES": "¿Cuál es la bebida tradicional de México hecha a base de agave?",
+      "questionEN": "What is the traditional Mexican drink made from agave?",
+      "options": {
+        "answerES": "Tequila",
+        "answerEN": "Tequila",
+        "optionTwoES": "Mezcal",
+        "optionTwoEN": "Mezcal",
+        "optionThreeES": "Cerveza",
+        "optionThreeEN": "Beer",
+        "optionFourES": "Pulque",
+        "optionFourEN": "Pulque"
       },
       "categoryES": "Comida y Bebida",
       "categoryEN": "Food & Drink",
