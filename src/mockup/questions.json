@@ -4806,8 +4806,369 @@
       },
       "categoryES": "Comida y Bebida",
       "categoryEN": "Food & Drink",
-      "dificultyES": "Facil",
-      "dificultyEN": "Easy"
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08302",
+      "questionES": "¿Cuál es la bebida carbonatada más popular y consumida en el mundo, conocida por su sabor dulce y burbujeante?",
+      "questionEN": "What is the most popular and consumed carbonated beverage in the world, known for its sweet and fizzy taste?",
+      "options": {
+        "answerES": "Coca-Cola",
+        "answerEN": "Coca-Cola",
+        "optionTwoES": "Pepsi",
+        "optionTwoEN": "Pepsi",
+        "optionThreeES": "Sprite",
+        "optionThreeEN": "Sprite",
+        "optionFourES": "Fanta",
+        "optionFourEN": "Fanta"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08303",
+      "questionES": "¿Cuál es el Mes Nacional de los Fideos en Estados Unidos?",
+      "questionEN": "What is the National Noodle Month in the United States?",
+      "options": {
+        "answerES": "Marzo",
+        "answerEN": "March",
+        "optionTwoES": "Junio",
+        "optionTwoEN": "June",
+        "optionThreeES": "Septiembre",
+        "optionThreeEN": "September",
+        "optionFourES": "Noviembre",
+        "optionFourEN": "November"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08304",
+      "questionES": "¿Cuál es la bebida alcohólica originaria de Rusia, destilada a partir de granos como el trigo o el centeno?",
+      "questionEN": "What is the alcoholic beverage originating from Russia, distilled from grains such as wheat or rye?",
+      "options": {
+        "answerES": "Vodka",
+        "answerEN": "Vodka",
+        "optionTwoES": "Tequila",
+        "optionTwoEN": "Tequila",
+        "optionThreeES": "Ginebra",
+        "optionThreeEN": "Gin",
+        "optionFourES": "Whisky",
+        "optionFourEN": "Whiskey"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08305",
+      "questionES": "¿Cuál es la bebida tradicional de la India, hecha con té, leche y especias como la canela y el clavo?",
+      "questionEN": "What is the traditional Indian beverage made with tea, milk, and spices such as cinnamon and cloves?",
+      "options": {
+        "answerES": "Chai",
+        "answerEN": "Chai",
+        "optionTwoES": "Lassi",
+        "optionTwoEN": "Lassi",
+        "optionThreeES": "Turmeric Latte",
+        "optionThreeEN": "Turmeric Latte",
+        "optionFourES": "Mango Lassi",
+        "optionFourEN": "Mango Lassi"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08306",
+      "questionES": "¿Cuál es el plato típico de Corea que consiste en arroz, verduras y carne, generalmente acompañado de kimchi?",
+      "questionEN": "What is the typical dish of Korea that consists of rice, vegetables, and meat, often accompanied by kimchi?",
+      "options": {
+        "answerES": "Bibimbap",
+        "answerEN": "Bibimbap",
+        "optionTwoES": "Kimchi Jjigae",
+        "optionTwoEN": "Kimchi Jjigae",
+        "optionThreeES": "Samgyeopsal",
+        "optionThreeEN": "Samgyeopsal",
+        "optionFourES": "Bulgogi",
+        "optionFourEN": "Bulgogi"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08307",
+      "questionES": "¿Qué tipo de pasta italiana corta y tubular, con bordes en ángulo, se utiliza comúnmente en platos de pasta?",
+      "questionEN": "What type of short, tubular Italian pasta with angled edges is commonly used in pasta dishes?",
+      "options": {
+        "answerES": "Penne",
+        "answerEN": "Penne",
+        "optionTwoES": "Fusilli",
+        "optionTwoEN": "Fusilli",
+        "optionThreeES": "Farfalle",
+        "optionThreeEN": "Farfalle",
+        "optionFourES": "Rigatoni",
+        "optionFourEN": "Rigatoni"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08308",
+      "questionES": "¿Qué país fue el primero en ofrecer Oreos a los consumidores?",
+      "questionEN": "Which country was the first to offer Oreos to consumers?",
+      "options": {
+        "answerES": "Estados Unidos",
+        "answerEN": "United States",
+        "optionTwoES": "Reino Unido",
+        "optionTwoEN": "United Kingdom",
+        "optionThreeES": "Canadá",
+        "optionThreeEN": "Canada",
+        "optionFourES": "Australia",
+        "optionFourEN": "Australia"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08309",
+      "questionES": "La musaca es el plato nacional de qué país?",
+      "questionEN": "Moussaka is the national dish of which country?",
+      "options": {
+        "answerES": "Grecia",
+        "answerEN": "Greece",
+        "optionTwoES": "Turquía",
+        "optionTwoEN": "Turkey",
+        "optionThreeES": "Egipto",
+        "optionThreeEN": "Egypt",
+        "optionFourES": "Líbano",
+        "optionFourEN": "Lebanon"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08310",
+      "questionES": "La musaca es el plato nacional de qué país?",
+      "questionEN": "Moussaka is the national dish of which country?",
+      "options": {
+        "answerES": "Grecia",
+        "answerEN": "Greece",
+        "optionTwoES": "Turquía",
+        "optionTwoEN": "Turkey",
+        "optionThreeES": "Egipto",
+        "optionThreeEN": "Egypt",
+        "optionFourES": "Líbano",
+        "optionFourEN": "Lebanon"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "08601",
+      "questionES": "¿Durante qué dinastía los fideos se convirtieron en un alimento popular en el pueblo chino?",
+      "questionEN": "During which dynasty did noodles become a popular food among the Chinese people?",
+      "options": {
+        "answerES": "Dinastía Han",
+        "answerEN": "Han Dynasty",
+        "optionTwoES": "Dinastía Tang",
+        "optionTwoEN": "Tang Dynasty",
+        "optionThreeES": "Dinastía Ming",
+        "optionThreeEN": "Ming Dynasty",
+        "optionFourES": "Dinastía Qing",
+        "optionFourEN": "Qing Dynasty"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08602",
+      "questionES": "A un amante del queso, ¿qué se le llama?",
+      "questionEN": "What is a cheese lover called?",
+      "options": {
+        "answerES": "Turophile",
+        "answerEN": "Turophile",
+        "optionTwoES": "Fromager",
+        "optionTwoEN": "Fromager",
+        "optionThreeES": "Quesero",
+        "optionThreeEN": "Cheesemonger",
+        "optionFourES": "Gourmand",
+        "optionFourEN": "Gourmand"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08603",
+      "questionES": "¿En qué país europeo hay pruebas arqueológicas de la fabricación de queso desde 5500 a.C.?",
+      "questionEN": "In which European country are there archaeological evidence of cheese-making dating back to 5500 B.C.?",
+      "options": {
+        "answerES": "Polonia",
+        "answerEN": "Poland",
+        "optionTwoES": "Suiza",
+        "optionTwoEN": "Switzerland",
+        "optionThreeES": "Italia",
+        "optionThreeEN": "Italy",
+        "optionFourES": "Francia",
+        "optionFourEN": "France"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08604",
+      "questionES": "¿Qué personaje de la Odisea de Homero fabrica queso?",
+      "questionEN": "Which character in Homer's Odyssey makes cheese?",
+      "options": {
+        "answerES": "Circe",
+        "answerEN": "Circe",
+        "optionTwoES": "Ulises",
+        "optionTwoEN": "Odysseus",
+        "optionThreeES": "Penélope",
+        "optionThreeEN": "Penelope",
+        "optionFourES": "Polifemo",
+        "optionFourEN": "Polyphemus"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08605",
+      "questionES": "¿Qué personaje de la Odisea de Homero fabrica queso?",
+      "questionEN": "Which character in Homer's Odyssey makes cheese?",
+      "options": {
+        "answerES": "Circe",
+        "answerEN": "Circe",
+        "optionTwoES": "Ulises",
+        "optionTwoEN": "Odysseus",
+        "optionThreeES": "Penélope",
+        "optionThreeEN": "Penelope",
+        "optionFourES": "Polifemo",
+        "optionFourEN": "Polyphemus"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08606",
+      "questionES": "El Roquefort es un queso azul, ¿de qué país?",
+      "questionEN": "Roquefort is a blue cheese, from which country?",
+      "options": {
+        "answerES": "Francia",
+        "answerEN": "France",
+        "optionTwoES": "Italia",
+        "optionTwoEN": "Italy",
+        "optionThreeES": "España",
+        "optionThreeEN": "Spain",
+        "optionFourES": "Suiza",
+        "optionFourEN": "Switzerland"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08607",
+      "questionES": "¿Qué tubérculo se cree que aumenta la fertilidad de los hombres?",
+      "questionEN": "Which tuber is believed to increase men's fertility?",
+      "options": {
+        "answerES": "Maca",
+        "answerEN": "Maca",
+        "optionTwoES": "Yuca",
+        "optionTwoEN": "Cassava",
+        "optionThreeES": "Jengibre",
+        "optionThreeEN": "Ginger",
+        "optionFourES": "Batata",
+        "optionFourEN": "Sweet Potato"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08608",
+      "questionES": "¿De qué continente es originario el plátano?",
+      "questionEN": "From which continent is the banana originally?",
+      "options": {
+        "answerES": "Asia",
+        "answerEN": "Asia",
+        "optionTwoES": "África",
+        "optionTwoEN": "Africa",
+        "optionThreeES": "América",
+        "optionThreeEN": "Americas",
+        "optionFourES": "Oceanía",
+        "optionFourEN": "Oceania"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08609",
+      "questionES": "¿Cuánto tarda una gallina en crear y poner un huevo?",
+      "questionEN": "How long does a chicken take to create and lay an egg?",
+      "options": {
+        "answerES": "Aproximadamente 24 a 26 horas",
+        "answerEN": "Approximately 24 to 26 hours",
+        "optionTwoES": "2 días",
+        "optionTwoEN": "2 days",
+        "optionThreeES": "Aproximadamente 36 a 38 horas",
+        "optionThreeEN": "Approximately 36 to 38 hours",
+        "optionFourES": "3 horas",
+        "optionFourEN": "3 hours"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "08610",
+      "questionES": "¿En qué celebración de EE.UU. se suele servir tarta de calabaza?",
+      "questionEN": "During which U.S. celebration is pumpkin pie typically served?",
+      "options": {
+        "answerES": "Acción de Gracias",
+        "answerEN": "Thanksgiving",
+        "optionTwoES": "Navidad",
+        "optionTwoEN": "Christmas",
+        "optionThreeES": "Día de la Independencia",
+        "optionThreeEN": "Independence Day",
+        "optionFourES": "Halloween",
+        "optionFourEN": "Halloween"
+      },
+      "categoryES": "Comida y Bebida",
+      "categoryEN": "Food & Drink",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
     },
     {
       "id": "09001",
@@ -4818,8 +5179,8 @@
         "optionOneEN": "Buzz Lightyear",
         "optionTwoES": "Slinky",
         "optionTwoEN": "Slinky",
-        "optionThreeES": "Woody",
-        "optionThreeEN": "Woody",
+        "answerES": "Woody",
+        "answerEN": "Woody",
         "optionFourES": "Hamm",
         "optionFourEN": "Hamm"
       },
@@ -4867,14 +5228,527 @@
       "dificultyEN": "Easy"
     },
     {
+      "id": "09004",
+      "questionES": "¿Quién es el director de la película 'El Padrino'?",
+      "questionEN": "Who is the director of the movie 'The Godfather'?",
+      "options": {
+        "answerES": "Francis Ford Coppola",
+        "answerEN": "Francis Ford Coppola",
+        "optionTwoES": "Martin Scorsese",
+        "optionTwoEN": "Martin Scorsese",
+        "optionThreeES": "Quentin Tarantino",
+        "optionThreeEN": "Quentin Tarantino",
+        "optionFourES": "Alfred Hitchcock",
+        "optionFourEN": "Alfred Hitchcock"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09005",
+      "questionES": "¿Cuál es la primera película de la saga 'Star Wars'?",
+      "questionEN": "What is the first movie in the 'Star Wars' saga?",
+      "options": {
+        "answerES": "Episodio IV: Una nueva esperanza",
+        "answerEN": "Episode IV: A New Hope",
+        "optionTwoES": "Episodio I: La amenaza fantasma",
+        "optionTwoEN": "Episode I: The Phantom Menace",
+        "optionThreeES": "Episodio V: El imperio contraataca",
+        "optionThreeEN": "Episode V: The Empire Strikes Back",
+        "optionFourES": "Episodio II: El ataque de los clones",
+        "optionFourEN": "Episode II: Attack of the Clones"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09006",
+      "questionES": "¿Cuál es la película animada de Pixar que presenta a un ratón chef?",
+      "questionEN": "Which Pixar animated movie features a rat as a chef?",
+      "options": {
+        "answerES": "Ratatouille",
+        "answerEN": "Ratatouille",
+        "optionTwoES": "Toy Story",
+        "optionTwoEN": "Toy Story",
+        "optionThreeES": "Buscando a Nemo",
+        "optionThreeEN": "Finding Nemo",
+        "optionFourES": "Los Increíbles",
+        "optionFourEN": "The Incredibles"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09007",
+      "questionES": "¿Quién interpretó a Jack en la película 'Titanic'?",
+      "questionEN": "Who played Jack in the movie 'Titanic'?",
+      "options": {
+        "answerES": "Leonardo DiCaprio",
+        "answerEN": "Leonardo DiCaprio",
+        "optionTwoES": "Tom Hanks",
+        "optionTwoEN": "Tom Hanks",
+        "optionThreeES": "Brad Pitt",
+        "optionThreeEN": "Brad Pitt",
+        "optionFourES": "Johnny Depp",
+        "optionFourEN": "Johnny Depp"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09008",
+      "questionES": "¿Cuál es la película que ganó el premio a la Mejor Película en los Premios Óscar 2020?",
+      "questionEN": "Which movie won the Best Picture award at the 2020 Academy Awards?",
+      "options": {
+        "answerES": "Parásitos",
+        "answerEN": "Parasite",
+        "optionTwoES": "1917",
+        "optionTwoEN": "1917",
+        "optionThreeES": "Joker",
+        "optionThreeEN": "Joker",
+        "optionFourES": "Érase una vez en Hollywood",
+        "optionFourEN": "Once Upon a Time in Hollywood"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09009",
+      "questionES": "¿Cuál es la película de ciencia ficción de 1982 dirigida por Ridley Scott, basada en una novela de Philip K. Dick?",
+      "questionEN": "What is the 1982 science fiction movie directed by Ridley Scott, based on a novel by Philip K. Dick?",
+      "options": {
+        "answerES": "Blade Runner",
+        "answerEN": "Blade Runner",
+        "optionTwoES": "The Matrix",
+        "optionTwoEN": "The Matrix",
+        "optionThreeES": "Star Wars: Episode V - The Empire Strikes Back",
+        "optionThreeEN": "Star Wars: Episode V - The Empire Strikes Back",
+        "optionFourES": "E.T. the Extra-Terrestrial",
+        "optionFourEN": "E.T. the Extra-Terrestrial"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09010",
+      "questionES": "¿Cuál es la película que ganó el premio a la Mejor Película en los Premios Óscar 1994?",
+      "questionEN": "Which movie won the Best Picture award at the 1994 Academy Awards?",
+      "options": {
+        "answerES": "Forrest Gump",
+        "answerEN": "Forrest Gump",
+        "optionTwoES": "Pulp Fiction",
+        "optionTwoEN": "Pulp Fiction",
+        "optionThreeES": "The Shawshank Redemption",
+        "optionThreeEN": "The Shawshank Redemption",
+        "optionFourES": "Schindler's List",
+        "optionFourEN": "Schindler's List"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "09301",
+      "questionES": "¿Cuál es la película que presenta la famosa frase 'Acepto el desafío' y sigue la historia de un joven que acepta una apuesta de convertirse en millonario en un año?",
+      "questionEN": "Which movie features the famous line 'I accept the challenge' and follows the story of a young man who takes a bet to become a millionaire within a year?",
+      "options": {
+        "answerES": "El juego de la fortuna",
+        "answerEN": "The Pursuit of Happyness",
+        "optionTwoES": "El lobo de Wall Street",
+        "optionTwoEN": "The Wolf of Wall Street",
+        "optionThreeES": "En busca de la felicidad",
+        "optionThreeEN": "In Search of Happiness",
+        "optionFourES": "El cambista",
+        "optionFourEN": "The Change-Up"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09302",
+      "questionES": "¿Cuál es la película dirigida por Christopher Nolan que presenta la técnica del sueño compartido?",
+      "questionEN": "Which Christopher Nolan-directed movie features the concept of shared dreaming?",
+      "options": {
+        "answerES": "Origen",
+        "answerEN": "Inception",
+        "optionTwoES": "Memento",
+        "optionTwoEN": "Memento",
+        "optionThreeES": "Interstellar",
+        "optionThreeEN": "Interstellar",
+        "optionFourES": "Dunkerque",
+        "optionFourEN": "Dunkirk"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09303",
+      "questionES": "¿Cuál es la película que presenta a Hannibal Lecter como un astuto psiquiatra caníbal?",
+      "questionEN": "Which movie features Hannibal Lecter as a cunning cannibalistic psychiatrist?",
+      "options": {
+        "answerES": "El silencio de los corderos",
+        "answerEN": "The Silence of the Lambs",
+        "optionTwoES": "Hannibal",
+        "optionTwoEN": "Hannibal",
+        "optionThreeES": "Red Dragon",
+        "optionThreeEN": "Red Dragon",
+        "optionFourES": "El dragón rojo",
+        "optionFourEN": "The Red Dragon"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09304",
+      "questionES": "¿Quién interpreta a Walter White en la serie 'Breaking Bad'?",
+      "questionEN": "Who plays Walter White in the series 'Breaking Bad'?",
+      "options": {
+        "answerES": "Bryan Cranston",
+        "answerEN": "Bryan Cranston",
+        "optionTwoES": "Aaron Paul",
+        "optionTwoEN": "Aaron Paul",
+        "optionThreeES": "Jesse Pinkman",
+        "optionThreeEN": "Jesse Pinkman",
+        "optionFourES": "Dean Norris",
+        "optionFourEN": "Dean Norris"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09305",
+      "questionES": "¿En qué serie de ciencia ficción los personajes viajan a través del tiempo y el espacio en una nave espacial llamada TARDIS?",
+      "questionEN": "In which science fiction series do characters travel through time and space in a spaceship called the TARDIS?",
+      "options": {
+        "answerES": "Doctor Who",
+        "answerEN": "Doctor Who",
+        "optionTwoES": "Star Trek",
+        "optionTwoEN": "Star Trek",
+        "optionThreeES": "Battlestar Galactica",
+        "optionThreeEN": "Battlestar Galactica",
+        "optionFourES": "The Expanse",
+        "optionFourEN": "The Expanse"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09306",
+      "questionES": "¿Cuál es el principal premio otorgado en el Festival de Cine de Cannes?",
+      "questionEN": "What is the main award given at the Cannes Film Festival?",
+      "options": {
+        "answerES": "Palma de Oro",
+        "answerEN": "Palme d'Or",
+        "optionTwoES": "León de Oro",
+        "optionTwoEN": "Golden Lion",
+        "optionThreeES": "Oso de Oro",
+        "optionThreeEN": "Golden Bear",
+        "optionFourES": "Concha de Oro",
+        "optionFourEN": "Golden Shell"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09307",
+      "questionES": "¿Cuál es el premio otorgado por la Asociación de Prensa Extranjera de Hollywood para logros destacados en cine y televisión?",
+      "questionEN": "What is the award presented by the Hollywood Foreign Press Association for outstanding achievements in film and television?",
+      "options": {
+        "answerES": "Globo de Oro",
+        "answerEN": "Golden Globe",
+        "optionTwoES": "Premio Emmy",
+        "optionTwoEN": "Emmy Award",
+        "optionThreeES": "Premio BAFTA",
+        "optionThreeEN": "BAFTA Award",
+        "optionFourES": "Premio SAG",
+        "optionFourEN": "SAG Award"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09308",
+      "questionES": "¿Cuál es el nombre del premio otorgado por la Academia Británica de las Artes Cinematográficas y de la Televisión?",
+      "questionEN": "What is the name of the award presented by the British Academy of Film and Television Arts?",
+      "options": {
+        "answerES": "Premio BAFTA",
+        "answerEN": "BAFTA Award",
+        "optionTwoES": "Oso de Plata",
+        "optionTwoEN": "Silver Bear",
+        "optionThreeES": "León de Oro",
+        "optionThreeEN": "Golden Lion",
+        "optionFourES": "Premio César",
+        "optionFourEN": "César Award"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09309",
+      "questionES": "¿Cuál es el premio otorgado por la Academia de Ciencias y Artes Cinematográficas de España?",
+      "questionEN": "What is the award presented by the Academy of Cinematographic Arts and Sciences of Spain?",
+      "options": {
+        "answerES": "Premio Goya",
+        "answerEN": "Goya Award",
+        "optionTwoES": "Concha de Oro",
+        "optionTwoEN": "Golden Shell",
+        "optionThreeES": "Oso de Oro",
+        "optionThreeEN": "Golden Bear",
+        "optionFourES": "Palma de Oro",
+        "optionFourEN": "Palme d'Or"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09310",
+      "questionES": "¿Quién fue el primer director afroamericano en ganar el premio a Mejor Director en los Premios de la Academia (Oscar)?",
+      "questionEN": "Who was the first African-American director to win the Best Director award at the Academy Awards (Oscars)?",
+      "options": {
+        "answerES": "Jordan Peele",
+        "answerEN": "Jordan Peele",
+        "optionTwoES": "Spike Lee",
+        "optionTwoEN": "Spike Lee",
+        "optionThreeES": "Barry Jenkins",
+        "optionThreeEN": "Barry Jenkins",
+        "optionFourES": "Steve McQueen",
+        "optionFourEN": "Steve McQueen"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "09601",
+      "questionES": "¿Cuántas películas han ganado el premio a la Mejor Película en los Premios de la Academia (Oscar) dirigidas por Steven Spielberg?",
+      "questionEN": "How many films directed by Steven Spielberg have won the Best Picture award at the Academy Awards (Oscars)?",
+      "options": {
+        "answerES": "4",
+        "answerEN": "4",
+        "optionTwoES": "2",
+        "optionTwoEN": "2",
+        "optionThreeES": "3",
+        "optionThreeEN": "3",
+        "optionFourES": "1",
+        "optionFourEN": "1"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09602",
+      "questionES": "¿Cuál es la película que ganó el premio a la Mejor Película en los Premios de la Academia (Oscar) en 1999?",
+      "questionEN": "What is the film that won the Best Picture award at the Academy Awards (Oscars) in 1999?",
+      "options": {
+        "answerES": "American Beauty",
+        "answerEN": "American Beauty",
+        "optionTwoES": "The Sixth Sense",
+        "optionTwoEN": "The Sixth Sense",
+        "optionThreeES": "The Green Mile",
+        "optionThreeEN": "The Green Mile",
+        "optionFourES": "Shakespeare in Love",
+        "optionFourEN": "Shakespeare in Love"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09603",
+      "questionES": "¿Cuál es el actor con más premios Oscar a la Mejor Actor en la historia de los Premios de la Academia?",
+      "questionEN": "Who is the actor with the most Academy Awards for Best Actor in the history of the Academy Awards?",
+      "options": {
+        "answerES": "Daniel Day-Lewis",
+        "answerEN": "Daniel Day-Lewis",
+        "optionTwoES": "Jack Nicholson",
+        "optionTwoEN": "Jack Nicholson",
+        "optionThreeES": "Tom Hanks",
+        "optionThreeEN": "Tom Hanks",
+        "optionFourES": "Anthony Hopkins",
+        "optionFourEN": "Anthony Hopkins"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09604",
+      "questionES": "¿Cuál es la película que ganó el premio a la Mejor Película en los Premios de la Academia (Oscar) en 2008?",
+      "questionEN": "What is the film that won the Best Picture award at the Academy Awards (Oscars) in 2008?",
+      "options": {
+        "answerES": "No Country for Old Men",
+        "answerEN": "No Country for Old Men",
+        "optionTwoES": "There Will Be Blood",
+        "optionTwoEN": "There Will Be Blood",
+        "optionThreeES": "Atonement",
+        "optionThreeEN": "Atonement",
+        "optionFourES": "Juno",
+        "optionFourEN": "Juno"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09605",
+      "questionES": "¿Cuál es la película que ganó el premio a la Mejor Película en los Premios de la Academia (Oscar) en 2010?",
+      "questionEN": "What is the film that won the Best Picture award at the Academy Awards (Oscars) in 2010?",
+      "options": {
+        "answerES": "The Hurt Locker",
+        "answerEN": "The Hurt Locker",
+        "optionTwoES": "Avatar",
+        "optionTwoEN": "Avatar",
+        "optionThreeES": "Inglourious Basterds",
+        "optionThreeEN": "Inglourious Basterds",
+        "optionFourES": "Up in the Air",
+        "optionFourEN": "Up in the Air"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09606",
+      "questionES": "¿En qué año se otorgaron los primeros premios de la Academia (Oscar)?",
+      "questionEN": "In which year were the first Academy Awards (Oscars) presented?",
+      "options": {
+        "answerES": "1929",
+        "answerEN": "1929",
+        "optionTwoES": "1932",
+        "optionTwoEN": "1932",
+        "optionThreeES": "1940",
+        "optionThreeEN": "1940",
+        "optionFourES": "1955",
+        "optionFourEN": "1955"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09607",
+      "questionES": "¿Cuál fue la primera película en ganar el premio a la Mejor Película en los Premios de la Academia (Oscar)?",
+      "questionEN": "Which was the first film to win the Best Picture award at the Academy Awards (Oscars)?",
+      "options": {
+        "answerES": "Wings",
+        "answerEN": "Wings",
+        "optionTwoES": "The Broadway Melody",
+        "optionTwoEN": "The Broadway Melody",
+        "optionThreeES": "All Quiet on the Western Front",
+        "optionThreeEN": "All Quiet on the Western Front",
+        "optionFourES": "Gone with the Wind",
+        "optionFourEN": "Gone with the Wind"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09608",
+      "questionES": "¿Cuántas categorías de premios se presentaron en la primera ceremonia de los Premios de la Academia (Oscar)?",
+      "questionEN": "How many award categories were presented at the first Academy Awards (Oscars) ceremony?",
+      "options": {
+        "answerES": "12",
+        "answerEN": "12",
+        "optionTwoES": "7",
+        "optionTwoEN": "7",
+        "optionThreeES": "5",
+        "optionThreeEN": "5",
+        "optionFourES": "15",
+        "optionFourEN": "15"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09609",
+      "questionES": "¿En qué año se inició la entrega de la Palma de Oro en el Festival de Cine de Cannes?",
+      "questionEN": "In what year did the awarding of the Palme d'Or begin at the Cannes Film Festival?",
+      "options": {
+        "answerES": "1955",
+        "answerEN": "1955",
+        "optionTwoES": "1960",
+        "optionTwoEN": "1960",
+        "optionThreeES": "1972",
+        "optionThreeEN": "1972",
+        "optionFourES": "1985",
+        "optionFourEN": "1985"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "09610",
+      "questionES": "¿Cuál es la película de terror considerada como el comienzo del género slasher, lanzada en 1960 y dirigida por Alfred Hitchcock?",
+      "questionEN": "What is the horror film considered the beginning of the slasher genre, released in 1960 and directed by Alfred Hitchcock?",
+      "options": {
+        "answerES": "Psycho",
+        "answerEN": "Psycho",
+        "optionTwoES": "The Exorcist",
+        "optionTwoEN": "The Exorcist",
+        "optionThreeES": "Night of the Living Dead",
+        "optionThreeEN": "Night of the Living Dead",
+        "optionFourES": "Halloween",
+        "optionFourEN": "Halloween"
+      },
+      "categoryES": "Película y Series",
+      "categoryEN": "Film & TV",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
       "id": "10001",
       "questionES": "¿Cuántos huesos tiene un cráneo adulto?",
       "questionEN": "How many bones are there in an adult skull?",
       "options": {
         "optionOneES": "20",
         "optionOneEN": "20",
-        "optionTwoES": "22",
-        "optionTwoEN": "22",
+        "answerdES": "22",
+        "answerdEN": "22",
         "optionThreeES": "26",
         "optionThreeEN": "26",
         "optionFourES": "18",
@@ -4906,21 +5780,535 @@
     },
     {
       "id": "10003",
-      "questionES": "¿Cómo se llama el tipo de año que tiene 366 días?",
-      "questionEN": "What is the name for the type of year that has 366 days?",
+      "questionES": "¿En qué ciudad se encuentra la Torre Eiffel?",
+      "questionEN": "In which city is the Eiffel Tower located?",
       "options": {
-        "optionOneES": "Año solar",
-        "optionOneEN": "Solar year",
-        "answerdES": "Año bisiesto",
-        "answerdEN": "Leap year",
-        "optionTwoES": "Año sideral",
-        "optionTwoEN": "Sidereal year",
-        "optionThreeES": "Año lunar",
-        "optionThreeEN": "Lunar year"
+        "optionOneES": "Praga",
+        "optionOneEN": "Praga",
+        "answerES": "París",
+        "answerEN": "Paris",
+        "optionTwoES": "Londres",
+        "optionTwoEN": "London",
+        "optionThreeES": "Roma",
+        "optionThreeEN": "Rome"
       },
       "categoryES": "Miscélanea",
       "categoryEN": "Miscellaneous",
       "dificultyES": "Facil",
       "dificultyEN": "Easy"
-    }]}   
+    },
+    {
+      "id": "10004",
+      "questionES": "¿Cuál es el nombre del monumento histórico en Atenas que representa la democracia griega?",
+      "questionEN": "What is the name of the historical monument in Athens representing Greek democracy?",
+      "options": {
+        "optionOneES": "Partenón",
+        "optionOneEN": "Parthenon",
+        "answerES": "Partenón",
+        "answerEN": "Parthenon",
+        "optionTwoES": "Coliseo",
+        "optionTwoEN": "Colosseum",
+        "optionThreeES": "Torre de Pisa",
+        "optionThreeEN": "Leaning Tower of Pisa"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10005",
+      "questionES": "¿Cuál es el monumento más visitado del mundo?",
+      "questionEN": "What is the most visited monument in the world?",
+      "options": {
+        "optionOneES": "Cristo Redentor",
+        "optionOneEN": "Christ the Redeemer",
+        "answerES": "Estatua de la Libertad",
+        "answerEN": "Statue of Liberty",
+        "optionTwoES": "Machu Picchu",
+        "optionTwoEN": "Machu Picchu",
+        "optionThreeES": "Pirámides de Giza",
+        "optionThreeEN": "Pyramids of Giza"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10006",
+      "questionES": "¿En qué ciudad se encuentra el Taj Mahal?",
+      "questionEN": "In which city is the Taj Mahal located?",
+      "options": {
+        "optionOneES": "Nueva Delhi",
+        "optionOneEN": "New Delhi",
+        "answerES": "Agra",
+        "answerEN": "Agra",
+        "optionTwoES": "Mumbai",
+        "optionTwoEN": "Mumbai",
+        "optionThreeES": "Jaipur",
+        "optionThreeEN": "Jaipur"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10007",
+      "questionES": "¿En qué país se encuentra el Coliseo?",
+      "questionEN": "In which country is the Colosseum located?",
+      "options": {
+        "optionOneES": "Alemania",
+        "optionOneEN": "Germany",
+        "answerES": "Italia",
+        "answerEN": "Italy",
+        "optionTwoES": "Grecia",
+        "optionTwoEN": "Greece",
+        "optionThreeES": "España",
+        "optionThreeEN": "Spain"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10008",
+      "questionES": "¿Cuál es el nombre de la antigua ciudad romana enterrada por la erupción del Vesubio?",
+      "questionEN": "What is the name of the ancient Roman city buried by the eruption of Mount Vesuvius?",
+      "options": {
+        "optionOneES": "Atenas",
+        "optionOneEN": "Athens",
+        "answerES": "Pompeya",
+        "answerEN": "Pompeii",
+        "optionTwoES": "Herculano",
+        "optionTwoEN": "Herculaneum",
+        "optionThreeES": "Roma",
+        "optionThreeEN": "Rome"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10009",
+      "questionES": "¿Cuál es la cascada más alta del mundo?",
+      "questionEN": "What is the tallest waterfall in the world?",
+      "options": {
+        "optionOneES": "Cataratas del Iguazú",
+        "optionOneEN": "Iguazu Falls",
+        "answerES": "Ángel",
+        "answerEN": "Angel",
+        "optionTwoES": "Niágara",
+        "optionTwoEN": "Niagara",
+        "optionThreeES": "Victoria",
+        "optionThreeEN": "Victoria"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10010",
+      "questionES": "¿En qué país se encuentra el Gran Cañón?",
+      "questionEN": "In which country is the Grand Canyon located?",
+      "options": {
+        "optionOneES": "Estados Unidos",
+        "optionOneEN": "United States",
+        "answerES": "Estados Unidos",
+        "answerEN": "United States",
+        "optionTwoES": "Canadá",
+        "optionTwoEN": "Canada",
+        "optionThreeES": "Australia",
+        "optionThreeEN": "Australia"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Facil",
+      "dificultyEN": "Easy"
+    },
+    {
+      "id": "10301",
+      "questionES": "¿Cuál es el nombre de la formación rocosa en Australia conocida por sus grandes monolitos?",
+      "questionEN": "What is the name of the rock formation in Australia known for its large monoliths?",
+      "options": {
+        "optionOneES": "Montañas Azules",
+        "optionOneEN": "Blue Mountains",
+        "answerES": "Montes Olgas",
+        "answerEN": "Olgas",
+        "optionTwoES": "Uluru",
+        "optionTwoEN": "Uluru",
+        "optionThreeES": "Bahía de Sídney",
+        "optionThreeEN": "Sydney Harbour"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10302",
+      "questionES": "¿Cuál es el nombre del arrecife de coral más grande del mundo?",
+      "questionEN": "What is the name of the largest coral reef in the world?",
+      "options": {
+        "optionOneES": "Arrecife de Belice",
+        "optionOneEN": "Belize Barrier Reef",
+        "answerES": "Gran Barrera de Coral",
+        "answerEN": "Great Barrier Reef",
+        "optionTwoES": "Arrecife de las Maldivas",
+        "optionTwoEN": "Maldives Coral Reef",
+        "optionThreeES": "Arrecife de Hawái",
+        "optionThreeEN": "Hawaii Coral Reef"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10303",
+      "questionES": "¿En qué país se encuentra el Parque Nacional Yellowstone?",
+      "questionEN": "In which country is Yellowstone National Park located?",
+      "options": {
+        "optionOneES": "Canadá",
+        "optionOneEN": "Canada",
+        "answerES": "Estados Unidos",
+        "answerEN": "United States",
+        "optionTwoES": "Australia",
+        "optionTwoEN": "Australia",
+        "optionThreeES": "Noruega",
+        "optionThreeEN": "Norway"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10304",
+      "questionES": "¿Cuál es el nombre de la cordillera más larga del mundo?",
+      "questionEN": "What is the name of the longest mountain range in the world?",
+      "options": {
+        "optionOneES": "Himalaya",
+        "optionOneEN": "Himalayas",
+        "answerES": "Andes",
+        "answerEN": "Andes",
+        "optionTwoES": "Alpes",
+        "optionTwoEN": "Alps",
+        "optionThreeES": "Rocas Rocosas",
+        "optionThreeEN": "Rocky Mountains"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10305",
+      "questionES": "¿Cuál es el nombre de la cueva más profunda del mundo?",
+      "questionEN": "What is the name of the deepest cave in the world?",
+      "options": {
+        "optionOneES": "Cueva del Viento",
+        "optionOneEN": "Cave of the Winds",
+        "answerES": "Cueva Voronja",
+        "answerEN": "Voronja Cave",
+        "optionTwoES": "Cueva de las Golondrinas",
+        "optionTwoEN": "Cave of Swallows",
+        "optionThreeES": "Cueva de Postojna",
+        "optionThreeEN": "Postojna Cave"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10306",
+      "questionES": "¿Cuál es el nombre del famoso arco de piedra natural ubicado en Utah, EE. UU.?",
+      "questionEN": "What is the name of the famous natural stone arch located in Utah, USA?",
+      "options": {
+        "optionOneES": "Arco del Diablo",
+        "optionOneEN": "Devil's Arch",
+        "answerES": "Arco Delicado",
+        "answerEN": "Delicate Arch",
+        "optionTwoES": "Arco del Ángel",
+        "optionTwoEN": "Angel's Arch",
+        "optionThreeES": "Arco Doble",
+        "optionThreeEN": "Double Arch"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10307",
+      "questionES": "¿Cuál es el nombre del famoso puente colgante que conecta San Francisco con Marin County?",
+      "questionEN": "What is the name of the famous suspension bridge that connects San Francisco to Marin County?",
+      "options": {
+        "optionOneES": "Puente de Brooklyn",
+        "optionOneEN": "Brooklyn Bridge",
+        "answerES": "Golden Gate",
+        "answerEN": "Golden Gate",
+        "optionTwoES": "Puente de Londres",
+        "optionTwoEN": "Tower Bridge",
+        "optionThreeES": "Puente de Sydney",
+        "optionThreeEN": "Sydney Harbour Bridge"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10308",
+      "questionES": "¿Cuál es el nombre del estadio de fútbol más grande del mundo?",
+      "questionEN": "What is the name of the largest football stadium in the world?",
+      "options": {
+        "optionOneES": "Camp Nou",
+        "optionOneEN": "Camp Nou",
+        "answerES": "Estadio Rungrado May Day",
+        "answerEN": "Rungrado May Day Stadium",
+        "optionTwoES": "Maracaná",
+        "optionTwoEN": "Maracanã",
+        "optionThreeES": "Wembley",
+        "optionThreeEN": "Wembley Stadium"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10309",
+      "questionES": "¿En qué ciudad se encuentra la famosa ópera diseñada por Jørn Utzon?",
+      "questionEN": "In which city is the famous opera house designed by Jørn Utzon located?",
+      "options": {
+        "optionOneES": "Nueva York",
+        "optionOneEN": "New York",
+        "answerES": "Sídney",
+        "answerEN": "Sydney",
+        "optionTwoES": "París",
+        "optionTwoEN": "Paris",
+        "optionThreeES": "Londres",
+        "optionThreeEN": "London"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10310",
+      "questionES": "¿Cuál es el nombre del rascacielos que es conocido por tener forma de pirámide escalonada?",
+      "questionEN": "What is the name of the skyscraper known for its stepped pyramid shape?",
+      "options": {
+        "optionOneES": "Empire State Building",
+        "optionOneEN": "Empire State Building",
+        "answerES": "Torre de Bakú",
+        "answerEN": "Baku Tower",
+        "optionTwoES": "Shard",
+        "optionTwoEN": "The Shard",
+        "optionThreeES": "Petronas Towers",
+        "optionThreeEN": "Petronas Towers"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Medio",
+      "dificultyEN": "Medium"
+    },
+    {
+      "id": "10601",
+      "questionES": "¿Cuál es el nombre del vehículo explorador que aterrizó en Marte en 2012?",
+      "questionEN": "What is the name of the rover that landed on Mars in 2012?",
+      "options": {
+        "optionOneES": "Curiosity",
+        "optionOneEN": "Curiosity",
+        "answerES": "Opportunity",
+        "answerEN": "Opportunity",
+        "optionTwoES": "Spirit",
+        "optionTwoEN": "Spirit",
+        "optionThreeES": "Perseverance",
+        "optionThreeEN": "Perseverance"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10602",
+      "questionES": "¿En qué país se encuentra la torre inclinada de Abu Dhabi?",
+      "questionEN": "In which country is the leaning tower of Abu Dhabi located?",
+      "options": {
+        "optionOneES": "Arabia Saudita",
+        "optionOneEN": "Saudi Arabia",
+        "answerES": "Emiratos Árabes Unidos",
+        "answerEN": "United Arab Emirates",
+        "optionTwoES": "Qatar",
+        "optionTwoEN": "Qatar",
+        "optionThreeES": "Omán",
+        "optionThreeEN": "Oman"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10603",
+      "questionES": "¿Cuál de los siguientes rascacielos es conocido como 'La Aguja'?",
+      "questionEN": "Which of the following skyscrapers is known as 'The Needle'?",
+      "options": {
+        "optionOneES": "Shanghai Tower",
+        "optionOneEN": "Shanghai Tower",
+        "optionTwoES": "Torre Eiffel",
+        "optionTwoEN": "Eiffel Tower",
+        "optionThreeES": "The Shard",
+        "optionThreeEN": "The Shard",
+        "answerES": "Space Needle",
+        "answerEN": "Space Needle"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10604",
+      "questionES": "¿Cuál de las siguientes galaxias es la galaxia más cercana a la Vía Láctea?",
+      "questionEN": "Which of the following galaxies is the closest to the Milky Way?",
+      "options": {
+        "optionOneES": "Alfa Centauri",
+        "optionOneEN": "Alpha Centauri",
+        "optionTwoES": "Galaxia del Sombrero",
+        "optionTwoEN": "Sombrero Galaxy",
+        "optionThreeES": "Galaxia del Triángulo",
+        "optionThreeEN": "Triangulum Galaxy",
+        "answerES": "Galaxia de Andrómeda",
+        "answerEN": "Andromeda Galaxy"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10605",
+      "questionES": "¿Cuál es el nombre de la estrella más cercana al sistema solar?",
+      "questionEN": "What is the name of the closest star to the solar system?",
+      "options": {
+        "optionOneES": "Alfa Centauri",
+        "optionOneEN": "Alpha Centauri",
+        "optionTwoES": "Sirio",
+        "optionTwoEN": "Sirius",
+        "optionThreeES": "Próxima Centauri",
+        "optionThreeEN": "Proxima Centauri",
+        "answerES": "Próxima Centauri",
+        "answerEN": "Proxima Centauri"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10606",
+      "questionES": "¿Cuál es el nombre del telescopio espacial lanzado por la NASA en 1990?",
+      "questionEN": "What is the name of the space telescope launched by NASA in 1990?",
+      "options": {
+        "optionOneES": "Webb",
+        "optionOneEN": "Webb",
+        "optionTwoES": "Spitzer",
+        "optionTwoEN": "Spitzer",
+        "optionThreeES": "Chandra",
+        "optionThreeEN": "Chandra",
+        "answerES": "Hubble",
+        "answerEN": "Hubble"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10607",
+      "questionES": "¿Cuál es el nombre de la sonda espacial que exploró Plutón en 2015?",
+      "questionEN": "What is the name of the space probe that explored Pluto in 2015?",
+      "options": {
+        "optionOneES": "Voyager 1",
+        "optionOneEN": "Voyager 1",
+        "optionTwoES": "Cassini",
+        "optionTwoEN": "Cassini",
+        "optionThreeES": "New Horizons",
+        "optionThreeEN": "New Horizons",
+        "answerES": "New Horizons",
+        "answerEN": "New Horizons"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10608",
+      "questionES": "¿Cuál de las siguientes civilizaciones antiguas desarrolló el primer sistema de escritura conocido como cuneiforme?",
+      "questionEN": "Which of the following ancient civilizations developed the first writing system known as cuneiform?",
+      "options": {
+        "optionOneES": "Civilización Egipcia",
+        "optionOneEN": "Egyptian Civilization",
+        "optionTwoES": "Civilización China",
+        "optionTwoEN": "Chinese Civilization",
+        "optionThreeES": "Civilización Mesopotámica",
+        "optionThreeEN": "Mesopotamian Civilization",
+        "answerES": "Civilización Sumeria",
+        "answerEN": "Sumerian Civilization"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10609",
+      "questionES": "¿Qué antiguo dispositivo mecánico griego, utilizado para predecir posiciones astronómicas, es conocido como la 'computadora analógica antigua'?",
+      "questionEN": "What ancient Greek mechanical device, used to predict astronomical positions, is known as the 'ancient analog computer'?",
+      "options": {
+        "optionOneES": "Astrolabio",
+        "optionOneEN": "Astrolabe",
+        "optionTwoES": "Antikythera",
+        "optionTwoEN": "Antikythera",
+        "optionThreeES": "Ballestilla",
+        "optionThreeEN": "Cross-staff",
+        "answerES": "Mecanismo de Antikythera",
+        "answerEN": "Antikythera Mechanism"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    },
+    {
+      "id": "10610",
+      "questionES": "¿Cuál fue el nombre de la antigua máquina de calcular china que utilizaba bolas en una serie de varillas para representar números?",
+      "questionEN": "What was the name of the ancient Chinese calculating machine that used balls on a series of rods to represent numbers?",
+      "options": {
+        "optionOneES": "Ábaco",
+        "optionOneEN": "Abacus",
+        "optionTwoES": "Escalera de Napier",
+        "optionTwoEN": "Napier's Bones",
+        "optionThreeES": "Bolas de Suanshu",
+        "optionThreeEN": "Suanpan Beads",
+        "answerES": "Bolas de Suanshu",
+        "answerEN": "Suanpan Beads"
+      },
+      "categoryES": "Miscélanea",
+      "categoryEN": "Miscellaneous",
+      "dificultyES": "Difícil",
+      "dificultyEN": "Hard"
+    }
+    ]}   
 ]
