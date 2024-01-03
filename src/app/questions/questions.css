@@ -1,0 +1,19 @@
+main{
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  & .initialQuetions{
+    font-size: 5rem;
+    animation: initialQuetions 1s linear both;
+  }
+  & p{
+    font-size: 5rem;
+  }
+}
+
+@keyframes initialQuetions {
+  0%{font-size: 2rem}
+  80%{font-size: 5rem; opacity: 1}
+  100%{font-size: 5rem; opacity: 0; display: none}
+  
+}

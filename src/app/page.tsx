@@ -68,7 +68,39 @@ export default function Home() {
     }
   }
   // handle Dificulty 
-  const [dificulty, setDificulty] = useState(arrDificulty)
+  
+  const [dificulty, setDificulty] = useState(arrDificulty.filter(dificulty => dificulty.isSelect))
+
+  const handleDificultyPlus = () => {
+      audioClick.play()
+    if (dificulty[0].dificultyES === "Facil") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Medio' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+    if (dificulty[0].dificultyES === "Medio") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Difícil' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+    if (dificulty[0].dificultyES === "Difícil") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Facil' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+  }
+  const handleDificultyLess = () => {
+    audioClick.play()
+    if (dificulty[0].dificultyES === "Facil") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Difícil' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+    if (dificulty[0].dificultyES === "Medio") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Facil' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+    if (dificulty[0].dificultyES === "Difícil") {
+      const newDificulty = arrDificulty.filter(dificulty => dificulty.dificultyES === 'Medio' ? dificulty.isSelect = true : false)
+      setDificulty(newDificulty)
+    }
+  }
 
   return (
     <main>
@@ -90,6 +122,8 @@ export default function Home() {
       handlePlusVolume={handlePlusVolume} 
       handleLessVolume={handleLessVolume}
       dificulty={dificulty}
+      handleDificultyPlus={handleDificultyPlus}
+      handleDificultyLess={handleDificultyLess}
       />}
     </main>
   )

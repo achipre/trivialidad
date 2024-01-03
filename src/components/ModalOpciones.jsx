@@ -9,7 +9,7 @@ import mockupCategories from '@/mockup/categories.json'
 import React, { useState } from "react";
 
 const passionOne = Passion_One({weight: '700', subsets: ['latin']})
-export default function ModalInfo({handleModalOptions, audioClick, language, handleLanguage, handlePlusVolume, handleLessVolume, volume, dificulty}) {
+export default function ModalInfo({handleModalOptions, audioClick, language, handleLanguage, handlePlusVolume, handleLessVolume, volume, dificulty, handleDificultyPlus, handleDificultyLess}) {
   // cancelar cerrar el click
   const handleClick = (e) => {
     e.stopPropagation()
@@ -18,41 +18,6 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
   // Format Volumen
   const formatVolume = volume + "%"
 
-  // Handle Dificulty
-  const [difi, setDifi] = useState(dificulty[0])
-  
-  const handleDificultyPlus = () => {
-    
-    if (difi === dificulty[0]) {
-      audioClick.play()
-      setDifi(dificulty[1])
-    }
-    if (difi === dificulty[1]) {
-      audioClick.play()
-      setDifi(dificulty[2])
-    }
-    if (difi === dificulty[2]) {
-      audioClick.play()
-      setDifi(dificulty[0])
-    }
-  }
-  const handleDificultyLess = () => {
-    if (difi === dificulty[2]) {
-      audioClick.play()
-      setDifi(dificulty[1])
-      
-    }
-    if (difi === dificulty[1]) {
-      audioClick.play()
-      setDifi(dificulty[0])
-    }
-    if (difi === dificulty[0]) {
-      audioClick.play()
-      setDifi(dificulty[2])
-      
-    }
-  }
-  
   // Categories
   const [categories, setCategories] = useState(mockupCategories)
   const handleEvent = (id) => {
@@ -83,7 +48,7 @@ export default function ModalInfo({handleModalOptions, audioClick, language, han
         <div className={`${passionOne.className} optionVolumen`}>
           <p>{language?'Dificultad:':'Dificulty:'}</p>
           <IconArrowLeft handleLeft={handleDificultyLess} />
-          <span>{language? difi.dificultyES : difi.dificultyEN}</span>
+          <span>{language? dificulty[0].dificultyES : dificulty[0].dificultyEN}</span>
           <IconArrowRight handleRight={handleDificultyPlus} />
         </div>
 

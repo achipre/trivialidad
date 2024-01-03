@@ -1,7 +1,19 @@
-import React from 'react'
-
+"use client"
+import React, { useEffect, useState } from 'react'
+import './questions.css'
 export default function questions() {
+  const [count, setCount] = useState(5)
+  useEffect(() => {
+    if (count !== 0) {
+      setInterval(() => {
+        setCount(count - 1)
+      }, 1000);
+    }
+  },[count])
   return (
-    <div>questions</div>
+    <main>
+      <h2 className='initialQuetions'>Las preguntas enpiezan en:</h2>
+      <p>{count}</p>
+    </main>
   )
 }
